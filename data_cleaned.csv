@@ -1,648 +1,648 @@
-﻿Name,Year,Body_Type,Origin,Province,District,Transmission,Fuel_Type,Brand,price_num,mileage_num
-Mercedes-Benz E250,2023,Sedan,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mercedes-Benz,870000000,45000
-Toyota Camry 2.4G,2012,Sedan,Trong nước,Hà Nội,Other,Số tự động,Máy xăng,Toyota,360000000,120000
-Ford Territory Titanium X,2023,SUV,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Ford,770000000,27000
-Mazda CX-5,2022,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,740000000,30000
-Toyota Previa,2010,Van/Minivan,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Toyota,650000000,50000
-Mazda 3 1.5L Sedan,2017,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,396000000,100000
-BMW 640i,2012,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,989000000,38000
-Ford Ranger XLS 2.2 4x2 AT,2017,Other,Trong nước,Phú Thọ,Hạ Hòa,Số tự động,Máy dầu,Ford,450000000,50000
-MG RX5 1.5 LUX,2023,SUV,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy xăng,MG,599000000,28000
-Mercedes-Benz C200,2015,Sedan,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mercedes-Benz,599000000,60000
-MG HS 1.5T Lux,2024,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,MG,599000000,19000
-Mercedes-Benz GLC 300 4Matic,2020,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mercedes-Benz,1459000000,45000
-Toyota Corolla Altis 1.8G CVT,2015,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,445000000,100000
-Mazda CX-5 2.0 Luxury,2023,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,729000000,38000
-Hyundai Tucson 2.0 Đặc biệt,2022,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,795000000,44000
-Kia Sedona 2.2 DATH,2018,MPV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Kia,690000000,81000
-Kia K3 1.6AT,2022,Other,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,555000000,45000
-Audi Q5 2.0 TFSI Quattro,2017,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Audi,995000000,140000
-Ford Ranger XLS 2.2L 4x2 MT,2019,Bán tải,Nhập khẩu,Hà Nội,Cầu Giấy,Số sàn,Máy dầu,Ford,430000000,90000
-Ford Territory 1.5L Ecoboost Titanium,2024,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Ford,860000000,10000
-Ford EcoSport,2016,Other,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Ford,310000000,80000
-Kia K3 1.6AT,2022,Other,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,555000000,45000
-Toyota Land Cruiser VX 4.6 V8,2014,Other,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,1889000000,160000
-Hyundai Starex,2007,MPV,Trong nước,Hà Nội,Hà Đông,Số tự động,Máy dầu,Hyundai,175000000,160000
-Honda HR-V L,2019,Crossover,Nhập khẩu,Vĩnh Phúc,Phúc Yên,Số tự động,Máy xăng,Honda,550000000,87000
-Mercedes-Benz GLC 200 4Matic,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1459000000,58000
-Toyota Fortuner,2018,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Toyota,785000000,70000
-Dongben X30,2017,Van/Minivan,Trong nước,Hà Nội,Đông Anh,Số sàn,Máy xăng,Dongben,115000000,12000
-Mercedes-Benz E200 Exclusive,2020,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1059000000,50000
-Honda Civic 1.5 Turbo RS,2023,Sedan,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Honda,765000000,25000
-Mazda CX-5 2.0 Luxury,2021,SUV,Trong nước,Vĩnh Phúc,Phúc Yên,Số tự động,Máy xăng,Mazda,710000000,80000
-Hyundai Porter II,2015,Xe tải,Nhập khẩu,Hà Nội,Đông Anh,Số sàn,Máy dầu,Hyundai,365000000,10000
-Hyundai Starex 2.5 MT,2009,Van/Minivan,Nhập khẩu,Hà Nội,Hà Đông,Số sàn,Máy dầu,Hyundai,225000000,140000
-Peugeot 3008 Allure,2021,SUV,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Peugeot,735000000,40000
-Mercedes-Benz V250 Luxury,2019,MPV,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1558000000,42000
-Mercedes-Benz GLC 300 4Matic V1,2022,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1938000000,8600
-Mercedes-Benz E200 Exclusive,2020,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1059000000,50000
-Porsche Cayenne ,2014,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Porsche,1239000000,93000
-MG ZS STD+,2023,Crossover,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy xăng,MG,390000000,43000
-MG 5 1.5L MT,2023,Sedan,Trong nước,Tp.HCM,Bình Tân,Số sàn,Máy xăng,MG,299000000,40000
-Mercedes-Benz E300 AMG,2021,Other,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1858000000,21000
-Mazda CX-8 Luxury,2020,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mazda,799000000,15000
-Mitsubishi Attrage 1.2L MT,2023,Sedan,Trong nước,Vĩnh Phúc,Phúc Yên,Số sàn,Máy xăng,Mitsubishi,305000000,83000
-Hyundai Accent 1.4 AT,2022,Sedan,Trong nước,Vĩnh Phúc,Phúc Yên,Số tự động,Máy xăng,Hyundai,425000000,92000
-Hyundai Starex 2.4 MT,2014,Van/Minivan,Nhập khẩu,Hà Nội,Hà Đông,Số sàn,Máy xăng,Hyundai,425000000,140000
-Hyundai Stargazer 1.5 AT Cao cấp,2022,MPV,Trong nước,Vĩnh Phúc,Phúc Yên,Số tự động,Máy xăng,Hyundai,510000000,70000
-Audi Q2,2018,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Audi,878000000,66000
-Toyota Rush 1.5 AT,2021,SUV,Nhập khẩu,Vĩnh Phúc,Phúc Yên,Số tự động,Máy xăng,Toyota,525000000,69000
-Hyundai Starex 2.5 MT,2008,Van/Minivan,Nhập khẩu,Hà Nội,Hà Đông,Số sàn,Máy dầu,Hyundai,295000000,160000
-Mercedes-Benz GLC 200 4Matic,2021,Other,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1558000000,26000
-Toyota Fortuner 2.7 V 4X2 AT,2017,SUV,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Toyota,685000000,60000
-Kia Carnival 2.2D Signature,2024,MPV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy dầu,Kia,1599000000,6000
-MG ZS 1.5L LUX+,2025,Crossover,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy xăng,MG,500000000,2000
-Toyota Fortuner 2.7 V 4X2 AT,2017,SUV,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Toyota,685000000,100000
-Kia Morning AT,2010,Hatchback,Trong nước,Hà Nội,Hà Đông,Số tự động,Máy xăng,Kia,95000000,120000
-Hyundai Grand Starex 2.4 MT,2008,Van/Minivan,Nhập khẩu,Hà Nội,Đông Anh,Số sàn,Máy dầu,Hyundai,250000000,12000
-Honda Civic 1.5 Turbo RS,2019,Sedan,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Honda,590000000,38000
-Toyota Hiace 2.8 MT,2009,Van/Minivan,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy dầu,Toyota,265000000,140000
-Mercedes-Benz GLC 300 4Matic,2019,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1099000000,83000
-Toyota Fortuner 2.4G 4x2 AT ,2022,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy dầu,Toyota,945000000,30000
-Mini John Cooper Works Convertible,2021,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mini,2099000000,13333
-Ford Escape,2012,SUV,Trong nước,Hà Nội,Other,Số tự động,Máy xăng,Ford,270000000,120000
-Toyota Veloz Cross 1.5 CVT TOP,2023,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Toyota,620000000,20000
-BMW X5 xDrive40i,2019,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,2199000000,65000
-Honda Civic 1.8 E,2018,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Honda,485000000,110000
-Kia Soluto AT Luxury,2022,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Kia,405000000,30000
-Ford Fiesta Sport 1.5L AT,2014,Hatchback,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Ford,265000000,110000
-Toyota Fortuner 2.7V TRD 4x2,2016,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Toyota,500000000,100000
-Kia Sonet 1.5 Premium,2022,Crossover,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Kia,550000000,86000
-VinFast Fadil Nâng Cao,2019,Hatchback,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,VinFast,310000000,40000
-VinFast LUX SA2.0 Nâng cao,2021,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,VinFast,730000000,50000
-Toyota Innova 2.0G,2021,MPV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Toyota,675000000,67000
-Hyundai Elantra,2016,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Hyundai,385000000,127000
-Kia Optima 2.0 AT,2013,Sedan,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Kia,430000000,72000
-Honda HR-V L,2018,SUV,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Honda,520000000,78797
-Ford Mustang,2018,Sport Car,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Ford,1990000000,38000
-Chevrolet Cruze LT 1.6,2017,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Chevrolet,255000000,130000
-Ford Fiesta 1.5AT Titanium,2016,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Ford,290000000,110000
-Peugeot 2008 GT Line,2022,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Peugeot,680000000,48000
-Peugeot 5008 Allure,2018,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Peugeot,650000000,49219
-Hyundai Elantra   2.0 AT,2018,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Hyundai,445000000,52000
-Kia Sorento 2.4AT,2018,MPV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Kia,540000000,43000
-Hyundai Genesis,2010,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Hyundai,350000000,98000
-Hyundai Elantra Sport 1.6,2020,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Hyundai,520000000,56000
-Suzuki Ciaz 1.4 AT,2019,Sedan,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Suzuki,345000000,72000
-Ford EcoSport Titanium 1.5L AT,2017,Other,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Ford,365000000,80000
-Hyundai Santa Fe 2.4L Xăng Đặc biệt,2018,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Hyundai,690000000,84000
-Kia K3 2.0AT,2014,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Kia,340000000,120000
-Mercedes-Benz C200,2014,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Mercedes-Benz,580000000,76000
-Citroen DS3,2011,Coupe,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Citroen,299000000,110000
-Nissan Navara 2.5 MT,2015,Bán tải,Nhập khẩu,Hà Nội,Đông Anh,Số sàn,Máy dầu,Nissan,315000000,10000
-Hyundai Tucson 2.0 Dầu đặc biệt,2019,Crossover,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Hyundai,675000000,93000
-Peugeot 3008,2022,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Peugeot,725000000,22000
-Kia K3 2.0 Premium,2016,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Kia,358000000,80000
-Hyundai Santa Fe 2.4L Xăng Cao cấp,2020,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,795000000,80000
-Mazda 3 2.0L Sedan,2017,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,396000000,60000
-Ford Ranger,2017,Bán tải,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Ford,575000000,90000
-Hyundai i20 1.4 AT,2015,Hatchback,Nhập khẩu,Phú Thọ,Hạ Hòa,Số tự động,Máy xăng,Hyundai,345000000,110000
-Hyundai Grand i10 Sedan 1.2 MT,2016,Sedan,Nhập khẩu,Hà Nội,Quốc Oai,Số sàn,Máy xăng,Hyundai,168000000,120000
-Hyundai Santa Fe 2.4L Xăng Đặc biệt,2015,SUV,Trong nước,Hà Nội,Other,Số tự động,Máy xăng,Hyundai,568000000,120000
-Hyundai Grand i10 Sedan 1.2 MT,2020,Sedan,Trong nước,Hà Nội,Quốc Oai,Số sàn,Máy xăng,Hyundai,248000000,88000
-Ford Ranger Wildtrak 3.2 4x4 AT,2016,Bán tải,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Ford,520000000,100000
-Mercedes-Benz E250,2017,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,899000000,40000
-Mazda CX-5,2017,SUV,Trong nước,Hà Nội,Other,Số tự động,Máy xăng,Mazda,530000000,74000
-Hyundai Grand Starex 2.4 MT,2011,Van/Minivan,Nhập khẩu,Hà Nội,Đông Anh,Số sàn,Máy dầu,Hyundai,315000000,10000
-Mercedes-Benz S450 4Matic Luxury,2017,Sedan,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,1860000000,110000
-Hyundai Elantra   2.0 AT,2021,Other,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,535000000,30000
-Ford Everest,2020,Other,Trong nước,Hà Nội,Other,Số tự động,Máy xăng,Ford,860000000,8200
-Ford Ranger,2019,Other,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Ford,525000000,80000
-Toyota Innova 2.0G,2009,MPV,Trong nước,Bình Dương,Thuận An,Số sàn,Máy xăng,Toyota,210000000,120000
-Toyota Vios 1.5 G CVT,2021,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,445000000,67000
-Mazda CX-8 Premium,2021,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,845000000,45000
-Kia Sorento 2.2D Premium AWD,2016,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Kia,499000000,100000
-Toyota Vios 1.5G AT,2019,Sedan,Trong nước,Hà Nội,Quốc Oai,Số tự động,Máy xăng,Toyota,398000000,70000
-Mazda 3 Sedan 1.5L Deluxe,2022,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,499000000,42000
-Kia Morning LX 1.25 MT,2014,Hatchback,Trong nước,Hà Nội,Quốc Oai,Số sàn,Máy xăng,Kia,145000000,120000
-Ford Ranger XLS 2.0L 4x2 AT,2016,Bán tải,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Ford,420000000,70000
-BMW 520i Luxury Line,2020,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,1399000000,48888
-Toyota Vios 1.5G AT,2019,Sedan,Trong nước,Hà Nội,Quốc Oai,Số tự động,Máy xăng,Toyota,405000000,70000
-Mazda CX-30 2.0L Premium,2022,Crossover,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Mazda,666000000,80000
-Toyota Vios 1.5 E CVT,2021,Sedan,Trong nước,Phú Thọ,Hạ Hòa,Số tự động,Máy xăng,Toyota,399000000,68000
-Kia Seltos 1.4 Luxury,2023,SUV,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Kia,630000000,32000
-Mazda 3,2017,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,425000000,100000
-Honda HR-V L,2019,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Honda,569000000,21689
-Mitsubishi Xpander 1.5 MT,2020,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số sàn,Máy xăng,Mitsubishi,395000000,81289
-Hyundai Santa Fe 2.2L Dầu Cao cấp,2021,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy dầu,Hyundai,1085000000,72689
-Hyundai Santa Fe 2.4L Xăng Cao cấp,2016,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Hyundai,585000000,85689
-Mazda 3 1.5 Hatchback,2017,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,425000000,110000
-Kia Seltos 1.4 Luxury,2021,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Kia,565000000,50000
-Mazda 3 1.5 Hatchback,2017,Hatchback,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,425000000,81829
-Mazda 3 2.0L Sedan,2016,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,379000000,100000
-Mazda 3 1.5L Sedan,2019,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,465000000,65689
-Kia Cerato 1.6 AT Luxury,2018,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Kia,405000000,65689
-MG 5 1.5L Luxury,2022,Sedan,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,MG,415000000,39899
-Mazda 3 Sedan 1.5L Luxury,2019,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,465000000,67899
-Mazda CX-5 2.5L Luxury,2018,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,599000000,85680
-Mazda CX-5 2.5L Luxury,2017,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,515000000,96896
-VinFast LUX A2.0 Cao cấp,2019,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,VinFast,535000000,67899
-Kia Sonet 1.5 Premium,2022,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Kia,535000000,45689
-Peugeot 3008 GT,2022,Other,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Peugeot,855000000,57000
-Mitsubishi Xpander Cross 1.5 AT,2024,Other,Trong nước,Phú Thọ,Hạ Hòa,Số tự động,Máy xăng,Mitsubishi,625000000,20000
-Hyundai Tucson 1.6 Turbo HTRAC,2019,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,700000000,70000
-Ford Ranger Wildtrak 3.2 4x4 AT,2016,Other,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Ford,530000000,12000
-Toyota Corolla Cross 1.8 V ,2021,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,705000000,30000
-Kia Morning Si 1.25 MT,2018,Hatchback,Trong nước,Phú Thọ,Hạ Hòa,Số sàn,Máy xăng,Kia,213000000,110000
-Hyundai Grand i10 Hatchback 1.2 AT,2020,Hatchback,Trong nước,Hà Nội,Quốc Oai,Số tự động,Máy xăng,Hyundai,338000000,56000
-Mazda CX-8,2023,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,850000000,45000
-Mercedes-Benz GLC 300 4Matic,2021,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1699000000,49000
-Hyundai Accent 1.4 AT Đặc biệt,2023,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,445000000,47000
-Hyundai Elantra 1.6 AT Đặc biệt,2017,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,380000000,110000
-Mercedes-Benz GLK 250 4Matic,2014,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,540000000,110000
-Suzuki Swift 1.4 AT,2016,Hatchback,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Suzuki,270000000,80000
-Mazda CX-8 Premium,2021,SUV,Nhập khẩu,Tp.HCM,Bình Thạnh,Số tự động,Máy xăng,Mazda,810000000,48000
-BMW 530i M Sport,2022,Sedan,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,BMW,2099000000,38000
-Toyota Fortuner 2.7 V 4X4 AT,2015,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,490000000,90000
-Honda CR-V L AWD,2016,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Honda,540000000,110000
-Mazda 3 1.5L Sedan,2017,Sedan,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Mazda,385000000,80000
-Volkswagen Tiguan 2.0AT,2011,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Volkswagen,330000000,160000
-Mercedes-Benz E250 E250,2017,Sedan,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mercedes-Benz,870000000,72000
-Mercedes-Benz E300 AMG,2021,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1899000000,33333
-Ford Everest Titanium 2.0 AT 4x2,2020,SUV,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Ford,860000000,80000
-Kia Cerato 1.6 AT Luxury,2020,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,485000000,79000
-Mercedes-Benz E250 E250,2017,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mercedes-Benz,885000000,72000
-Hyundai Sonata 2.0L-6AT,2009,Sedan,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Hyundai,219000000,120000
-Hyundai Creta 1.5L Đặc biệt,2023,Crossover,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Hyundai,635000000,10000
-Mitsubishi Outlander,2023,SUV,Trong nước,Hà Nội,Other,Số tự động,Máy xăng,Mitsubishi,820000000,35000
-Toyota Corolla Altis 1.8 G,2018,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,515000000,93000
-Mitsubishi Xpander 1.5 AT ,2018,MPV,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Mitsubishi,415000000,80000
-Honda City RS,2023,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Honda,499000000,58000
-Hyundai Accent 1.4 AT,2021,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Hyundai,425000000,50000
-Mercedes-Benz C300 AMG,2022,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1869000000,18888
-Mazda 2 1.5AT,2021,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,365000000,35000
-Mitsubishi Outlander,2023,SUV,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mitsubishi,820000000,38000
-Hyundai Santa Fe 2.4L Xăng Cao cấp,2015,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,545000000,120000
-Ford Everest 2.5 MT,2019,SUV,Nhập khẩu,Bình Phước,Đồng Phú,Số sàn,Máy dầu,Ford,695000000,87000
-Hyundai Santa Fe,2015,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,560000000,120000
-Toyota Corolla Altis 1.8 G,2014,Sedan,Trong nước,Hưng Yên,Khoái Châu,Số tự động,Máy xăng,Toyota,400000000,100000
-Kia Morning Si 1.25 MT,2017,Hatchback,Trong nước,Hưng Yên,Khoái Châu,Số sàn,Máy xăng,Kia,200000000,10000
-Hyundai Grand i10 Sedan 1.2 MT,2016,Sedan,Nhập khẩu,Hưng Yên,Khoái Châu,Số sàn,Máy xăng,Hyundai,175000000,175
-Hyundai i30 CW 1.6 AT,2009,Hatchback,Nhập khẩu,Hưng Yên,Khoái Châu,Số tự động,Máy xăng,Hyundai,230000000,86000
-Kia Morning EX 1.25 MT,2016,Hatchback,Trong nước,Hưng Yên,Khoái Châu,Số sàn,Máy xăng,Kia,160000000,135000
-Kia Carens S 2.0 AT,2010,MPV,Trong nước,Hưng Yên,Khoái Châu,Số tự động,Máy xăng,Kia,205000000,140000
-Hyundai Grand i10 Sedan 1.2 MT,2018,Sedan,Trong nước,Hưng Yên,Khoái Châu,Số sàn,Máy xăng,Hyundai,235000000,130000
-Nissan Teana 2.0 AT,2011,Sedan,Nhập khẩu,Hưng Yên,Khoái Châu,Số tự động,Máy xăng,Nissan,270000000,120000
-Toyota Camry,2011,Sedan,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Toyota,340000000,120000
-Hyundai Creta 1.5L Đặc biệt,2023,Other,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,610000000,38000
-Mazda CX-8 Premium,2021,SUV,Nhập khẩu,Tp.HCM,Bình Thạnh,Số tự động,Máy xăng,Mazda,810000000,48000
-Hyundai Accent 1.4 AT,2021,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Hyundai,386000000,60000
-BMW 330i M Sport,2024,Other,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,BMW,1699000000,10000
-Ford Ranger,2016,Bán tải,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Ford,505000000,100000
-Kia Sedona 3.3 GAT,2016,MPV,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Kia,515000000,80000
-Kia Cerato 1.6 AT Luxury,2020,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,470000000,79000
-Mitsubishi Triton 4×4 AT MIVEC PREMIUM,2021,Bán tải,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Mitsubishi,630000000,80000
-Ford Ranger Wildtrak 3.2 4x4 AT,2016,Bán tải,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Ford,520000000,100000
-Honda City 1.5 L,2021,Sedan,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Honda,435000000,65000
-Hyundai Tucson 2.0 Tiêu chuẩn,2020,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,630000000,46000
-Ford Focus S 2.0AT,2014,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Ford,285000000,140000
-Kia Cerato 1.6 MT,2018,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số sàn,Máy xăng,Kia,295000000,80000
-Mitsubishi Triton 4×2 AT MIVEC,2021,Bán tải,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy dầu,Mitsubishi,525000000,78000
-Mercedes-Benz GLC 200,2019,SUV,Trong nước,Hà Nội,Ba Đình,Số tự động,Máy xăng,Mercedes-Benz,999000000,60000
-Toyota Vios 1.5 G CVT,2022,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Toyota,445000000,61000
-Kia Seltos 1.4T Premium,2023,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Kia,655000000,14000
-Mercedes-Benz V250 Luxury,2019,MPV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1559000000,42000
-Suzuki Swift GLX 1.2 CVT,2021,Hatchback,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Suzuki,450000000,11000
-BMW 330i M Sport,2023,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,1779000000,11000
-Mercedes-Benz E200 E200,2019,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1199000000,23000
-Toyota Vios 1.5 E CVT,2021,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Toyota,445000000,44500
-Ford Territory Titanium X,2023,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Ford,815000000,24000
-Mercedes-Benz GLC 300 4Matic V1,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1759000000,52000
-BMW X3,2024,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,2159000000,800
-Hyundai Tucson 2.0 Dầu Cao cấp,2023,SUV,Trong nước,Hà Nội,Hoàn Kiếm,Số tự động,Máy dầu,Hyundai,835000000,28000
-Hyundai Creta 1.5L Đặc biệt,2024,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Hyundai,625000000,10000
-Mitsubishi Pajero Sport D 4x2 AT,2022,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Mitsubishi,899000000,60000
-Mercedes-Benz GLC 200 V1,2022,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1438000000,39000
-Chevrolet Spark 1.2 mt,2018,Hatchback,Trong nước,Hà Nội,Thanh Xuân,Số sàn,Máy xăng,Chevrolet,144000000,150000
-Kia Seltos 1.5L PREMIUM,2024,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,748000000,4500
-Hyundai Accent 1.4 AT Đặc biệt,2018,Sedan,Trong nước,Hải Phòng,An Lão,Số tự động,Máy xăng,Hyundai,365000000,80000
-Kia Cerato 1.6 MT,2017,Other,Trong nước,Hải Phòng,An Lão,Số sàn,Máy xăng,Kia,325000000,83901
-Hyundai Accent 1.4 AT,2012,Other,Nhập khẩu,Hải Phòng,An Lão,Số tự động,Máy xăng,Hyundai,248000000,120000
-Hyundai Santa Fe 2.4L Xăng Tiêu chuẩn,2020,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,790000000,37000
-Kia Seltos 1.6 Premium,2021,Van/Minivan,Trong nước,Tp.HCM,Quận 10,Số tự động,Máy xăng,Kia,555000000,39000
-Toyota Sienna Limited 3.5 AT AWD,2016,MPV,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Toyota,1850000000,76000
-Porsche Macan 2.0,2017,SUV,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Porsche,1650000000,38000
-Ford Ranger Wildtrak 3.2 4x4 AT,2017,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,605000000,90000
-Hyundai Santa Fe 2.5 Xăng Cao cấp,2024,SUV,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Hyundai,1190000000,13000
-Lexus IS 250C,2011,Convertible,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Lexus,1120000000,29000
-Mercedes-Benz S450L,2019,Sedan,Nhập khẩu,Tp.HCM,Gò Vấp,Số tự động,Máy xăng,Mercedes-Benz,2100000000,28000
-Lexus ES 250,2021,Sedan,Nhập khẩu,Tp.HCM,Gò Vấp,Số tự động,Máy xăng,Lexus,2050000000,29000
-Ford EcoSport Titanium 1.0L AT,2016,Other,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Ford,325000000,40000
-Mercedes-Benz C200 Exclusive,2019,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Mercedes-Benz,885000000,65000
-Toyota Camry 2.5Q,2019,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,785000000,65000
-Mercedes-Benz C200 2.0 AT,2016,Sedan,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,638000000,106000
-Kia Carnival 2.2D Luxury,2022,MPV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Kia,1015000000,11000
-Ford Fiesta 1.6 AT,2012,Hatchback,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,285000000,37000
-Mercedes-Benz S450 4Matic Luxury,2017,Sedan,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mercedes-Benz,1950000000,60000
-Ford Ranger Wildtrak 2.0L 4x4 AT,2019,Bán tải,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy dầu,Ford,599000000,110000
-Honda CR-V 1.5 L,2019,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Honda,750000000,89000
-Honda CR-V 1.5 G,2020,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Honda,775000000,65000
-Mercedes-Benz S450L 4Matic,2018,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mercedes-Benz,1890000000,98000
-Volkswagen Teramont X,2022,Other,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Volkswagen,1738000000,10000
-Mercedes-Benz GLC 300 4Matic V1,2022,Other,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1758000000,52000
-Ford Everest 2.0L ST5 10AT 4x4 Titanium,2022,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,1330000000,29000
-Ford Everest Sport 2.0 AT 4x2,2021,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,880000000,61000
-Ford Escape 2.3L XLS,2012,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,288000000,80000
-Hyundai Grand i10,2014,Hatchback,Nhập khẩu,Nghệ An,Vinh,Số sàn,Máy xăng,Hyundai,119000000,110000
-Hyundai Accent 1.4 CVT Blue,2015,Sedan,Nhập khẩu,Quảng Bình,Đồng Hới,Số tự động,Máy xăng,Hyundai,295000000,84000
-Hyundai Accent 1.4 CVT Blue,2015,Sedan,Nhập khẩu,Hà Tĩnh,Hà Tĩnh,Số tự động,Máy xăng,Hyundai,295000000,84000
-Daewoo Lacetti EX 1.6,2009,Sedan,Trong nước,Nghệ An,Vinh,Số sàn,Máy xăng,Daewoo,75000000,98000
-Hyundai Grand i10,2016,Hatchback,Nhập khẩu,Nghệ An,Vinh,Số sàn,Máy xăng,Hyundai,158000000,120000
-Kia Morning 1.25 MT,2020,Hatchback,Trong nước,Hà Tĩnh,Hà Tĩnh,Số sàn,Máy xăng,Kia,200000000,68000
-Ford Ranger Wildtrak 2.0L 4x4 AT,2019,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,670000000,89000
-Ford Ranger Raptor,2019,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,965000000,57000
-VinFast VF e34 Tiêu chuẩn,2022,Crossover,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Điện,VinFast,500000000,39000
-Mitsubishi Outlander 2.0 CVT Premium,2023,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mitsubishi,830000000,1
-Mercedes-Benz C200 2.0 AT,2017,Sedan,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mercedes-Benz,630000000,1
-Hyundai Tucson 2.0 Đặc biệt,2023,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Hyundai,835000000,29486
-Hyundai Accent 1.5 AT cao cấp,2024,Sedan,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Hyundai,555000000,5000
-Mitsubishi Outlander 2.0 CVT,2022,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mitsubishi,725000000,1
-Mitsubishi Outlander 2.0 CVT,2021,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mitsubishi,650000000,1
-Lexus GX 470,2007,Other,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Lexus,650000000,162000
-VinFast LUX A2.0 Cao cấp,2020,Other,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,VinFast,585000000,76000
-Kia Sorento,2018,Other,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Kia,550000000,86000
-Lexus RX 200T T,2016,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Lexus,1700000000,80000
-Mercedes-Benz E180 V1,2022,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,1545000000,5888
-Mercedes-Benz GLC 300 4Matic,2018,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,1080000000,80000
-Mercedes-Benz C200 Avantgarde Plus,2022,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,1415000000,10000
-Toyota Vios 1.5E MT,2018,Sedan,Trong nước,Bình Dương,Thuận An,Số sàn,Máy xăng,Toyota,275000000,89000
-Kia Soluto MT,2020,Other,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Kia,279000000,70000
-Hyundai Accent 1.4 MT,2020,Sedan,Trong nước,Bình Dương,Thuận An,Số sàn,Máy xăng,Hyundai,340000000,32000
-Kia Cerato 1.6 AT Luxury,2020,Sedan,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Kia,488000000,80000
-Hyundai Creta 1.5L Tiêu chuẩn,2022,SUV,Nhập khẩu,Hải Phòng,Kiến An,Số tự động,Máy xăng,Hyundai,535000000,45000
-Kia Sportage 2.0D Signature,2022,SUV,Trong nước,Phú Thọ,Đoan Hùng,Số tự động,Máy dầu,Kia,855000000,50000
-Hyundai Santa Fe 2.2 Dầu Đặc biệt,2022,SUV,Trong nước,Phú Thọ,Đoan Hùng,Số tự động,Máy dầu,Hyundai,1160000000,58000
-Kia Morning GT-LINE,2022,Hatchback,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Kia,369000000,10000
-Kia Sorento 2WD 2.2 DATH,2018,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy dầu,Kia,645000000,90000
-Ford Everest Titanium 2.0 AT 4x2,2018,SUV,Nhập khẩu,Tp.HCM,Tân Bình,Số tự động,Máy dầu,Ford,828000000,60000
-Mercedes-Benz GLC 200 V1,2022,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1439000000,24000
-Mercedes-Benz C300 AMG,2022,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1839000000,26000
-Mitsubishi Xpander 1.5 AT ,2022,MPV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mitsubishi,499000000,50000
-Mazda CX-5 2.5L Signature Premium 2WD,2020,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,695000000,61000
-Toyota Land Cruiser Prado TX-L,2019,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,1969000000,89000
-Kia Carnival 2.2D Signature,2022,MPV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Kia,1230000000,29000
-Hyundai Elantra 1.6 AT Đặc biệt,2023,Sedan,Trong nước,Bình Dương,Dĩ An,Số tự động,Máy xăng,Hyundai,549000000,39000
-Suzuki Ertiga 1.5L Sport AT,2021,MPV,Trong nước,Bình Dương,Dĩ An,Số tự động,Máy xăng,Suzuki,419000000,52000
-VinFast VF5 Plus,2024,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Điện,VinFast,455000000,5000
-VinFast VF e34 Tiêu chuẩn,2022,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Điện,VinFast,500000000,39000
-Ford EcoSport Ambiente 1.5L AT,2018,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,386000000,70000
-BMW X6 xDrive35i,2008,SUV,Nhập khẩu,Phú Thọ,Đoan Hùng,Số tự động,Máy xăng,BMW,380000000,150000
-Hyundai Accent 1.4 MT,2019,Sedan,Trong nước,Bình Dương,Dĩ An,Số sàn,Máy xăng,Hyundai,299000000,71000
-Kia Morning S 1.25 AT,2019,Hatchback,Trong nước,Bình Dương,Dĩ An,Số tự động,Máy xăng,Kia,285000000,69000
-Mazda CX-8 Deluxe,2020,SUV,Trong nước,Bình Dương,Dĩ An,Số tự động,Máy xăng,Mazda,699000000,82000
-Toyota Vios 1.5G AT,2016,Sedan,Trong nước,Bình Dương,Dĩ An,Số tự động,Máy xăng,Toyota,309000000,72000
-Audi TT S-line,2017,Sport Car,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Audi,1450000000,34000
-Mercedes-Benz V250 Luxury,2020,MPV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mercedes-Benz,1500000000,52000
-Mazda CX-5,2023,SUV,Trong nước,Đồng Nai,Biên Hòa,Số tự động,Máy xăng,Mazda,740000000,15000
-Ford Ranger XLT 2.0 4x4 AT,2019,Bán tải,Nhập khẩu,Đồng Nai,Biên Hòa,Số tự động,Máy dầu,Ford,575000000,105000
-Mazda 6 2.5 Premium,2020,Sedan,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mazda,648000000,65000
-Ford EcoSport Titanium 1.5L AT,2020,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Ford,450000000,67000
-Mercedes-Benz S400 3.0 V6,2015,Sedan,Nhập khẩu,Tp.HCM,Quận 12,Số tự động,Máy xăng,Mercedes-Benz,1250000000,63000
-Ford Ranger Raptor,2021,Bán tải,Nhập khẩu,Đồng Nai,Biên Hòa,Số tự động,Máy dầu,Ford,960000000,65000
-Toyota Vios 1.5E MT,2022,Sedan,Trong nước,Tp.HCM,Quận 12,Số sàn,Máy xăng,Toyota,380000000,52000
-Toyota Veloz Cross 1.5 CVT TOP,2022,MPV,Nhập khẩu,Long An,Tân An,Số tự động,Máy xăng,Toyota,555000000,77000
-Hyundai Elantra 1.6 AT Đặc biệt,2024,Sedan,Trong nước,Long An,Tân An,Số tự động,Máy xăng,Hyundai,599000000,14000
-Ford Transit Tiêu chuẩn,2009,Van/Minivan,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy dầu,Ford,195000000,160000
-Ford Ranger,2016,Bán tải,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy dầu,Ford,325000000,150000
-Nissan Navara 2.5 MT,2016,Bán tải,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy dầu,Nissan,345000000,140000
-Ford Ranger XLS 2.0L 4x2 AT,2021,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,578000000,30000
-Ford Transit Medium,2019,Van/Minivan,Trong nước,Tp.HCM,Tân Phú,Số sàn,Máy dầu,Ford,545000000,68000
-Mercedes-Benz GLC 250 4Matic,2017,SUV,Nhập khẩu,Hải Phòng,Kiến An,Số tự động,Máy xăng,Mercedes-Benz,820000000,94000
-VinFast LUX A2.0 Tiêu chuẩn,2022,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,VinFast,559000000,55000
-Honda Civic 1.5 Turbo RS,2022,Sedan,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Honda,735000000,35000
-VinFast Fadil Tiêu Chuẩn,2022,Hatchback,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,VinFast,340000000,50000
-Hyundai Accent 1.4 AT,2022,Sedan,Trong nước,Hải Phòng,Kiến An,Số tự động,Máy xăng,Hyundai,440000000,42000
-Kia Carnival 2.2D Luxury,2021,MPV,Trong nước,Tp.HCM,Quận 12,Số tự động,Máy dầu,Kia,1030000000,31000
-Mazda CX-5 2.0 Luxury,2024,SUV,Trong nước,Thái Nguyên,Thái Nguyên,Số tự động,Máy xăng,Mazda,765000000,4000
-Ford Ranger Wildtrak 3.2 4x4 AT,2017,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,605000000,70000
-Lexus IS 300 F-Sport,2021,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Lexus,1689000000,55555
-Kia Carnival 3.5G Signature,2023,MPV,Trong nước,Hà Nội,Đống Đa,Số tự động,Máy xăng,Kia,1230000000,69000
-Mercedes-Benz GLC 200,2019,SUV,Trong nước,Hà Nội,Ba Đình,Số tự động,Máy xăng,Mercedes-Benz,999000000,60000
-Volkswagen Viloran Luxury,2023,MPV,Nhập khẩu,Hà Nội,Ba Đình,Số tự động,Máy xăng,Volkswagen,2050000000,35000
-Kia Sonet 1.5 Premium,2024,Crossover,Trong nước,Hà Nội,Ba Đình,Số tự động,Máy xăng,Kia,598000000,19000
-Ford EcoSport Titanium 1.5L AT,2021,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Ford,448000000,30000
-Mazda CX-5 2.0 Premium,2022,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,719000000,60000
-Kia Sportage 1.6 T Signature X-line AWD,2022,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,865000000,27000
-Mercedes-Benz CLA 250 4Matic,2015,Sedan,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Mercedes-Benz,568000000,70000
-Mercedes-Benz C200 2.0 AT,2016,Sedan,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Mercedes-Benz,615000000,112000
-Hyundai Venue 1.0 T-GDi Đặc biệt ,2023,Hatchback,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Hyundai,536000000,18000
-Ford Ranger Raptor,2022,Other,Nhập khẩu,Long An,Tân An,Số tự động,Máy dầu,Ford,949000000,56000
-Hyundai Grand i10 Hatchback 1.2 AT,2019,Hatchback,Trong nước,Tp.HCM,Quận 12,Số tự động,Máy xăng,Hyundai,300000000,88000
-Mazda CX-5 2.0L Premium Sport ,2023,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mazda,798000000,14000
-BMW 320i Sport Line,2023,Sedan,Nhập khẩu,Tp.HCM,Gò Vấp,Số tự động,Máy xăng,BMW,1369000000,35000
-Kia K3,2023,Sedan,Trong nước,Thái Nguyên,Thái Nguyên,Số tự động,Máy xăng,Kia,640000000,8000
-Kia Sonet 1.5 Premium,2022,Crossover,Trong nước,Thái Nguyên,Thái Nguyên,Số tự động,Máy xăng,Kia,545000000,53000
-Hyundai Tucson,2015,SUV,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Hyundai,530000000,88000
-Ford Everest Trend 2.0 AT 4x2,2019,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Ford,750000000,79000
-Mercedes-Benz C300 AMG,2022,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1789000000,16666
-Mazda 6 2.5L Signature Premium,2022,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Mazda,750000000,48843
-Toyota Raize,2023,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Toyota,495000000,15000
-Honda Civic 1.8 AT,2019,Sedan,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Honda,559000000,68000
-Kia Seltos 1.4 Deluxe,2022,Crossover,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,558000000,29000
-Hyundai Santa Fe 2.4L Xăng Cao cấp,2015,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,558000000,77000
-Peugeot 5008 1.6L Turbo,2021,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Peugeot,614000000,85471
-FAW Xe đầu kéo,2021,Xe tải,Nhập khẩu,Hà Nội,Cầu Giấy,Số sàn,Máy dầu,FAW,880000000,205258
-Toyota Fortuner 2.4 AT 4x2 Legender,2024,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy dầu,Toyota,1169000000,12000
-Ford Everest 2.0L ST5 6AT 2WD Titanium,2020,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Ford,856000000,85000
-Toyota Fortuner,2020,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Toyota,829000000,102000
-Kia Carnival 2.2D Signature,2023,MPV,Trong nước,Bắc Ninh,Bắc Ninh,Số tự động,Máy dầu,Kia,1275000000,30000
-Toyota Land Cruiser VX 4.6 V8,2013,SUV,Nhập khẩu,Hà Nội,Đống Đa,Số tự động,Máy xăng,Toyota,1790000000,130000
-Honda Jazz VX,2019,Hatchback,Nhập khẩu,Hà Nội,Đống Đa,Số tự động,Máy xăng,Honda,389000000,56000
-Hyundai Grand i10 Sedan 1.2 MT,2018,Sedan,Trong nước,Hưng Yên,Khoái Châu,Số sàn,Máy xăng,Hyundai,235000000,130000
-Mercedes-Benz GLC 200 4Matic,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1679000000,28888
-Ford Ranger Wildtrak 2.0L 4x4 AT,2019,Bán tải,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy dầu,Ford,530000000,87000
-Honda City 1.5 G,2022,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Honda,429000000,1600
-Mercedes-Benz C200 Avantgarde Plus,2022,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1398000000,23500
-MG 5 LUX,2024,Sedan,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,MG,460000000,19000
-Ford Escape XLT 2.3 AT 4x4,2004,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Ford,139000000,190000
-Suzuki Vitara JLX 1.6 4X4,2004,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số sàn,Máy xăng,Suzuki,145000000,190000
-Lexus ES 350,2015,Sedan,Nhập khẩu,Hà Nội,Ba Đình,Số tự động,Máy xăng,Lexus,1050000000,72000
-Kia Forte EX 1.6 MT,2011,Sedan,Trong nước,Tp.HCM,Other,Số sàn,Máy xăng,Kia,225000000,70000
-Mercedes-Benz GLC 300 4Matic V1,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1939000000,8500
-Mitsubishi Zinger,2008,MPV,Trong nước,Tp.HCM,Other,Số sàn,Máy xăng,Mitsubishi,195000000,90000
-Mitsubishi Triton 4×2 AT MIVEC,2021,Bán tải,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy dầu,Mitsubishi,525000000,78000
-Honda City 1.5 G,2013,Sedan,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,Honda,265000000,180000
-Honda Civic 1.8 AT,2009,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Honda,250000000,128000
-Mazda BT-50 Standard 4x4 2.2 MT,2014,Bán tải,Nhập khẩu,Tp.HCM,Other,Số sàn,Máy dầu,Mazda,295000000,120000
-Mercedes-Benz GLC 200 4Matic,2021,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1559000000,27500
-MG ZS 1.5 2WD LUX+,2024,SUV,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy xăng,MG,499000000,19000
-Mitsubishi Pajero GL 3.0 MT,2002,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số sàn,Máy xăng,Mitsubishi,129000000,190000
-Kia Carens SX 2.0 AT,2011,MPV,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,Kia,230000000,120000
-Honda City 1.5 L,2022,Sedan,Trong nước,Hải Phòng,Kiến An,Số tự động,Máy xăng,Honda,445000000,70000
-Mazda CX-5 2.0 Deluxe,2023,SUV,Trong nước,Hải Phòng,Kiến An,Số tự động,Máy xăng,Mazda,720000000,13000
-Ford Territory Titanium X,2024,SUV,Trong nước,Hải Phòng,Kiến An,Số tự động,Máy xăng,Ford,799000000,31000
-Hyundai Tucson 2.0 Đặc biệt,2017,SUV,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Hyundai,625000000,98000
-Toyota Corolla Altis 1.8 G,2020,Sedan,Trong nước,Tp.HCM,Quận 8,Số tự động,Máy xăng,Toyota,545000000,70000
-Toyota Vios 1.5 E CVT,2022,Sedan,Trong nước,Tp.HCM,Quận 8,Số tự động,Máy xăng,Toyota,425000000,16000
-Subaru Forester 2.0 - XT,2016,SUV,Nhập khẩu,Tp.HCM,Quận 8,Số tự động,Máy xăng,Subaru,599000000,13200
-Kia Sorento 2.2 DAT Premium,2019,SUV,Trong nước,Tp.HCM,Quận 8,Số tự động,Máy dầu,Kia,725000000,19000
-Toyota Rush 1.5 AT,2021,SUV,Nhập khẩu,Tp.HCM,Quận 8,Số tự động,Máy xăng,Toyota,499000000,86000
-Mazda 6 2.0 Premium,2020,Sedan,Trong nước,Tp.HCM,Quận 8,Số tự động,Máy xăng,Mazda,599000000,58000
-Toyota Innova 2.0E,2013,MPV,Trong nước,Hà Nội,Thanh Xuân,Số sàn,Máy xăng,Toyota,255000000,130000
-Mazda 3 1.5L Sedan,2023,Sedan,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mazda,585000000,13000
-Mazda 3 1.5L Sedan,2023,Sedan,Trong nước,Phú Thọ,Việt Trì,Số tự động,Máy xăng,Mazda,585000000,13000
-Kia Sonet 1.5 Premium,2023,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,575000000,32000
-Hyundai Santa Fe 2.2 Dầu Cao cấp,2022,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,1168000000,60000
-Mercedes-Benz GLC 200 V1,2022,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1438000000,28000
-Land Rover Range Rover Evoque 2.0P HSE Dynamic,2012,SUV,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Land,499000000,62000
-Peugeot 2008 GT Line,2022,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Peugeot,639000000,40000
-MG 5 1.5L Luxury,2024,Sedan,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,MG,465000000,10000
-Mazda 3 1.5L Sedan,2019,Sedan,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mazda,465000000,80000
-Mitsubishi Xpander 1.5 AT ,2020,MPV,Nhập khẩu,Hà Nội,Đông Anh,Số tự động,Máy xăng,Mitsubishi,470000000,30000
-Mercedes-Benz E200 E200,2019,Sedan,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1198000000,23000
-Mercedes-Benz C300 AMG,2016,Sedan,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,758000000,76000
-Mercedes-Benz GLC 200 4Matic,2021,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1388000000,88000
-Hyundai Santa Fe 2.2 Dầu Cao cấp,2021,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy dầu,Hyundai,1085000000,72000
-Mercedes-Benz GLE 450 4Matic,2016,Coupe,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1339000000,58000
-Mercedes-Benz AMG C43,2017,Coupe,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1999000000,21000
-Honda CR-V 2.4L TG,2010,SUV,Nhập khẩu,Hà Nội,Đông Anh,Số tự động,Máy xăng,Honda,285000000,100000
-Ford EcoSport Titanium 1.5L AT,2015,SUV,Trong nước,Hải Dương,Other,Số tự động,Máy xăng,Ford,335000000,121341
-Ford Everest Titanium 2.0 AT 4x2,2023,SUV,Nhập khẩu,Hải Dương,Hải Dương,Số tự động,Máy dầu,Ford,1199000000,13000
-Hyundai Elantra 1.8 AT,2013,Sedan,Nhập khẩu,Hải Dương,Other,Số tự động,Máy xăng,Hyundai,330000000,121234
-Mitsubishi Xpander 1.5 AT ,2020,Other,Nhập khẩu,Hải Phòng,An Lão,Số tự động,Máy xăng,Mitsubishi,479000000,80000
-Toyota Hiace 3.0 MT,2007,Van/Minivan,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy dầu,Toyota,195000000,160000
-Hyundai Grand i10 1.0 AT,2015,Other,Trong nước,Hải Phòng,An Lão,Số tự động,Máy xăng,Hyundai,239000000,75284
-Hyundai Grand i10 Sedan 1.2 MT,2023,Sedan,Trong nước,Hải Phòng,An Lão,Số sàn,Máy xăng,Hyundai,285000000,50000
-Hyundai Accent 1.4 MT,2019,Sedan,Trong nước,Hải Phòng,An Lão,Số sàn,Máy xăng,Hyundai,330000000,80000
-Toyota Innova 2.0E,2013,Other,Trong nước,Hải Phòng,An Lão,Số sàn,Máy xăng,Toyota,258000000,200000
-Nissan Terra 2.5L E 2WD AT,2019,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Nissan,640000000,67000
-Hyundai Grand Starex 2.5 MT,2016,Van/Minivan,Nhập khẩu,Hà Nội,Hà Đông,Số sàn,Máy xăng,Hyundai,395000000,120000
-Kia Rio 1.4 AT,2015,Other,Trong nước,Hải Phòng,An Lão,Số tự động,Máy xăng,Kia,315000000,50000
-Ford Ranger XL 2.5 4x4 MT,2011,Bán tải,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy xăng,Ford,230000000,160000
-Mitsubishi Triton,2011,Bán tải,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy xăng,Mitsubishi,248000000,155000
-Hyundai Grand i10,2015,Other,Trong nước,Hải Phòng,An Lão,Số tự động,Máy xăng,Hyundai,239000000,75284
-Mazda CX-8 Premium,2020,SUV,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Mazda,739000000,62000
-Mercedes-Benz C300 AMG,2021,Sedan,Trong nước,Bắc Ninh,Quế Võ,Số tự động,Máy xăng,Mercedes-Benz,1100000000,54000
-Teraco Tera 100,2023,Xe tải,Trong nước,Bắc Ninh,Quế Võ,Số sàn,Máy xăng,Teraco,185000000,12000
-Honda CR-V 2.4L TG,2016,SUV,Trong nước,Bắc Ninh,Quế Võ,Số tự động,Máy xăng,Honda,535000000,100000
-Ford Everest Titanium 2.0L AT 4WD,2021,SUV,Nhập khẩu,Bắc Ninh,Quế Võ,Số tự động,Máy dầu,Ford,980000000,68000
-Hyundai Grand i10 Hatchback 1.2 AT,2020,Hatchback,Trong nước,Bắc Ninh,Quế Võ,Số tự động,Máy xăng,Hyundai,333000000,52000
-Hyundai Elantra 1.6 AT,2014,Other,Trong nước,Hải Phòng,An Lão,Số tự động,Máy xăng,Hyundai,328000000,112503
-Suzuki Vitara 1.6 AT,2011,SUV,Nhập khẩu,Hải Phòng,An Lão,Số tự động,Máy xăng,Suzuki,295000000,100000
-Toyota Vios,2023,Sedan,Trong nước,Hải Phòng,An Lão,Số tự động,Máy xăng,Toyota,430000000,30000
-Hyundai Elantra,2014,Sedan,Nhập khẩu,Hải Phòng,An Lão,Số tự động,Máy xăng,Hyundai,320000000,80000
-Nissan Terra 2.5L V 4WD AT,2019,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Nissan,715000000,64000
-Mazda 3 1.5 Hatchback,2018,Hatchback,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,438000000,79000
-Nissan Terra 2.5L S 2WD MT,2018,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số sàn,Máy dầu,Nissan,530000000,88000
-Mazda CX-5 2.0 Luxury,2024,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,770000000,20000
-Ford Ranger Wildtrak 2.0L 4x4 AT,2022,Bán tải,Trong nước,Hải Dương,Hải Dương,Số tự động,Máy dầu,Ford,815000000,65000
-Isuzu D-Max  LS 4x2 MT,2011,Bán tải,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy dầu,Isuzu,230000000,160000
-Mazda 6 2.0L Luxury,2020,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,550000000,50000
-Mitsubishi Attrage 1.2L MT,2021,Other,Trong nước,Hải Phòng,Đồ Sơn,Số sàn,Máy xăng,Mitsubishi,275000000,20000
-Subaru Forester 2.0i-S,2019,SUV,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Subaru,690000000,70000
-Hyundai Santa Fe 2.2L Dầu Cao cấp,2022,SUV,Trong nước,Hà Nội,Long Biên,Số tự động,Máy dầu,Hyundai,1158000000,70000
-Hyundai Accent 1.4 MT,2019,Sedan,Trong nước,Vĩnh Phúc,Phúc Yên,Số sàn,Máy xăng,Hyundai,325000000,120000
-Honda Civic 1.5 Turbo RS,2022,Sedan,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Honda,735000000,35000
-Toyota Corolla Altis 1.8 G,2011,Sedan,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Toyota,345000000,150000
-Toyota Land Cruiser Prado TX-L,2017,SUV,Nhập khẩu,Tp.HCM,Gò Vấp,Số tự động,Máy xăng,Toyota,1250000000,86000
-Toyota Corolla Cross 1.8 HV,2022,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Hybrid,Toyota,778000000,42000
-Toyota Camry 2.5Q,2012,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,455000000,95000
-Toyota Veloz Cross 1.5 CVT TOP,2022,SUV,Nhập khẩu,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,525000000,60000
-Mercedes-Benz C300 AMG,2022,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1799000000,26000
-Toyota Camry 2.5Q,2012,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,455000000,95000
-Mazda 3 1.5L Sedan,2015,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Mazda,345000000,65000
-Suzuki Ertiga Hybrid Ertiga AT,2022,SUV,Nhập khẩu,Tp.HCM,Hóc Môn,Số tự động,Hybrid,Suzuki,455000000,50000
-Ford Ranger Wildtrak 2.0l bi-turbo 4x4 10 AT,2022,Bán tải,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy dầu,Ford,810000000,55000
-Toyota Vios 1.5 G CVT,2021,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,395000000,75000
-Mercedes-Benz E300 AMG,2021,Sedan,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1858000000,22000
-Mercedes-Benz GLC 200 4Matic,2021,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1558000000,28000
-Mercedes-Benz GLC 300 4Matic,2022,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1758000000,52000
-VinFast LUX SA2.0 Cao cấp,2020,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,VinFast,659000000,20000
-Suzuki Super Carry Van Blind Van,2020,Van/Minivan,Trong nước,Hà Nội,Đông Anh,Số sàn,Máy xăng,Suzuki,215000000,80000
-Mercedes-Benz E300 AMG,2021,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1858000000,21000
-BMW 320i M Sport,2017,Sedan,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy xăng,BMW,798000000,73000
-Mercedes-Benz GLC 300 4Matic,2022,SUV,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,Mercedes-Benz,1800000000,60000
-Ford EcoSport Titanium 1.5L AT,2016,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Ford,329000000,84000
-Porsche Cayenne 3.6 V6,2014,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Porsche,1188000000,90
-Mercedes-Benz E200,2019,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1039000000,65000
-Mercedes-Benz GLC 200 4Matic,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1399000000,40000
-Mercedes-Benz GLC 300 4Matic,2019,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1099000000,8
-Mercedes-Benz GLC 200 4Matic,2021,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1450000000,60000
-Kia Cerato 1.6 MT,2017,Other,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy xăng,Kia,315000000,75000
-Mitsubishi Pajero Sport D 4x2 AT,2022,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Mitsubishi,925000000,60000
-Ford Ranger Wildtrak 3.2 4x4 AT,2016,Other,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy xăng,Ford,535000000,90000
-Chevrolet Colorado 2.5L 4x4 MT LT,2017,Bán tải,Nhập khẩu,Bình Phước,Đồng Phú,Số sàn,Máy dầu,Chevrolet,330000000,102000
-Lexus ES 250,2021,Sedan,Nhập khẩu,Hà Nội,Ba Đình,Số tự động,Máy xăng,Lexus,2150000000,56000
-Ford Everest Trend 2.0 AT 4x4,2018,Other,Nhập khẩu,Bình Phước,Đồng Phú,Số tự động,Máy xăng,Ford,735000000,88000
-Mazda CX-5 2.0 Deluxe,2021,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mazda,660000000,29000
-Suzuki Swift,2014,Hatchback,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Suzuki,265000000,86000
-Toyota Avanza 1.5 AT,2023,Other,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,495000000,68000
-Toyota Corolla Altis 1.8 G,2016,Other,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,435000000,83000
-Mercedes-Benz GLC 250 4Matic,2019,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,990000000,50000
-Mercedes-Benz E250 E250,2016,Sedan,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,795000000,60000
-Ford Everest 2.0L ST5 6AT 2WD Titanium,2018,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,830000000,77000
-Ford Transit SVP,2021,Van/Minivan,Trong nước,Tp.HCM,Tân Phú,Số sàn,Máy dầu,Ford,580000000,87000
-Ford Ranger Raptor,2020,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,965000000,57000
-Ford Ranger Wildtrak 3.2 4x4 AT,2017,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,615000000,73000
-Ford Everest Sport 2.0 AT 4x2,2014,Other,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,880000000,61000
-Ford Everest 2.0L ST5 10AT 4x4 Titanium,2022,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,1295000000,46000
-Ford Explorer 2.3L Ecoboost,2019,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,1160000000,72000
-Ford Transit Tiêu chuẩn,2019,Van/Minivan,Trong nước,Tp.HCM,Tân Phú,Số sàn,Máy dầu,Ford,539000000,95000
-Kia Sedona 3.3 GATH,2018,MPV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Kia,599000000,9200
-Nissan X trail 2.5 SV 4WD Premium,2020,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Nissan,680000000,60000
-Nissan Kicks V,2023,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Hybrid,Nissan,675000000,8000
-Land Rover Range Rover Evoque evoque,2014,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Land,699000000,60000
-Nissan Terra 2.5L E 2WD 7 AT,2019,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Nissan,599000000,6700
-Land Rover Range Rover Evoque evoque,2012,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Land,490000000,66400
-BMW X1 sDrive18i,2017,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,569000000,120000
-Volvo XC40 B5 AWD Ultimate,2022,SUV,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Volvo,1479000000,50000
-Mercedes-Benz S500L,2014,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1298000000,90000
-Mercedes-Benz GLC 300 4Matic V1,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1938000000,8000
-Ford EcoSport Titanium 1.5L AT,2020,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,465000000,40000
-Mercedes-Benz GLC 300 4Matic,2019,Other,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1478000000,50000
-Hyundai Venue 1.0 T-GDi,2024,Crossover,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Hyundai,530000000,11000
-Mercedes-Benz GLC 200 V1,2022,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1438000000,40233
-Mazda 2 Sedan 1.5L Luxury,2021,Sedan,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mazda,458000000,7900
-VinFast Fadil Tiêu Chuẩn,2022,Hatchback,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,VinFast,337000000,21000
-Hyundai Elantra   2.0 AT,2021,Sedan,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Hyundai,522000000,30000
-Mercedes-Benz GLC 300,2021,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1598000000,53000
-Toyota Veloz Cross 1.5 CVT,2022,MPV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Toyota,530000000,16000
-Mercedes-Benz E200 Exclusive,2019,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1098000000,42000
-BMW X3 xDrive30i,2024,Other,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,2038000000,5555
-Ford Everest 2.0L ST5 6AT 2WD Titanium,2018,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,828000000,66000
-Lexus IS 300 F-Sport,2021,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Lexus,1699000000,55555
-Ford Ranger Wildtrak 2.0l bi-turbo 4x4 10 AT,2020,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,670000000,89000
-Ford Focus S 2.0AT,2013,Hatchback,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,330000000,89000
-Mercedes-Benz C200 Edition C,2014,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mercedes-Benz,385000000,110000
-Toyota Vios 1.5E MT,2018,Sedan,Trong nước,Bình Định,Quy Nhơn,Số sàn,Máy xăng,Toyota,278000000,107000
-Mercedes-Benz E200 E200,2019,Sedan,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mercedes-Benz,1050000000,50000
-Mitsubishi Xpander Cross 1.5 AT,2022,MPV,Nhập khẩu,Tp.HCM,Quận 2,Số tự động,Máy xăng,Mitsubishi,560000000,30000
-Mercedes-Benz GLC 200 V1,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1679000000,28000
-Kia Carnival 2.2D Signature,2022,MPV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Kia,1219000000,60000
-Toyota Camry 2.5Q,2019,Sedan,Nhập khẩu,Bắc Ninh,Bắc Ninh,Số tự động,Máy xăng,Toyota,805000000,80000
-Toyota Innova 2.0E,2019,MPV,Trong nước,Bắc Ninh,Bắc Ninh,Số sàn,Máy xăng,Toyota,445000000,80000
-Toyota Camry,2021,Sedan,Nhập khẩu,Bắc Ninh,Bắc Ninh,Số tự động,Máy xăng,Toyota,815000000,47000
-VinFast LUX A2.0 Tiêu chuẩn,2022,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,VinFast,589000000,45000
-Ford Transit MID Tiêu chuẩn,2016,Van/Minivan,Trong nước,Hà Nội,Đông Anh,Số sàn,Máy dầu,Ford,390000000,80000
-VinFast LUX A2.0 Tiêu chuẩn,2021,Sedan,Trong nước,Tp.HCM,Quận 2,Số tự động,Máy xăng,VinFast,555000000,26000
-Mercedes-Benz GLC 300 4Matic,2018,SUV,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mercedes-Benz,1139000000,24000
-Kia Carnival 2.2D Signature,2024,MPV,Trong nước,Tp.HCM,Quận 2,Số tự động,Máy dầu,Kia,1345000000,34000
-Kia Morning S 1.25 AT,2018,Hatchback,Trong nước,Tp.HCM,Quận 2,Số tự động,Máy xăng,Kia,299000000,34000
-Toyota Fortuner 2.4 AT 4x2 Legender,2025,SUV,Trong nước,Tp.HCM,Quận 2,Số tự động,Máy dầu,Toyota,1175000000,5000
-Toyota Hiace,2011,Van/Minivan,Trong nước,Hà Nội,Đông Anh,Số sàn,Máy xăng,Toyota,285000000,10000
-Mercedes-Benz E300 AMG,2021,Other,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1858000000,20000
-Toyota Vios 1.5 E CVT,2024,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,460000000,23000
-Peugeot 2008 GT,2022,Crossover,Nhập khẩu,Tp.HCM,Quận 2,Số tự động,Máy xăng,Peugeot,678000000,14000
-Subaru Outback 2.5i-S,2010,SUV,Nhập khẩu,Tp.HCM,Quận 2,Số tự động,Máy xăng,Subaru,429000000,80000
-Mitsubishi Jolie 2.0 MT,2005,SUV,Trong nước,Tp.HCM,Quận 10,Số sàn,Máy xăng,Mitsubishi,107000000,89000
-Honda City 1.5 TOP CVT,2018,Sedan,Trong nước,Tp.HCM,Quận 10,Số tự động,Máy xăng,Honda,378000000,455000
-Hyundai Grand i10,2014,Hatchback,Nhập khẩu,Quảng Bình,Đồng Hới,Số sàn,Máy xăng,Hyundai,119000000,111000
-Hyundai Grand i10,2014,Hatchback,Nhập khẩu,Hà Tĩnh,Hà Tĩnh,Số sàn,Máy xăng,Hyundai,119000000,110000
-Hyundai Accent 1.4 MT,2018,Sedan,Trong nước,Hà Tĩnh,Hà Tĩnh,Số sàn,Máy xăng,Hyundai,286000000,81000
-Hyundai Accent 1.4 MT,2018,Sedan,Trong nước,Nghệ An,Vinh,Số sàn,Máy xăng,Hyundai,286000000,81000
-Daewoo Lacetti EX 1.6,2009,Sedan,Trong nước,Hà Tĩnh,Hà Tĩnh,Số sàn,Máy xăng,Daewoo,75000000,102000
-Hyundai Accent 1.4 AT Đặc biệt,2015,Sedan,Nhập khẩu,Nghệ An,Vinh,Số tự động,Máy xăng,Hyundai,305000000,78000
-Daewoo Lacetti EX 1.6,2008,Sedan,Trong nước,Thanh Hóa,Thanh Hóa,Số sàn,Máy xăng,Daewoo,65000000,110000
-Kia Morning 1.25 MT,2020,Hatchback,Trong nước,Quảng Bình,Đồng Hới,Số sàn,Máy xăng,Kia,200000000,67000
-Kia Seltos 1.4T Premium,2023,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Kia,665000000,14000
-Hyundai Grand i10 Hatchback 1.2 AT,2019,Hatchback,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,318000000,90000
-Hyundai Tucson 2.0 Tiêu chuẩn,2019,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,595000000,60000
-Mazda 3 1.5L Sedan,2020,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,495000000,60000
-Ford Territory 1.5L Titanium,2023,Crossover,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Ford,760000000,24000
-Kia Sorento 2.2 DAT Premium,2015,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Kia,490000000,110000
-Mazda CX-5 2.0 Premium,2020,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,695000000,66000
-Toyota Fortuner 2.7 V 4X2 AT,2018,SUV,Trong nước,Tp.HCM,Quận 2,Số tự động,Máy xăng,Toyota,685000000,60000
-Ford EcoSport Titanium 1.5L AT,2020,Convertible,Trong nước,Bình Dương,Dĩ An,Số tự động,Máy xăng,Ford,485000000,85000
-Honda City,2014,Sedan,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,Honda,295000000,100000
-Ford EcoSport Titanium 1.0L AT,2019,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,495000000,8900
-Ford Fiesta S 1.6 AT,2012,Hatchback,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,285000000,37000
-Ford Ranger Wildtrak 2.0L 4x4 AT,2020,Bán tải,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,738000000,52000
-Hyundai Grand i10,2019,Sedan,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,Hyundai,320000000,30000
-Ford Transit,2019,Minibus,Trong nước,Tp.HCM,Tân Phú,Số sàn,Máy dầu,Ford,545000000,95000
-Ford Ranger XLS 2.0L 4x2 AT,2020,Bán tải,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,558000000,82000
-Ford EcoSport Ambiente 1.5L AT,2018,SUV,Trong nước,Bà Rịa Vũng Tàu,Bà Rịa,Số tự động,Máy xăng,Ford,386000000,77000
-Honda City,2016,Sedan,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,Honda,335000000,80000
-Mercedes-Benz S450 4Matic Luxury,2017,Sedan,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Mercedes-Benz,1889000000,69000
-VinFast Fadil Nâng Cao,2020,Hatchback,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,VinFast,300000000,60000
-VinFast VF8 Eco,2022,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Điện,VinFast,730000000,31000
-Ford Ranger XLS 2.2 4x2 AT,2021,Bán tải,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy dầu,Ford,545000000,67000
-Isuzu mu-X 2.5 4x2 MT,2017,SUV,Nhập khẩu,Kon Tum,Đăk Hà,Số sàn,Máy dầu,Isuzu,480000000,40000
-VinFast VF8 Eco,2023,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Điện,VinFast,750000000,32000
-Hyundai HD,2009,Bán tải,Trong nước,Kon Tum,Đăk Hà,Số tự động,Máy xăng,Hyundai,115000000,12345
-Hyundai Grand i10 Sedan 1.2 MT,2018,Sedan,Nhập khẩu,Kon Tum,Đăk Hà,Số tự động,Máy xăng,Hyundai,220000000,90000
-Mercedes-Benz C200 Edition C,2008,Sedan,Trong nước,Kon Tum,Đăk Hà,Số tự động,Máy xăng,Mercedes-Benz,220000000,145000
-Kia Sonet 1.5 Premium,2022,Other,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy xăng,Kia,575000000,30000
-Hyundai Accent 1.4 AT Đặc biệt,2020,Sedan,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Hyundai,410000000,55000
-Ford Ranger XLS 2.0L 4x2 AT,2023,Bán tải,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,668000000,6800
-Hyundai Santa Fe Gold,2008,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy dầu,Hyundai,325000000,173000
-Ford Ranger Wildtrak 2.0L 4x4 AT,2019,Bán tải,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy dầu,Ford,530000000,87000
-Mazda 3 Sport 2.0L Signature Luxury,2022,Hatchback,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mazda,579000000,38000
-Toyota Vios 1.5E MT,2022,Sedan,Trong nước,Bình Phước,Đồng Phú,Số sàn,Máy xăng,Toyota,390000000,30000
-Isuzu D-Max Prestige Hi-Lander,2023,Bán tải,Nhập khẩu,Tp.HCM,Quận 2,Số tự động,Máy dầu,Isuzu,590000000,40000
-Hyundai Tucson 2.0 Tiêu chuẩn,2020,SUV,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy xăng,Hyundai,645000000,46000
-Honda City RS,2022,Sedan,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Honda,509000000,19000
-Kia Morning GT-LINE,2022,Hatchback,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Kia,382000000,31500
-Toyota Fortuner 2.7 V 4X2 AT,2020,SUV,Trong nước,Tp.HCM,Quận 2,Số tự động,Máy xăng,Toyota,780000000,31000
-Kia Morning MT,2018,Hatchback,Trong nước,Thanh Hóa,Triệu Sơn,Số sàn,Máy xăng,Kia,175000000,100000
-Kia Morning Si 1.25 MT,2018,Hatchback,Trong nước,Thanh Hóa,Triệu Sơn,Số sàn,Máy xăng,Kia,198000000,93000
-Kia Sonet 1.5 Luxury,2023,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Kia,554000000,16000
-Ford Everest Titanium 2.2L 4x2 AT,2017,SUV,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy dầu,Ford,660000000,176000
-Ford Everest 2.0L ST5 10AT 4x4 Titanium,2020,SUV,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy dầu,Ford,870000000,30
-Ford Everest,2018,Other,Nhập khẩu,Bình Phước,Đồng Phú,Số tự động,Máy dầu,Ford,675000000,85000
-Toyota Fortuner 2.8V 4X4 AT,2018,SUV,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy dầu,Toyota,785000000,110000
-Mazda 6 2.0 Premium,2022,Sedan,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mazda,689000000,25000
-Toyota Fortuner 2.7 V 4X2 AT,2018,SUV,Nhập khẩu,Tp.HCM,Quận 2,Số tự động,Máy xăng,Toyota,685000000,100000
-Hyundai Accent 1.4 AT,2023,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,455000000,15000
-Toyota Fortuner 2.8V 4X4 AT,2019,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Toyota,925000000,87000
-Toyota Fortuner 2.7V,2018,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Toyota,735000000,80000
-VinFast LUX A2.0 Tiêu chuẩn,2021,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,VinFast,565000000,50000
-VinFast VF e34 Tiêu chuẩn,2022,Other,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,VinFast,510000000,20000
-VinFast LUX A2.0 Cao cấp,2022,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,VinFast,654000000,20000
-Hyundai Elantra,2021,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,495000000,60000
-MG RX5 1.5 LUX,2024,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,MG,670000000,5000
-Ford Everest 2.0L ST5 10AT 4x4 Titanium,2022,SUV,Nhập khẩu,Tp.HCM,Other,Số tự động,Máy dầu,Ford,970000000,70000
-Ford Ranger XLS 2.2 4x2 MT,2020,Bán tải,Nhập khẩu,Tp.HCM,Bình Tân,Số sàn,Máy dầu,Ford,480000000,205000
-Mercedes-Benz C200 Avantgarde Plus,2021,Sedan,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mercedes-Benz,1299000000,10000
-Toyota Vios 1.5G AT,2023,Sedan,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Toyota,499000000,46000
-Mercedes-Benz GLB 200,2020,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1098000000,43000
-BMW 520i,2022,Sedan,Trong nước,Tp.HCM,Gò Vấp,Số tự động,Máy xăng,BMW,1559000000,38000
-Mitsubishi Xpander 1.5 AT ,2019,MPV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,468000000,72000
-Ford Everest,2018,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,820000000,77000
-Mitsubishi Xpander 1.5 AT ,2019,MPV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,468000000,72000
-Mitsubishi Attrage CVT Premium,2021,Sedan,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,370000000,45587
-Mitsubishi Xpander 1.5 MT,2023,MPV,Trong nước,Tp.HCM,Tân Phú,Số sàn,Máy xăng,Mitsubishi,480000000,22522
-Mitsubishi Outlander 2.0 CVT,2019,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,590000000,35000
-Mitsubishi Xpander 1.5 AT ,2022,MPV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,565000000,75322
-Mitsubishi Xpander AT Premium,2024,MPV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,618000000,10993
-Mitsubishi Xpander AT Premium,2022,MPV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,550000000,90502
-Mitsubishi Triton GLX,2024,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Mitsubishi,620000000,20000
-Mercedes-Benz S400 3.0 V6,2014,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,1129000000,100000
-Porsche Macan GTS,2016,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Porsche,1868000000,100000
-Toyota Camry 2.5G,2013,Sedan,Trong nước,Bình Dương,Thủ Dầu Một,Số tự động,Máy xăng,Toyota,483000000,86000
-VinFast LUX SA2.0 Cao cấp,2020,SUV,Trong nước,Bình Dương,Thủ Dầu Một,Số tự động,Máy xăng,VinFast,668000000,69000
-Mercedes-Benz E200,2018,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,950000000,79000
-Mitsubishi Outlander 2.0 CVT,2023,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mitsubishi,735000000,42438
-Mercedes-Benz C200 2.0 AT,2019,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,829000000,42000
-Hyundai Santa Fe 2.2 Dầu Cao cấp,2021,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy dầu,Hyundai,1075000000,68234
-Honda CR-V 1.5 L,2020,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Honda,830000000,1
-Toyota Land Cruiser Prado VX,2019,SUV,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Toyota,1930000000,85981
-Toyota Corolla Cross 1.8 V ,2020,SUV,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Toyota,665000000,37942
-Toyota Fortuner 2.7V,2017,SUV,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Toyota,650000000,79389
-Mercedes-Benz GLC 200 4Matic,2021,SUV,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Mercedes-Benz,1320000000,29000
-Toyota Yaris 1.5G,2021,Hatchback,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Toyota,560000000,1
-Hyundai Santa Fe 2.5 Xăng Cao cấp,2022,SUV,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Hyundai,1080000000,59500
-Ford Everest Titanium 2.0 AT 4x2,2019,SUV,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy dầu,Ford,815000000,1
-Mercedes-Benz GLC 300 4Matic,2021,SUV,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Mercedes-Benz,1690000000,59000
-Hyundai Santa Fe 2.2 Dầu Cao cấp,2023,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy dầu,Hyundai,1165000000,39336
-Mercedes-Benz C250 Exclusive,2016,Sedan,Nhập khẩu,Hà Nội,Tây Hồ,Số tự động,Máy xăng,Mercedes-Benz,500000000,60000
-Mercedes-Benz GLC 300 4Matic,2017,SUV,Nhập khẩu,Hà Nội,Tây Hồ,Số tự động,Máy xăng,Mercedes-Benz,960000000,50000
-Mazda CX-5 2.0 Premium,2022,SUV,Trong nước,Bắc Ninh,Bắc Ninh,Số tự động,Máy xăng,Mazda,738000000,53000
-Kia Morning Luxury,2020,Hatchback,Trong nước,Bắc Ninh,Bắc Ninh,Số tự động,Máy xăng,Kia,303000000,60000
-Mazda 3 Sedan 1.5L Luxury,2019,Sedan,Trong nước,Bắc Ninh,Bắc Ninh,Số tự động,Máy xăng,Mazda,455000000,50000
-Toyota Vios 1.5 E CVT,2024,Sedan,Trong nước,Bắc Ninh,Bắc Ninh,Số tự động,Máy xăng,Toyota,445000000,14000
-Toyota Vios 1.5 E CVT,2022,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,399000000,58000
-Mercedes-Benz E180 V1,2022,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,1559000000,5999
-Mercedes-Benz Maybach S500,2015,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1299000000,90
-Mercedes-Benz GLC 300 4Matic,2017,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1069000000,70
-Mercedes-Benz C200 Avantgarde,2022,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1239000000,47000
-Mercedes-Benz C200 Avantgarde Plus,2023,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1699000000,10
-Mazda 3 Sedan 1.5L Luxury,2021,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Mazda,555000000,510000
-Kia Seltos 1.4 Premium,2022,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Kia,629000000,41000
-Hyundai Accent 1.5 AT cao cấp,2024,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Hyundai,545000000,2000
-Hyundai Elantra   2.0 AT,2021,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Hyundai,498000000,42000
-Mazda CX-5 2.0 Deluxe,2022,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Mazda,689000000,28000
-Nissan X trail 2.5 SV 4WD Premium,2018,SUV,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Nissan,540000000,86000
-Mitsubishi Attrage 1.2L MT,2023,Other,Nhập khẩu,Hà Nội,Thanh Xuân,Số sàn,Máy xăng,Mitsubishi,315000000,45000
-Toyota Yaris 1.3G,2015,Other,Trong nước,Hòa Bình,Lương Sơn,Số tự động,Máy xăng,Toyota,360000000,100000
-Toyota Fortuner 2.7V,2016,Other,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Toyota,465000000,130000
-Mercedes-Benz E280,2008,Sedan,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mercedes-Benz,195000000,260000
+﻿Name,Year,Body_Type,Origin,Province,District,Transmission,Fuel_Type,Brand,price_num,age,mileage_num
+Mercedes-Benz E250 2023,2023,Sedan,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mercedes-Benz,870000000,2,45000
+Toyota Camry 2.4G 2012,2012,Sedan,Trong nước,Hà Nội,Other,Số tự động,Máy xăng,Toyota,360000000,13,120000
+Ford Territory Titanium X 2023,2023,SUV,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Ford,770000000,2,27000
+Mazda CX-5 2022,2022,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,740000000,3,30000
+Toyota Previa 2010,2010,Van/Minivan,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Toyota,650000000,15,50000
+Mazda 3 1.5L Sedan 2017,2017,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,396000000,8,100000
+BMW 640i 2012,2012,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,989000000,13,38000
+Ford Ranger XLS 2.2 4x2 AT 2017,2017,Other,Trong nước,Phú Thọ,Hạ Hòa,Số tự động,Máy dầu,Ford,450000000,8,50000
+MG RX5 1.5 LUX 2023,2023,SUV,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy xăng,MG,599000000,2,28000
+Mercedes-Benz C200 2015,2015,Sedan,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mercedes-Benz,599000000,10,60000
+MG HS 1.5T Lux 2024,2024,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,MG,599000000,1,19000
+Mercedes-Benz GLC 300 4Matic 2020,2020,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mercedes-Benz,1459000000,5,45000
+Toyota Corolla Altis 1.8G CVT 2015,2015,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,445000000,10,100000
+Mazda CX-5 2.0 Luxury 2023,2023,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,729000000,2,38000
+Hyundai Tucson 2.0 Đặc biệt 2022,2022,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,795000000,3,44000
+Kia Sedona 2.2 DATH 2018,2018,MPV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Kia,690000000,7,81000
+Kia K3 1.6AT 2022,2022,Other,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,555000000,3,45000
+Audi Q5 2.0 TFSI Quattro 2017,2017,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Audi,995000000,8,140000
+Ford Ranger XLS 2.2L 4x2 MT 2019,2019,Bán tải,Nhập khẩu,Hà Nội,Cầu Giấy,Số sàn,Máy dầu,Ford,430000000,6,90000
+Ford Territory 1.5L Ecoboost Titanium 2024,2024,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Ford,860000000,1,10000
+Ford EcoSport 2016,2016,Other,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Ford,310000000,9,80000
+Kia K3 1.6AT 2022,2022,Other,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,555000000,3,45000
+Toyota Land Cruiser VX 4.6 V8 2014,2014,Other,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,1889000000,11,160000
+Hyundai Starex 2007,2007,MPV,Trong nước,Hà Nội,Hà Đông,Số tự động,Máy dầu,Hyundai,175000000,18,160000
+Honda HR-V L 2019,2019,Crossover,Nhập khẩu,Vĩnh Phúc,Phúc Yên,Số tự động,Máy xăng,Honda,550000000,6,87000
+Mercedes-Benz GLC 200 4Matic 2022,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1459000000,3,58000
+Toyota Fortuner 2018,2018,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Toyota,785000000,7,70000
+Dongben X30 2017,2017,Van/Minivan,Trong nước,Hà Nội,Đông Anh,Số sàn,Máy xăng,Dongben,115000000,8,12000
+Mercedes-Benz E200 Exclusive 2020,2020,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1059000000,5,50000
+Honda Civic 1.5 Turbo RS 2023,2023,Sedan,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Honda,765000000,2,25000
+Mazda CX-5 2.0 Luxury 2021,2021,SUV,Trong nước,Vĩnh Phúc,Phúc Yên,Số tự động,Máy xăng,Mazda,710000000,4,80000
+Hyundai Porter II 2015,2015,Xe tải,Nhập khẩu,Hà Nội,Đông Anh,Số sàn,Máy dầu,Hyundai,365000000,10,10000
+Hyundai Starex 2.5 MT 2009,2009,Van/Minivan,Nhập khẩu,Hà Nội,Hà Đông,Số sàn,Máy dầu,Hyundai,225000000,16,140000
+Peugeot 3008 Allure 2021,2021,SUV,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Peugeot,735000000,4,40000
+Mercedes-Benz V250 Luxury 2019,2019,MPV,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1558000000,6,42000
+Mercedes-Benz GLC 300 4Matic V1 2022,2022,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1938000000,3,8600
+Mercedes-Benz E200 Exclusive 2020,2020,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1059000000,5,50000
+Porsche Cayenne  2014,2014,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Porsche,1239000000,11,93000
+MG ZS STD+ 2023,2023,Crossover,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy xăng,MG,390000000,2,43000
+MG 5 1.5L MT 2023,2023,Sedan,Trong nước,Tp.HCM,Bình Tân,Số sàn,Máy xăng,MG,299000000,2,40000
+Mercedes-Benz E300 AMG 2021,2021,Other,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1858000000,4,21000
+Mazda CX-8 Luxury 2020,2020,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mazda,799000000,5,15000
+Mitsubishi Attrage 1.2L MT 2023,2023,Sedan,Trong nước,Vĩnh Phúc,Phúc Yên,Số sàn,Máy xăng,Mitsubishi,305000000,2,83000
+Hyundai Accent 1.4 AT 2022,2022,Sedan,Trong nước,Vĩnh Phúc,Phúc Yên,Số tự động,Máy xăng,Hyundai,425000000,3,92000
+Hyundai Starex 2.4 MT 2014,2014,Van/Minivan,Nhập khẩu,Hà Nội,Hà Đông,Số sàn,Máy xăng,Hyundai,425000000,11,140000
+Hyundai Stargazer 1.5 AT Cao cấp 2022,2022,MPV,Trong nước,Vĩnh Phúc,Phúc Yên,Số tự động,Máy xăng,Hyundai,510000000,3,70000
+Audi Q2 2018,2018,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Audi,878000000,7,66000
+Toyota Rush 1.5 AT 2021,2021,SUV,Nhập khẩu,Vĩnh Phúc,Phúc Yên,Số tự động,Máy xăng,Toyota,525000000,4,69000
+Hyundai Starex 2.5 MT 2008,2008,Van/Minivan,Nhập khẩu,Hà Nội,Hà Đông,Số sàn,Máy dầu,Hyundai,295000000,17,160000
+Mercedes-Benz GLC 200 4Matic 2021,2021,Other,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1558000000,4,26000
+Toyota Fortuner 2.7 V 4X2 AT 2017,2017,SUV,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Toyota,685000000,8,60000
+Kia Carnival 2.2D Signature 2024,2024,MPV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy dầu,Kia,1599000000,1,6000
+MG ZS 1.5L LUX+ 2025,2025,Crossover,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy xăng,MG,500000000,0,2000
+Toyota Fortuner 2.7 V 4X2 AT 2017,2017,SUV,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Toyota,685000000,8,100000
+Kia Morning AT 2010,2010,Hatchback,Trong nước,Hà Nội,Hà Đông,Số tự động,Máy xăng,Kia,95000000,15,120000
+Hyundai Grand Starex 2.4 MT 2008,2008,Van/Minivan,Nhập khẩu,Hà Nội,Đông Anh,Số sàn,Máy dầu,Hyundai,250000000,17,12000
+Honda Civic 1.5 Turbo RS 2019,2019,Sedan,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Honda,590000000,6,38000
+Toyota Hiace 2.8 MT 2009,2009,Van/Minivan,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy dầu,Toyota,265000000,16,140000
+Mercedes-Benz GLC 300 4Matic 2019,2019,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1099000000,6,83000
+Toyota Fortuner 2.4G 4x2 AT  2022,2022,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy dầu,Toyota,945000000,3,30000
+Mini John Cooper Works Convertible 2021,2021,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mini,2099000000,4,13333
+Ford Escape 2012,2012,SUV,Trong nước,Hà Nội,Other,Số tự động,Máy xăng,Ford,270000000,13,120000
+Toyota Veloz Cross 1.5 CVT TOP 2023,2023,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Toyota,620000000,2,20000
+BMW X5 xDrive40i 2019,2019,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,2199000000,6,65000
+Honda Civic 1.8 E 2018,2018,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Honda,485000000,7,110000
+Kia Soluto AT Luxury 2022,2022,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Kia,405000000,3,30000
+Ford Fiesta Sport 1.5L AT 2014,2014,Hatchback,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Ford,265000000,11,110000
+Toyota Fortuner 2.7V TRD 4x2 2016,2016,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Toyota,500000000,9,100000
+Kia Sonet 1.5 Premium 2022,2022,Crossover,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Kia,550000000,3,86000
+VinFast Fadil Nâng Cao 2019,2019,Hatchback,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,VinFast,310000000,6,40000
+VinFast LUX SA2.0 Nâng cao 2021,2021,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,VinFast,730000000,4,50000
+Toyota Innova 2.0G 2021,2021,MPV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Toyota,675000000,4,67000
+Hyundai Elantra 2016,2016,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Hyundai,385000000,9,127000
+Kia Optima 2.0 AT 2013,2013,Sedan,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Kia,430000000,12,72000
+Honda HR-V L 2018,2018,SUV,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Honda,520000000,7,78797
+Ford Mustang 2018,2018,Sport Car,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Ford,1990000000,7,38000
+Chevrolet Cruze LT 1.6 2017,2017,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Chevrolet,255000000,8,130000
+Ford Fiesta 1.5AT Titanium 2016,2016,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Ford,290000000,9,110000
+Peugeot 2008 GT Line 2022,2022,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Peugeot,680000000,3,48000
+Peugeot 5008 Allure 2018,2018,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Peugeot,650000000,7,49219
+Hyundai Elantra   2.0 AT 2018,2018,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Hyundai,445000000,7,52000
+Kia Sorento 2.4AT 2018,2018,MPV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Kia,540000000,7,43000
+Hyundai Genesis 2010,2010,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Hyundai,350000000,15,98000
+Hyundai Elantra Sport 1.6 2020,2020,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Hyundai,520000000,5,56000
+Suzuki Ciaz 1.4 AT 2019,2019,Sedan,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Suzuki,345000000,6,72000
+Ford EcoSport Titanium 1.5L AT 2017,2017,Other,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Ford,365000000,8,80000
+Hyundai Santa Fe 2.4L Xăng Đặc biệt 2018,2018,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Hyundai,690000000,7,84000
+Kia K3 2.0AT 2014,2014,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Kia,340000000,11,120000
+Mercedes-Benz C200 2014,2014,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Mercedes-Benz,580000000,11,76000
+Citroen DS3 2011,2011,Coupe,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Citroen,299000000,14,110000
+Nissan Navara 2.5 MT 2015,2015,Bán tải,Nhập khẩu,Hà Nội,Đông Anh,Số sàn,Máy dầu,Nissan,315000000,10,10000
+Hyundai Tucson 2.0 Dầu đặc biệt 2019,2019,Crossover,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Hyundai,675000000,6,93000
+Peugeot 3008 2022,2022,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Peugeot,725000000,3,22000
+Kia K3 2.0 Premium 2016,2016,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Kia,358000000,9,80000
+Hyundai Santa Fe 2.4L Xăng Cao cấp 2020,2020,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,795000000,5,80000
+Mazda 3 2.0L Sedan 2017,2017,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,396000000,8,60000
+Ford Ranger 2017,2017,Bán tải,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Ford,575000000,8,90000
+Hyundai i20 1.4 AT 2015,2015,Hatchback,Nhập khẩu,Phú Thọ,Hạ Hòa,Số tự động,Máy xăng,Hyundai,345000000,10,110000
+Hyundai Grand i10 Sedan 1.2 MT 2016,2016,Sedan,Nhập khẩu,Hà Nội,Quốc Oai,Số sàn,Máy xăng,Hyundai,168000000,9,120000
+Hyundai Santa Fe 2.4L Xăng Đặc biệt 2015,2015,SUV,Trong nước,Hà Nội,Other,Số tự động,Máy xăng,Hyundai,568000000,10,120000
+Hyundai Grand i10 Sedan 1.2 MT 2020,2020,Sedan,Trong nước,Hà Nội,Quốc Oai,Số sàn,Máy xăng,Hyundai,248000000,5,88000
+Ford Ranger Wildtrak 3.2 4x4 AT 2016,2016,Bán tải,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Ford,520000000,9,100000
+Mercedes-Benz E250 2017,2017,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,899000000,8,40000
+Mazda CX-5 2017,2017,SUV,Trong nước,Hà Nội,Other,Số tự động,Máy xăng,Mazda,530000000,8,74000
+Hyundai Grand Starex 2.4 MT 2011,2011,Van/Minivan,Nhập khẩu,Hà Nội,Đông Anh,Số sàn,Máy dầu,Hyundai,315000000,14,10000
+Mercedes-Benz S450 4Matic Luxury 2017,2017,Sedan,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,1860000000,8,110000
+Hyundai Elantra   2.0 AT 2021,2021,Other,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,535000000,4,30000
+Ford Everest 2020,2020,Other,Trong nước,Hà Nội,Other,Số tự động,Máy xăng,Ford,860000000,5,8200
+Ford Ranger 2019,2019,Other,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Ford,525000000,6,80000
+Toyota Innova 2.0G 2009,2009,MPV,Trong nước,Bình Dương,Thuận An,Số sàn,Máy xăng,Toyota,210000000,16,120000
+Toyota Vios 1.5 G CVT 2021,2021,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,445000000,4,67000
+Mazda CX-8 Premium 2021,2021,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,845000000,4,45000
+Kia Sorento 2.2D Premium AWD 2016,2016,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Kia,499000000,9,100000
+Toyota Vios 1.5G AT 2019,2019,Sedan,Trong nước,Hà Nội,Quốc Oai,Số tự động,Máy xăng,Toyota,398000000,6,70000
+Mazda 3 Sedan 1.5L Deluxe 2022,2022,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,499000000,3,42000
+Kia Morning LX 1.25 MT 2014,2014,Hatchback,Trong nước,Hà Nội,Quốc Oai,Số sàn,Máy xăng,Kia,145000000,11,120000
+Ford Ranger XLS 2.0L 4x2 AT 2016,2016,Bán tải,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Ford,420000000,9,70000
+BMW 520i Luxury Line 2020,2020,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,1399000000,5,48888
+Toyota Vios 1.5G AT 2019,2019,Sedan,Trong nước,Hà Nội,Quốc Oai,Số tự động,Máy xăng,Toyota,405000000,6,70000
+Mazda CX-30 2.0L Premium 2022,2022,Crossover,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Mazda,666000000,3,80000
+Toyota Vios 1.5 E CVT 2021,2021,Sedan,Trong nước,Phú Thọ,Hạ Hòa,Số tự động,Máy xăng,Toyota,399000000,4,68000
+Kia Seltos 1.4 Luxury 2023,2023,SUV,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Kia,630000000,2,32000
+Mazda 3 2017,2017,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,425000000,8,100000
+Honda HR-V L 2019,2019,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Honda,569000000,6,21689
+Mitsubishi Xpander 1.5 MT 2020,2020,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số sàn,Máy xăng,Mitsubishi,395000000,5,81289
+Hyundai Santa Fe 2.2L Dầu Cao cấp 2021,2021,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy dầu,Hyundai,1085000000,4,72689
+Hyundai Santa Fe 2.4L Xăng Cao cấp 2016,2016,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Hyundai,585000000,9,85689
+Mazda 3 1.5 Hatchback 2017,2017,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,425000000,8,110000
+Kia Seltos 1.4 Luxury 2021,2021,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Kia,565000000,4,50000
+Mazda 3 1.5 Hatchback 2017,2017,Hatchback,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,425000000,8,81829
+Mazda 3 2.0L Sedan 2016,2016,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,379000000,9,100000
+Mazda 3 1.5L Sedan 2019,2019,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,465000000,6,65689
+Kia Cerato 1.6 AT Luxury 2018,2018,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Kia,405000000,7,65689
+MG 5 1.5L Luxury 2022,2022,Sedan,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,MG,415000000,3,39899
+Mazda 3 Sedan 1.5L Luxury 2019,2019,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,465000000,6,67899
+Mazda CX-5 2.5L Luxury 2018,2018,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,599000000,7,85680
+Mazda CX-5 2.5L Luxury 2017,2017,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mazda,515000000,8,96896
+VinFast LUX A2.0 Cao cấp 2019,2019,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,VinFast,535000000,6,67899
+Kia Sonet 1.5 Premium 2022,2022,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Kia,535000000,3,45689
+Peugeot 3008 GT 2022,2022,Other,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Peugeot,855000000,3,57000
+Mitsubishi Xpander Cross 1.5 AT 2024,2024,Other,Trong nước,Phú Thọ,Hạ Hòa,Số tự động,Máy xăng,Mitsubishi,625000000,1,20000
+Hyundai Tucson 1.6 Turbo HTRAC 2019,2019,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,700000000,6,70000
+Ford Ranger Wildtrak 3.2 4x4 AT 2016,2016,Other,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Ford,530000000,9,12000
+Toyota Corolla Cross 1.8 V  2021,2021,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,705000000,4,30000
+Kia Morning Si 1.25 MT 2018,2018,Hatchback,Trong nước,Phú Thọ,Hạ Hòa,Số sàn,Máy xăng,Kia,213000000,7,110000
+Hyundai Grand i10 Hatchback 1.2 AT 2020,2020,Hatchback,Trong nước,Hà Nội,Quốc Oai,Số tự động,Máy xăng,Hyundai,338000000,5,56000
+Mazda CX-8 2023,2023,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,850000000,2,45000
+Mercedes-Benz GLC 300 4Matic 2021,2021,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1699000000,4,49000
+Hyundai Accent 1.4 AT Đặc biệt 2023,2023,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,445000000,2,47000
+Hyundai Elantra 1.6 AT Đặc biệt 2017,2017,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,380000000,8,110000
+Mercedes-Benz GLK 250 4Matic 2014,2014,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,540000000,11,110000
+Suzuki Swift 1.4 AT 2016,2016,Hatchback,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Suzuki,270000000,9,80000
+Mazda CX-8 Premium 2021,2021,SUV,Nhập khẩu,Tp.HCM,Bình Thạnh,Số tự động,Máy xăng,Mazda,810000000,4,48000
+BMW 530i M Sport 2022,2022,Sedan,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,BMW,2099000000,3,38000
+Toyota Fortuner 2.7 V 4X4 AT 2015,2015,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,490000000,10,90000
+Honda CR-V L AWD 2016,2016,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Honda,540000000,9,110000
+Mazda 3 1.5L Sedan 2017,2017,Sedan,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Mazda,385000000,8,80000
+Volkswagen Tiguan 2.0AT 2011,2011,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Volkswagen,330000000,14,160000
+Mercedes-Benz E250 E250 2017,2017,Sedan,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mercedes-Benz,870000000,8,72000
+Mercedes-Benz E300 AMG 2021,2021,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1899000000,4,33333
+Ford Everest Titanium 2.0 AT 4x2 2020,2020,SUV,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Ford,860000000,5,80000
+Kia Cerato 1.6 AT Luxury 2020,2020,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,485000000,5,79000
+Mercedes-Benz E250 E250 2017,2017,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mercedes-Benz,885000000,8,72000
+Hyundai Sonata 2.0L-6AT 2009,2009,Sedan,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Hyundai,219000000,16,120000
+Hyundai Creta 1.5L Đặc biệt 2023,2023,Crossover,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Hyundai,635000000,2,10000
+Mitsubishi Outlander 2023,2023,SUV,Trong nước,Hà Nội,Other,Số tự động,Máy xăng,Mitsubishi,820000000,2,35000
+Toyota Corolla Altis 1.8 G 2018,2018,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,515000000,7,93000
+Mitsubishi Xpander 1.5 AT  2018,2018,MPV,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Mitsubishi,415000000,7,80000
+Honda City RS 2023,2023,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Honda,499000000,2,58000
+Hyundai Accent 1.4 AT 2021,2021,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Hyundai,425000000,4,50000
+Mercedes-Benz C300 AMG 2022,2022,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1869000000,3,18888
+Mazda 2 1.5AT 2021,2021,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,365000000,4,35000
+Mitsubishi Outlander 2023,2023,SUV,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mitsubishi,820000000,2,38000
+Hyundai Santa Fe 2.4L Xăng Cao cấp 2015,2015,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,545000000,10,120000
+Ford Everest 2.5 MT 2019,2019,SUV,Nhập khẩu,Bình Phước,Đồng Phú,Số sàn,Máy dầu,Ford,695000000,6,87000
+Hyundai Santa Fe 2015,2015,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,560000000,10,120000
+Toyota Corolla Altis 1.8 G 2014,2014,Sedan,Trong nước,Hưng Yên,Khoái Châu,Số tự động,Máy xăng,Toyota,400000000,11,100000
+Kia Morning Si 1.25 MT 2017,2017,Hatchback,Trong nước,Hưng Yên,Khoái Châu,Số sàn,Máy xăng,Kia,200000000,8,10000
+Hyundai Grand i10 Sedan 1.2 MT 2016,2016,Sedan,Nhập khẩu,Hưng Yên,Khoái Châu,Số sàn,Máy xăng,Hyundai,175000000,9,175
+Hyundai i30 CW 1.6 AT 2009,2009,Hatchback,Nhập khẩu,Hưng Yên,Khoái Châu,Số tự động,Máy xăng,Hyundai,230000000,16,86000
+Kia Morning EX 1.25 MT 2016,2016,Hatchback,Trong nước,Hưng Yên,Khoái Châu,Số sàn,Máy xăng,Kia,160000000,9,135000
+Kia Carens S 2.0 AT 2010,2010,MPV,Trong nước,Hưng Yên,Khoái Châu,Số tự động,Máy xăng,Kia,205000000,15,140000
+Hyundai Grand i10 Sedan 1.2 MT 2018,2018,Sedan,Trong nước,Hưng Yên,Khoái Châu,Số sàn,Máy xăng,Hyundai,235000000,7,130000
+Nissan Teana 2.0 AT 2011,2011,Sedan,Nhập khẩu,Hưng Yên,Khoái Châu,Số tự động,Máy xăng,Nissan,270000000,14,120000
+Toyota Camry 2011,2011,Sedan,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Toyota,340000000,14,120000
+Hyundai Creta 1.5L Đặc biệt 2023,2023,Other,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,610000000,2,38000
+Mazda CX-8 Premium 2021,2021,SUV,Nhập khẩu,Tp.HCM,Bình Thạnh,Số tự động,Máy xăng,Mazda,810000000,4,48000
+Hyundai Accent 1.4 AT 2021,2021,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Hyundai,386000000,4,60000
+BMW 330i M Sport 2024,2024,Other,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,BMW,1699000000,1,10000
+Ford Ranger 2016,2016,Bán tải,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Ford,505000000,9,100000
+Kia Sedona 3.3 GAT 2016,2016,MPV,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Kia,515000000,9,80000
+Kia Cerato 1.6 AT Luxury 2020,2020,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,470000000,5,79000
+Mitsubishi Triton 4×4 AT MIVEC PREMIUM 2021,2021,Bán tải,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Mitsubishi,630000000,4,80000
+Ford Ranger Wildtrak 3.2 4x4 AT 2016,2016,Bán tải,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Ford,520000000,9,100000
+Honda City 1.5 L 2021,2021,Sedan,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Honda,435000000,4,65000
+Hyundai Tucson 2.0 Tiêu chuẩn 2020,2020,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,630000000,5,46000
+Ford Focus S 2.0AT 2014,2014,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Ford,285000000,11,140000
+Kia Cerato 1.6 MT 2018,2018,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số sàn,Máy xăng,Kia,295000000,7,80000
+Mitsubishi Triton 4×2 AT MIVEC 2021,2021,Bán tải,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy dầu,Mitsubishi,525000000,4,78000
+Mercedes-Benz GLC 200 2019,2019,SUV,Trong nước,Hà Nội,Ba Đình,Số tự động,Máy xăng,Mercedes-Benz,999000000,6,60000
+Toyota Vios 1.5 G CVT 2022,2022,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Toyota,445000000,3,61000
+Kia Seltos 1.4T Premium 2023,2023,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Kia,655000000,2,14000
+Mercedes-Benz V250 Luxury 2019,2019,MPV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1559000000,6,42000
+Suzuki Swift GLX 1.2 CVT 2021,2021,Hatchback,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Suzuki,450000000,4,11000
+BMW 330i M Sport 2023,2023,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,1779000000,2,11000
+Mercedes-Benz E200 E200 2019,2019,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1199000000,6,23000
+Toyota Vios 1.5 E CVT 2021,2021,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Toyota,445000000,4,44500
+Ford Territory Titanium X 2023,2023,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Ford,815000000,2,24000
+Mercedes-Benz GLC 300 4Matic V1 2022,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1759000000,3,52000
+BMW X3 2024,2024,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,2159000000,1,800
+Hyundai Tucson 2.0 Dầu Cao cấp 2023,2023,SUV,Trong nước,Hà Nội,Hoàn Kiếm,Số tự động,Máy dầu,Hyundai,835000000,2,28000
+Hyundai Creta 1.5L Đặc biệt 2024,2024,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Hyundai,625000000,1,10000
+Mitsubishi Pajero Sport D 4x2 AT 2022,2022,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Mitsubishi,899000000,3,60000
+Mercedes-Benz GLC 200 V1 2022,2022,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1438000000,3,39000
+Chevrolet Spark 1.2 mt 2018,2018,Hatchback,Trong nước,Hà Nội,Thanh Xuân,Số sàn,Máy xăng,Chevrolet,144000000,7,150000
+Kia Seltos 1.5L PREMIUM 2024,2024,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,748000000,1,4500
+Hyundai Accent 1.4 AT Đặc biệt 2018,2018,Sedan,Trong nước,Hải Phòng,An Lão,Số tự động,Máy xăng,Hyundai,365000000,7,80000
+Kia Cerato 1.6 MT 2017,2017,Other,Trong nước,Hải Phòng,An Lão,Số sàn,Máy xăng,Kia,325000000,8,83901
+Hyundai Accent 1.4 AT 2012,2012,Other,Nhập khẩu,Hải Phòng,An Lão,Số tự động,Máy xăng,Hyundai,248000000,13,120000
+Hyundai Santa Fe 2.4L Xăng Tiêu chuẩn 2020,2020,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,790000000,5,37000
+Kia Seltos 1.6 Premium 2021,2021,Van/Minivan,Trong nước,Tp.HCM,Quận 10,Số tự động,Máy xăng,Kia,555000000,4,39000
+Toyota Sienna Limited 3.5 AT AWD 2016,2016,MPV,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Toyota,1850000000,9,76000
+Porsche Macan 2.0 2017,2017,SUV,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Porsche,1650000000,8,38000
+Ford Ranger Wildtrak 3.2 4x4 AT 2017,2017,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,605000000,8,90000
+Hyundai Santa Fe 2.5 Xăng Cao cấp 2024,2024,SUV,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Hyundai,1190000000,1,13000
+Lexus IS 250C 2011,2011,Convertible,Nhập khẩu,Tp.HCM,Quận 10,Số tự động,Máy xăng,Lexus,1120000000,14,29000
+Mercedes-Benz S450L 2019,2019,Sedan,Nhập khẩu,Tp.HCM,Gò Vấp,Số tự động,Máy xăng,Mercedes-Benz,2100000000,6,28000
+Lexus ES 250 2021,2021,Sedan,Nhập khẩu,Tp.HCM,Gò Vấp,Số tự động,Máy xăng,Lexus,2050000000,4,29000
+Ford EcoSport Titanium 1.0L AT 2016,2016,Other,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Ford,325000000,9,40000
+Mercedes-Benz C200 Exclusive 2019,2019,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Mercedes-Benz,885000000,6,65000
+Toyota Camry 2.5Q 2019,2019,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,785000000,6,65000
+Mercedes-Benz C200 2.0 AT 2016,2016,Sedan,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,638000000,9,106000
+Kia Carnival 2.2D Luxury 2022,2022,MPV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Kia,1015000000,3,11000
+Ford Fiesta 1.6 AT 2012,2012,Hatchback,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,285000000,13,37000
+Mercedes-Benz S450 4Matic Luxury 2017,2017,Sedan,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mercedes-Benz,1950000000,8,60000
+Ford Ranger Wildtrak 2.0L 4x4 AT 2019,2019,Bán tải,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy dầu,Ford,599000000,6,110000
+Honda CR-V 1.5 L 2019,2019,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Honda,750000000,6,89000
+Honda CR-V 1.5 G 2020,2020,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Honda,775000000,5,65000
+Mercedes-Benz S450L 4Matic 2018,2018,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mercedes-Benz,1890000000,7,98000
+Volkswagen Teramont X 2022,2022,Other,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Volkswagen,1738000000,3,10000
+Mercedes-Benz GLC 300 4Matic V1 2022,2022,Other,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1758000000,3,52000
+Ford Everest 2.0L ST5 10AT 4x4 Titanium 2022,2022,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,1330000000,3,29000
+Ford Everest Sport 2.0 AT 4x2 2021,2021,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,880000000,4,61000
+Ford Escape 2.3L XLS 2012,2012,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,288000000,13,80000
+Hyundai Grand i10 2014,2014,Hatchback,Nhập khẩu,Nghệ An,Vinh,Số sàn,Máy xăng,Hyundai,119000000,11,110000
+Hyundai Accent 1.4 CVT Blue 2015,2015,Sedan,Nhập khẩu,Quảng Bình,Đồng Hới,Số tự động,Máy xăng,Hyundai,295000000,10,84000
+Hyundai Accent 1.4 CVT Blue 2015,2015,Sedan,Nhập khẩu,Hà Tĩnh,Hà Tĩnh,Số tự động,Máy xăng,Hyundai,295000000,10,84000
+Daewoo Lacetti EX 1.6 2009,2009,Sedan,Trong nước,Nghệ An,Vinh,Số sàn,Máy xăng,Daewoo,75000000,16,98000
+Hyundai Grand i10 2016,2016,Hatchback,Nhập khẩu,Nghệ An,Vinh,Số sàn,Máy xăng,Hyundai,158000000,9,120000
+Kia Morning 1.25 MT 2020,2020,Hatchback,Trong nước,Hà Tĩnh,Hà Tĩnh,Số sàn,Máy xăng,Kia,200000000,5,68000
+Ford Ranger Wildtrak 2.0L 4x4 AT 2019,2019,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,670000000,6,89000
+Ford Ranger Raptor 2019,2019,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,965000000,6,57000
+VinFast VF e34 Tiêu chuẩn 2022,2022,Crossover,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Điện,VinFast,500000000,3,39000
+Mitsubishi Outlander 2.0 CVT Premium 2023,2023,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mitsubishi,830000000,2,1
+Mercedes-Benz C200 2.0 AT 2017,2017,Sedan,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mercedes-Benz,630000000,8,1
+Hyundai Tucson 2.0 Đặc biệt 2023,2023,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Hyundai,835000000,2,29486
+Hyundai Accent 1.5 AT cao cấp 2024,2024,Sedan,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Hyundai,555000000,1,5000
+Mitsubishi Outlander 2.0 CVT 2022,2022,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mitsubishi,725000000,3,1
+Mitsubishi Outlander 2.0 CVT 2021,2021,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mitsubishi,650000000,4,1
+Lexus GX 470 2007,2007,Other,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Lexus,650000000,18,162000
+VinFast LUX A2.0 Cao cấp 2020,2020,Other,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,VinFast,585000000,5,76000
+Kia Sorento 2018,2018,Other,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Kia,550000000,7,86000
+Lexus RX 200T T 2016,2016,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Lexus,1700000000,9,80000
+Mercedes-Benz E180 V1 2022,2022,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,1545000000,3,5888
+Mercedes-Benz GLC 300 4Matic 2018,2018,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,1080000000,7,80000
+Mercedes-Benz C200 Avantgarde Plus 2022,2022,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,1415000000,3,10000
+Toyota Vios 1.5E MT 2018,2018,Sedan,Trong nước,Bình Dương,Thuận An,Số sàn,Máy xăng,Toyota,275000000,7,89000
+Kia Soluto MT 2020,2020,Other,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Kia,279000000,5,70000
+Hyundai Accent 1.4 MT 2020,2020,Sedan,Trong nước,Bình Dương,Thuận An,Số sàn,Máy xăng,Hyundai,340000000,5,32000
+Kia Cerato 1.6 AT Luxury 2020,2020,Sedan,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Kia,488000000,5,80000
+Hyundai Creta 1.5L Tiêu chuẩn 2022,2022,SUV,Nhập khẩu,Hải Phòng,Kiến An,Số tự động,Máy xăng,Hyundai,535000000,3,45000
+Kia Sportage 2.0D Signature 2022,2022,SUV,Trong nước,Phú Thọ,Đoan Hùng,Số tự động,Máy dầu,Kia,855000000,3,50000
+Hyundai Santa Fe 2.2 Dầu Đặc biệt 2022,2022,SUV,Trong nước,Phú Thọ,Đoan Hùng,Số tự động,Máy dầu,Hyundai,1160000000,3,58000
+Kia Morning GT-LINE 2022,2022,Hatchback,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Kia,369000000,3,10000
+Kia Sorento 2WD 2.2 DATH 2018,2018,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy dầu,Kia,645000000,7,90000
+Ford Everest Titanium 2.0 AT 4x2 2018,2018,SUV,Nhập khẩu,Tp.HCM,Tân Bình,Số tự động,Máy dầu,Ford,828000000,7,60000
+Mercedes-Benz GLC 200 V1 2022,2022,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1439000000,3,24000
+Mercedes-Benz C300 AMG 2022,2022,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1839000000,3,26000
+Mitsubishi Xpander 1.5 AT  2022,2022,MPV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mitsubishi,499000000,3,50000
+Mazda CX-5 2.5L Signature Premium 2WD 2020,2020,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,695000000,5,61000
+Toyota Land Cruiser Prado TX-L 2019,2019,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,1969000000,6,89000
+Kia Carnival 2.2D Signature 2022,2022,MPV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Kia,1230000000,3,29000
+Hyundai Elantra 1.6 AT Đặc biệt 2023,2023,Sedan,Trong nước,Bình Dương,Dĩ An,Số tự động,Máy xăng,Hyundai,549000000,2,39000
+Suzuki Ertiga 1.5L Sport AT 2021,2021,MPV,Trong nước,Bình Dương,Dĩ An,Số tự động,Máy xăng,Suzuki,419000000,4,52000
+VinFast VF5 Plus 2024,2024,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Điện,VinFast,455000000,1,5000
+VinFast VF e34 Tiêu chuẩn 2022,2022,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Điện,VinFast,500000000,3,39000
+Ford EcoSport Ambiente 1.5L AT 2018,2018,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,386000000,7,70000
+BMW X6 xDrive35i 2008,2008,SUV,Nhập khẩu,Phú Thọ,Đoan Hùng,Số tự động,Máy xăng,BMW,380000000,17,150000
+Hyundai Accent 1.4 MT 2019,2019,Sedan,Trong nước,Bình Dương,Dĩ An,Số sàn,Máy xăng,Hyundai,299000000,6,71000
+Kia Morning S 1.25 AT 2019,2019,Hatchback,Trong nước,Bình Dương,Dĩ An,Số tự động,Máy xăng,Kia,285000000,6,69000
+Mazda CX-8 Deluxe 2020,2020,SUV,Trong nước,Bình Dương,Dĩ An,Số tự động,Máy xăng,Mazda,699000000,5,82000
+Toyota Vios 1.5G AT 2016,2016,Sedan,Trong nước,Bình Dương,Dĩ An,Số tự động,Máy xăng,Toyota,309000000,9,72000
+Audi TT S-line 2017,2017,Sport Car,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Audi,1450000000,8,34000
+Mercedes-Benz V250 Luxury 2020,2020,MPV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mercedes-Benz,1500000000,5,52000
+Mazda CX-5 2023,2023,SUV,Trong nước,Đồng Nai,Biên Hòa,Số tự động,Máy xăng,Mazda,740000000,2,15000
+Ford Ranger XLT 2.0 4x4 AT 2019,2019,Bán tải,Nhập khẩu,Đồng Nai,Biên Hòa,Số tự động,Máy dầu,Ford,575000000,6,105000
+Mazda 6 2.5 Premium 2020,2020,Sedan,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mazda,648000000,5,65000
+Ford EcoSport Titanium 1.5L AT 2020,2020,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Ford,450000000,5,67000
+Mercedes-Benz S400 3.0 V6 2015,2015,Sedan,Nhập khẩu,Tp.HCM,Quận 12,Số tự động,Máy xăng,Mercedes-Benz,1250000000,10,63000
+Ford Ranger Raptor 2021,2021,Bán tải,Nhập khẩu,Đồng Nai,Biên Hòa,Số tự động,Máy dầu,Ford,960000000,4,65000
+Toyota Vios 1.5E MT 2022,2022,Sedan,Trong nước,Tp.HCM,Quận 12,Số sàn,Máy xăng,Toyota,380000000,3,52000
+Toyota Veloz Cross 1.5 CVT TOP 2022,2022,MPV,Nhập khẩu,Long An,Tân An,Số tự động,Máy xăng,Toyota,555000000,3,77000
+Hyundai Elantra 1.6 AT Đặc biệt 2024,2024,Sedan,Trong nước,Long An,Tân An,Số tự động,Máy xăng,Hyundai,599000000,1,14000
+Ford Transit Tiêu chuẩn 2009,2009,Van/Minivan,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy dầu,Ford,195000000,16,160000
+Ford Ranger 2016,2016,Bán tải,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy dầu,Ford,325000000,9,150000
+Nissan Navara 2.5 MT 2016,2016,Bán tải,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy dầu,Nissan,345000000,9,140000
+Ford Ranger XLS 2.0L 4x2 AT 2021,2021,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,578000000,4,30000
+Ford Transit Medium 2019,2019,Van/Minivan,Trong nước,Tp.HCM,Tân Phú,Số sàn,Máy dầu,Ford,545000000,6,68000
+Mercedes-Benz GLC 250 4Matic 2017,2017,SUV,Nhập khẩu,Hải Phòng,Kiến An,Số tự động,Máy xăng,Mercedes-Benz,820000000,8,94000
+VinFast LUX A2.0 Tiêu chuẩn 2022,2022,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,VinFast,559000000,3,55000
+Honda Civic 1.5 Turbo RS 2022,2022,Sedan,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Honda,735000000,3,35000
+VinFast Fadil Tiêu Chuẩn 2022,2022,Hatchback,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,VinFast,340000000,3,50000
+Hyundai Accent 1.4 AT 2022,2022,Sedan,Trong nước,Hải Phòng,Kiến An,Số tự động,Máy xăng,Hyundai,440000000,3,42000
+Kia Carnival 2.2D Luxury 2021,2021,MPV,Trong nước,Tp.HCM,Quận 12,Số tự động,Máy dầu,Kia,1030000000,4,31000
+Mazda CX-5 2.0 Luxury 2024,2024,SUV,Trong nước,Thái Nguyên,Thái Nguyên,Số tự động,Máy xăng,Mazda,765000000,1,4000
+Ford Ranger Wildtrak 3.2 4x4 AT 2017,2017,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,605000000,8,70000
+Lexus IS 300 F-Sport 2021,2021,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Lexus,1689000000,4,55555
+Kia Carnival 3.5G Signature 2023,2023,MPV,Trong nước,Hà Nội,Đống Đa,Số tự động,Máy xăng,Kia,1230000000,2,69000
+Mercedes-Benz GLC 200 2019,2019,SUV,Trong nước,Hà Nội,Ba Đình,Số tự động,Máy xăng,Mercedes-Benz,999000000,6,60000
+Volkswagen Viloran Luxury 2023,2023,MPV,Nhập khẩu,Hà Nội,Ba Đình,Số tự động,Máy xăng,Volkswagen,2050000000,2,35000
+Kia Sonet 1.5 Premium 2024,2024,Crossover,Trong nước,Hà Nội,Ba Đình,Số tự động,Máy xăng,Kia,598000000,1,19000
+Ford EcoSport Titanium 1.5L AT 2021,2021,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Ford,448000000,4,30000
+Mazda CX-5 2.0 Premium 2022,2022,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,719000000,3,60000
+Kia Sportage 1.6 T Signature X-line AWD 2022,2022,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,865000000,3,27000
+Mercedes-Benz CLA 250 4Matic 2015,2015,Sedan,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Mercedes-Benz,568000000,10,70000
+Mercedes-Benz C200 2.0 AT 2016,2016,Sedan,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Mercedes-Benz,615000000,9,112000
+Hyundai Venue 1.0 T-GDi Đặc biệt  2023,2023,Hatchback,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Hyundai,536000000,2,18000
+Ford Ranger Raptor 2022,2022,Other,Nhập khẩu,Long An,Tân An,Số tự động,Máy dầu,Ford,949000000,3,56000
+Hyundai Grand i10 Hatchback 1.2 AT 2019,2019,Hatchback,Trong nước,Tp.HCM,Quận 12,Số tự động,Máy xăng,Hyundai,300000000,6,88000
+Mazda CX-5 2.0L Premium Sport  2023,2023,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mazda,798000000,2,14000
+BMW 320i Sport Line 2023,2023,Sedan,Nhập khẩu,Tp.HCM,Gò Vấp,Số tự động,Máy xăng,BMW,1369000000,2,35000
+Kia K3 2023,2023,Sedan,Trong nước,Thái Nguyên,Thái Nguyên,Số tự động,Máy xăng,Kia,640000000,2,8000
+Kia Sonet 1.5 Premium 2022,2022,Crossover,Trong nước,Thái Nguyên,Thái Nguyên,Số tự động,Máy xăng,Kia,545000000,3,53000
+Hyundai Tucson 2015,2015,SUV,Nhập khẩu,Bình Dương,Thuận An,Số tự động,Máy xăng,Hyundai,530000000,10,88000
+Ford Everest Trend 2.0 AT 4x2 2019,2019,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Ford,750000000,6,79000
+Mercedes-Benz C300 AMG 2022,2022,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1789000000,3,16666
+Mazda 6 2.5L Signature Premium 2022,2022,Sedan,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Mazda,750000000,3,48843
+Toyota Raize 2023,2023,SUV,Trong nước,Bình Dương,Thuận An,Số tự động,Máy xăng,Toyota,495000000,2,15000
+Honda Civic 1.8 AT 2019,2019,Sedan,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Honda,559000000,6,68000
+Kia Seltos 1.4 Deluxe 2022,2022,Crossover,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,558000000,3,29000
+Hyundai Santa Fe 2.4L Xăng Cao cấp 2015,2015,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,558000000,10,77000
+Peugeot 5008 1.6L Turbo 2021,2021,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Peugeot,614000000,4,85471
+FAW Xe đầu kéo 2021,2021,Xe tải,Nhập khẩu,Hà Nội,Cầu Giấy,Số sàn,Máy dầu,FAW,880000000,4,205258
+Toyota Fortuner 2.4 AT 4x2 Legender 2024,2024,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy dầu,Toyota,1169000000,1,12000
+Ford Everest 2.0L ST5 6AT 2WD Titanium 2020,2020,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Ford,856000000,5,85000
+Toyota Fortuner 2020,2020,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Toyota,829000000,5,102000
+Kia Carnival 2.2D Signature 2023,2023,MPV,Trong nước,Bắc Ninh,Bắc Ninh,Số tự động,Máy dầu,Kia,1275000000,2,30000
+Toyota Land Cruiser VX 4.6 V8 2013,2013,SUV,Nhập khẩu,Hà Nội,Đống Đa,Số tự động,Máy xăng,Toyota,1790000000,12,130000
+Honda Jazz VX 2019,2019,Hatchback,Nhập khẩu,Hà Nội,Đống Đa,Số tự động,Máy xăng,Honda,389000000,6,56000
+Hyundai Grand i10 Sedan 1.2 MT 2018,2018,Sedan,Trong nước,Hưng Yên,Khoái Châu,Số sàn,Máy xăng,Hyundai,235000000,7,130000
+Mercedes-Benz GLC 200 4Matic 2022,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1679000000,3,28888
+Ford Ranger Wildtrak 2.0L 4x4 AT 2019,2019,Bán tải,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy dầu,Ford,530000000,6,87000
+Honda City 1.5 G 2022,2022,Sedan,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Honda,429000000,3,1600
+Mercedes-Benz C200 Avantgarde Plus 2022,2022,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1398000000,3,23500
+MG 5 LUX 2024,2024,Sedan,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,MG,460000000,1,19000
+Ford Escape XLT 2.3 AT 4x4 2004,2004,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Ford,139000000,21,190000
+Suzuki Vitara JLX 1.6 4X4 2004,2004,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số sàn,Máy xăng,Suzuki,145000000,21,190000
+Lexus ES 350 2015,2015,Sedan,Nhập khẩu,Hà Nội,Ba Đình,Số tự động,Máy xăng,Lexus,1050000000,10,72000
+Kia Forte EX 1.6 MT 2011,2011,Sedan,Trong nước,Tp.HCM,Other,Số sàn,Máy xăng,Kia,225000000,14,70000
+Mercedes-Benz GLC 300 4Matic V1 2022,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1939000000,3,8500
+Mitsubishi Zinger 2008,2008,MPV,Trong nước,Tp.HCM,Other,Số sàn,Máy xăng,Mitsubishi,195000000,17,90000
+Mitsubishi Triton 4×2 AT MIVEC 2021,2021,Bán tải,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy dầu,Mitsubishi,525000000,4,78000
+Honda City 1.5 G 2013,2013,Sedan,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,Honda,265000000,12,180000
+Honda Civic 1.8 AT 2009,2009,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Honda,250000000,16,128000
+Mazda BT-50 Standard 4x4 2.2 MT 2014,2014,Bán tải,Nhập khẩu,Tp.HCM,Other,Số sàn,Máy dầu,Mazda,295000000,11,120000
+Mercedes-Benz GLC 200 4Matic 2021,2021,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1559000000,4,27500
+MG ZS 1.5 2WD LUX+ 2024,2024,SUV,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy xăng,MG,499000000,1,19000
+Mitsubishi Pajero GL 3.0 MT 2002,2002,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số sàn,Máy xăng,Mitsubishi,129000000,23,190000
+Kia Carens SX 2.0 AT 2011,2011,MPV,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,Kia,230000000,14,120000
+Honda City 1.5 L 2022,2022,Sedan,Trong nước,Hải Phòng,Kiến An,Số tự động,Máy xăng,Honda,445000000,3,70000
+Mazda CX-5 2.0 Deluxe 2023,2023,SUV,Trong nước,Hải Phòng,Kiến An,Số tự động,Máy xăng,Mazda,720000000,2,13000
+Ford Territory Titanium X 2024,2024,SUV,Trong nước,Hải Phòng,Kiến An,Số tự động,Máy xăng,Ford,799000000,1,31000
+Hyundai Tucson 2.0 Đặc biệt 2017,2017,SUV,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Hyundai,625000000,8,98000
+Toyota Corolla Altis 1.8 G 2020,2020,Sedan,Trong nước,Tp.HCM,Quận 8,Số tự động,Máy xăng,Toyota,545000000,5,70000
+Toyota Vios 1.5 E CVT 2022,2022,Sedan,Trong nước,Tp.HCM,Quận 8,Số tự động,Máy xăng,Toyota,425000000,3,16000
+Subaru Forester 2.0 - XT 2016,2016,SUV,Nhập khẩu,Tp.HCM,Quận 8,Số tự động,Máy xăng,Subaru,599000000,9,13200
+Kia Sorento 2.2 DAT Premium 2019,2019,SUV,Trong nước,Tp.HCM,Quận 8,Số tự động,Máy dầu,Kia,725000000,6,19000
+Toyota Rush 1.5 AT 2021,2021,SUV,Nhập khẩu,Tp.HCM,Quận 8,Số tự động,Máy xăng,Toyota,499000000,4,86000
+Mazda 6 2.0 Premium 2020,2020,Sedan,Trong nước,Tp.HCM,Quận 8,Số tự động,Máy xăng,Mazda,599000000,5,58000
+Toyota Innova 2.0E 2013,2013,MPV,Trong nước,Hà Nội,Thanh Xuân,Số sàn,Máy xăng,Toyota,255000000,12,130000
+Mazda 3 1.5L Sedan 2023,2023,Sedan,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mazda,585000000,2,13000
+Mazda 3 1.5L Sedan 2023,2023,Sedan,Trong nước,Phú Thọ,Việt Trì,Số tự động,Máy xăng,Mazda,585000000,2,13000
+Kia Sonet 1.5 Premium 2023,2023,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Kia,575000000,2,32000
+Hyundai Santa Fe 2.2 Dầu Cao cấp 2022,2022,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,1168000000,3,60000
+Mercedes-Benz GLC 200 V1 2022,2022,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1438000000,3,28000
+Land Rover Range Rover Evoque 2.0P HSE Dynamic 2012,2012,SUV,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Land,499000000,13,62000
+Peugeot 2008 GT Line 2022,2022,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Peugeot,639000000,3,40000
+MG 5 1.5L Luxury 2024,2024,Sedan,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,MG,465000000,1,10000
+Mazda 3 1.5L Sedan 2019,2019,Sedan,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mazda,465000000,6,80000
+Mitsubishi Xpander 1.5 AT  2020,2020,MPV,Nhập khẩu,Hà Nội,Đông Anh,Số tự động,Máy xăng,Mitsubishi,470000000,5,30000
+Mercedes-Benz E200 E200 2019,2019,Sedan,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1198000000,6,23000
+Mercedes-Benz C300 AMG 2016,2016,Sedan,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,758000000,9,76000
+Mercedes-Benz GLC 200 4Matic 2021,2021,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1388000000,4,88000
+Hyundai Santa Fe 2.2 Dầu Cao cấp 2021,2021,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy dầu,Hyundai,1085000000,4,72000
+Mercedes-Benz GLE 450 4Matic 2016,2016,Coupe,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1339000000,9,58000
+Mercedes-Benz AMG C43 2017,2017,Coupe,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1999000000,8,21000
+Honda CR-V 2.4L TG 2010,2010,SUV,Nhập khẩu,Hà Nội,Đông Anh,Số tự động,Máy xăng,Honda,285000000,15,100000
+Ford EcoSport Titanium 1.5L AT 2015,2015,SUV,Trong nước,Hải Dương,Other,Số tự động,Máy xăng,Ford,335000000,10,121341
+Ford Everest Titanium 2.0 AT 4x2 2023,2023,SUV,Nhập khẩu,Hải Dương,Hải Dương,Số tự động,Máy dầu,Ford,1199000000,2,13000
+Hyundai Elantra 1.8 AT 2013,2013,Sedan,Nhập khẩu,Hải Dương,Other,Số tự động,Máy xăng,Hyundai,330000000,12,121234
+Mitsubishi Xpander 1.5 AT  2020,2020,Other,Nhập khẩu,Hải Phòng,An Lão,Số tự động,Máy xăng,Mitsubishi,479000000,5,80000
+Toyota Hiace 3.0 MT 2007,2007,Van/Minivan,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy dầu,Toyota,195000000,18,160000
+Hyundai Grand i10 1.0 AT 2015,2015,Other,Trong nước,Hải Phòng,An Lão,Số tự động,Máy xăng,Hyundai,239000000,10,75284
+Hyundai Grand i10 Sedan 1.2 MT 2023,2023,Sedan,Trong nước,Hải Phòng,An Lão,Số sàn,Máy xăng,Hyundai,285000000,2,50000
+Hyundai Accent 1.4 MT 2019,2019,Sedan,Trong nước,Hải Phòng,An Lão,Số sàn,Máy xăng,Hyundai,330000000,6,80000
+Toyota Innova 2.0E 2013,2013,Other,Trong nước,Hải Phòng,An Lão,Số sàn,Máy xăng,Toyota,258000000,12,200000
+Nissan Terra 2.5L E 2WD AT 2019,2019,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Nissan,640000000,6,67000
+Hyundai Grand Starex 2.5 MT 2016,2016,Van/Minivan,Nhập khẩu,Hà Nội,Hà Đông,Số sàn,Máy xăng,Hyundai,395000000,9,120000
+Kia Rio 1.4 AT 2015,2015,Other,Trong nước,Hải Phòng,An Lão,Số tự động,Máy xăng,Kia,315000000,10,50000
+Ford Ranger XL 2.5 4x4 MT 2011,2011,Bán tải,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy xăng,Ford,230000000,14,160000
+Mitsubishi Triton 2011,2011,Bán tải,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy xăng,Mitsubishi,248000000,14,155000
+Hyundai Grand i10 2015,2015,Other,Trong nước,Hải Phòng,An Lão,Số tự động,Máy xăng,Hyundai,239000000,10,75284
+Mazda CX-8 Premium 2020,2020,SUV,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Mazda,739000000,5,62000
+Mercedes-Benz C300 AMG 2021,2021,Sedan,Trong nước,Bắc Ninh,Quế Võ,Số tự động,Máy xăng,Mercedes-Benz,1100000000,4,54000
+Teraco Tera 100 2023,2023,Xe tải,Trong nước,Bắc Ninh,Quế Võ,Số sàn,Máy xăng,Teraco,185000000,2,12000
+Honda CR-V 2.4L TG 2016,2016,SUV,Trong nước,Bắc Ninh,Quế Võ,Số tự động,Máy xăng,Honda,535000000,9,100000
+Ford Everest Titanium 2.0L AT 4WD 2021,2021,SUV,Nhập khẩu,Bắc Ninh,Quế Võ,Số tự động,Máy dầu,Ford,980000000,4,68000
+Hyundai Grand i10 Hatchback 1.2 AT 2020,2020,Hatchback,Trong nước,Bắc Ninh,Quế Võ,Số tự động,Máy xăng,Hyundai,333000000,5,52000
+Hyundai Elantra 1.6 AT 2014,2014,Other,Trong nước,Hải Phòng,An Lão,Số tự động,Máy xăng,Hyundai,328000000,11,112503
+Suzuki Vitara 1.6 AT 2011,2011,SUV,Nhập khẩu,Hải Phòng,An Lão,Số tự động,Máy xăng,Suzuki,295000000,14,100000
+Toyota Vios 2023,2023,Sedan,Trong nước,Hải Phòng,An Lão,Số tự động,Máy xăng,Toyota,430000000,2,30000
+Hyundai Elantra 2014,2014,Sedan,Nhập khẩu,Hải Phòng,An Lão,Số tự động,Máy xăng,Hyundai,320000000,11,80000
+Nissan Terra 2.5L V 4WD AT 2019,2019,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Nissan,715000000,6,64000
+Mazda 3 1.5 Hatchback 2018,2018,Hatchback,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mazda,438000000,7,79000
+Nissan Terra 2.5L S 2WD MT 2018,2018,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số sàn,Máy dầu,Nissan,530000000,7,88000
+Mazda CX-5 2.0 Luxury 2024,2024,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,770000000,1,20000
+Ford Ranger Wildtrak 2.0L 4x4 AT 2022,2022,Bán tải,Trong nước,Hải Dương,Hải Dương,Số tự động,Máy dầu,Ford,815000000,3,65000
+Isuzu D-Max  LS 4x2 MT 2011,2011,Bán tải,Trong nước,Hà Nội,Hà Đông,Số sàn,Máy dầu,Isuzu,230000000,14,160000
+Mazda 6 2.0L Luxury 2020,2020,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,550000000,5,50000
+Mitsubishi Attrage 1.2L MT 2021,2021,Other,Trong nước,Hải Phòng,Đồ Sơn,Số sàn,Máy xăng,Mitsubishi,275000000,4,20000
+Subaru Forester 2.0i-S 2019,2019,SUV,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Subaru,690000000,6,70000
+Hyundai Santa Fe 2.2L Dầu Cao cấp 2022,2022,SUV,Trong nước,Hà Nội,Long Biên,Số tự động,Máy dầu,Hyundai,1158000000,3,70000
+Hyundai Accent 1.4 MT 2019,2019,Sedan,Trong nước,Vĩnh Phúc,Phúc Yên,Số sàn,Máy xăng,Hyundai,325000000,6,120000
+Honda Civic 1.5 Turbo RS 2022,2022,Sedan,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Honda,735000000,3,35000
+Toyota Corolla Altis 1.8 G 2011,2011,Sedan,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Toyota,345000000,14,150000
+Toyota Land Cruiser Prado TX-L 2017,2017,SUV,Nhập khẩu,Tp.HCM,Gò Vấp,Số tự động,Máy xăng,Toyota,1250000000,8,86000
+Toyota Corolla Cross 1.8 HV 2022,2022,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Hybrid,Toyota,778000000,3,42000
+Toyota Camry 2.5Q 2012,2012,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,455000000,13,95000
+Toyota Veloz Cross 1.5 CVT TOP 2022,2022,SUV,Nhập khẩu,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,525000000,3,60000
+Mercedes-Benz C300 AMG 2022,2022,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1799000000,3,26000
+Toyota Camry 2.5Q 2012,2012,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,455000000,13,95000
+Mazda 3 1.5L Sedan 2015,2015,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Mazda,345000000,10,65000
+Suzuki Ertiga Hybrid Ertiga AT 2022,2022,SUV,Nhập khẩu,Tp.HCM,Hóc Môn,Số tự động,Hybrid,Suzuki,455000000,3,50000
+Ford Ranger Wildtrak 2.0l bi-turbo 4x4 10 AT 2022,2022,Bán tải,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy dầu,Ford,810000000,3,55000
+Toyota Vios 1.5 G CVT 2021,2021,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,395000000,4,75000
+Mercedes-Benz E300 AMG 2021,2021,Sedan,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1858000000,4,22000
+Mercedes-Benz GLC 200 4Matic 2021,2021,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1558000000,4,28000
+Mercedes-Benz GLC 300 4Matic 2022,2022,SUV,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mercedes-Benz,1758000000,3,52000
+VinFast LUX SA2.0 Cao cấp 2020,2020,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,VinFast,659000000,5,20000
+Suzuki Super Carry Van Blind Van 2020,2020,Van/Minivan,Trong nước,Hà Nội,Đông Anh,Số sàn,Máy xăng,Suzuki,215000000,5,80000
+Mercedes-Benz E300 AMG 2021,2021,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1858000000,4,21000
+BMW 320i M Sport 2017,2017,Sedan,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy xăng,BMW,798000000,8,73000
+Mercedes-Benz GLC 300 4Matic 2022,2022,SUV,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,Mercedes-Benz,1800000000,3,60000
+Ford EcoSport Titanium 1.5L AT 2016,2016,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Ford,329000000,9,84000
+Porsche Cayenne 3.6 V6 2014,2014,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Porsche,1188000000,11,90
+Mercedes-Benz E200 2019,2019,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1039000000,6,65000
+Mercedes-Benz GLC 200 4Matic 2022,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1399000000,3,40000
+Mercedes-Benz GLC 300 4Matic 2019,2019,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1099000000,6,8
+Mercedes-Benz GLC 200 4Matic 2021,2021,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1450000000,4,60000
+Kia Cerato 1.6 MT 2017,2017,Other,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy xăng,Kia,315000000,8,75000
+Mitsubishi Pajero Sport D 4x2 AT 2022,2022,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Mitsubishi,925000000,3,60000
+Ford Ranger Wildtrak 3.2 4x4 AT 2016,2016,Other,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy xăng,Ford,535000000,9,90000
+Chevrolet Colorado 2.5L 4x4 MT LT 2017,2017,Bán tải,Nhập khẩu,Bình Phước,Đồng Phú,Số sàn,Máy dầu,Chevrolet,330000000,8,102000
+Lexus ES 250 2021,2021,Sedan,Nhập khẩu,Hà Nội,Ba Đình,Số tự động,Máy xăng,Lexus,2150000000,4,56000
+Ford Everest Trend 2.0 AT 4x4 2018,2018,Other,Nhập khẩu,Bình Phước,Đồng Phú,Số tự động,Máy xăng,Ford,735000000,7,88000
+Mazda CX-5 2.0 Deluxe 2021,2021,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mazda,660000000,4,29000
+Suzuki Swift 2014,2014,Hatchback,Nhập khẩu,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Suzuki,265000000,11,86000
+Toyota Avanza 1.5 AT 2023,2023,Other,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,495000000,2,68000
+Toyota Corolla Altis 1.8 G 2016,2016,Other,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,435000000,9,83000
+Mercedes-Benz GLC 250 4Matic 2019,2019,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,990000000,6,50000
+Mercedes-Benz E250 E250 2016,2016,Sedan,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,795000000,9,60000
+Ford Everest 2.0L ST5 6AT 2WD Titanium 2018,2018,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,830000000,7,77000
+Ford Transit SVP 2021,2021,Van/Minivan,Trong nước,Tp.HCM,Tân Phú,Số sàn,Máy dầu,Ford,580000000,4,87000
+Ford Ranger Raptor 2020,2020,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,965000000,5,57000
+Ford Ranger Wildtrak 3.2 4x4 AT 2017,2017,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,615000000,8,73000
+Ford Everest Sport 2.0 AT 4x2 2014,2014,Other,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,880000000,11,61000
+Ford Everest 2.0L ST5 10AT 4x4 Titanium 2022,2022,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,1295000000,3,46000
+Ford Explorer 2.3L Ecoboost 2019,2019,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,1160000000,6,72000
+Ford Transit Tiêu chuẩn 2019,2019,Van/Minivan,Trong nước,Tp.HCM,Tân Phú,Số sàn,Máy dầu,Ford,539000000,6,95000
+Kia Sedona 3.3 GATH 2018,2018,MPV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Kia,599000000,7,9200
+Nissan X trail 2.5 SV 4WD Premium 2020,2020,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Nissan,680000000,5,60000
+Nissan Kicks V 2023,2023,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Hybrid,Nissan,675000000,2,8000
+Land Rover Range Rover Evoque evoque 2014,2014,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Land,699000000,11,60000
+Nissan Terra 2.5L E 2WD 7 AT 2019,2019,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Nissan,599000000,6,6700
+Land Rover Range Rover Evoque evoque 2012,2012,SUV,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Land,490000000,13,66400
+BMW X1 sDrive18i 2017,2017,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,569000000,8,120000
+Volvo XC40 B5 AWD Ultimate 2022,2022,SUV,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Volvo,1479000000,3,50000
+Mercedes-Benz S500L 2014,2014,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1298000000,11,90000
+Mercedes-Benz GLC 300 4Matic V1 2022,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1938000000,3,8000
+Ford EcoSport Titanium 1.5L AT 2020,2020,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,465000000,5,40000
+Mercedes-Benz GLC 300 4Matic 2019,2019,Other,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1478000000,6,50000
+Hyundai Venue 1.0 T-GDi 2024,2024,Crossover,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Hyundai,530000000,1,11000
+Mercedes-Benz GLC 200 V1 2022,2022,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1438000000,3,40233
+Mazda 2 Sedan 1.5L Luxury 2021,2021,Sedan,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mazda,458000000,4,7900
+VinFast Fadil Tiêu Chuẩn 2022,2022,Hatchback,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,VinFast,337000000,3,21000
+Hyundai Elantra   2.0 AT 2021,2021,Sedan,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Hyundai,522000000,4,30000
+Mercedes-Benz GLC 300 2021,2021,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1598000000,4,53000
+Toyota Veloz Cross 1.5 CVT 2022,2022,MPV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Toyota,530000000,3,16000
+Mercedes-Benz E200 Exclusive 2019,2019,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1098000000,6,42000
+BMW X3 xDrive30i 2024,2024,Other,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,BMW,2038000000,1,5555
+Ford Everest 2.0L ST5 6AT 2WD Titanium 2018,2018,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,828000000,7,66000
+Lexus IS 300 F-Sport 2021,2021,Sedan,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Lexus,1699000000,4,55555
+Ford Ranger Wildtrak 2.0l bi-turbo 4x4 10 AT 2020,2020,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,670000000,5,89000
+Ford Focus S 2.0AT 2013,2013,Hatchback,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,330000000,12,89000
+Mercedes-Benz C200 Edition C 2014,2014,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Mercedes-Benz,385000000,11,110000
+Toyota Vios 1.5E MT 2018,2018,Sedan,Trong nước,Bình Định,Quy Nhơn,Số sàn,Máy xăng,Toyota,278000000,7,107000
+Mercedes-Benz E200 E200 2019,2019,Sedan,Nhập khẩu,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Mercedes-Benz,1050000000,6,50000
+Mitsubishi Xpander Cross 1.5 AT 2022,2022,MPV,Nhập khẩu,Tp.HCM,Quận 2,Số tự động,Máy xăng,Mitsubishi,560000000,3,30000
+Mercedes-Benz GLC 200 V1 2022,2022,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1679000000,3,28000
+Kia Carnival 2.2D Signature 2022,2022,MPV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Kia,1219000000,3,60000
+Toyota Camry 2.5Q 2019,2019,Sedan,Nhập khẩu,Bắc Ninh,Bắc Ninh,Số tự động,Máy xăng,Toyota,805000000,6,80000
+Toyota Innova 2.0E 2019,2019,MPV,Trong nước,Bắc Ninh,Bắc Ninh,Số sàn,Máy xăng,Toyota,445000000,6,80000
+Toyota Camry 2021,2021,Sedan,Nhập khẩu,Bắc Ninh,Bắc Ninh,Số tự động,Máy xăng,Toyota,815000000,4,47000
+VinFast LUX A2.0 Tiêu chuẩn 2022,2022,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,VinFast,589000000,3,45000
+Ford Transit MID Tiêu chuẩn 2016,2016,Van/Minivan,Trong nước,Hà Nội,Đông Anh,Số sàn,Máy dầu,Ford,390000000,9,80000
+VinFast LUX A2.0 Tiêu chuẩn 2021,2021,Sedan,Trong nước,Tp.HCM,Quận 2,Số tự động,Máy xăng,VinFast,555000000,4,26000
+Mercedes-Benz GLC 300 4Matic 2018,2018,SUV,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mercedes-Benz,1139000000,7,24000
+Kia Carnival 2.2D Signature 2024,2024,MPV,Trong nước,Tp.HCM,Quận 2,Số tự động,Máy dầu,Kia,1345000000,1,34000
+Kia Morning S 1.25 AT 2018,2018,Hatchback,Trong nước,Tp.HCM,Quận 2,Số tự động,Máy xăng,Kia,299000000,7,34000
+Toyota Fortuner 2.4 AT 4x2 Legender 2025,2025,SUV,Trong nước,Tp.HCM,Quận 2,Số tự động,Máy dầu,Toyota,1175000000,0,5000
+Toyota Hiace 2011,2011,Van/Minivan,Trong nước,Hà Nội,Đông Anh,Số sàn,Máy xăng,Toyota,285000000,14,10000
+Mercedes-Benz E300 AMG 2021,2021,Other,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1858000000,4,20000
+Toyota Vios 1.5 E CVT 2024,2024,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Toyota,460000000,1,23000
+Peugeot 2008 GT 2022,2022,Crossover,Nhập khẩu,Tp.HCM,Quận 2,Số tự động,Máy xăng,Peugeot,678000000,3,14000
+Subaru Outback 2.5i-S 2010,2010,SUV,Nhập khẩu,Tp.HCM,Quận 2,Số tự động,Máy xăng,Subaru,429000000,15,80000
+Mitsubishi Jolie 2.0 MT 2005,2005,SUV,Trong nước,Tp.HCM,Quận 10,Số sàn,Máy xăng,Mitsubishi,107000000,20,89000
+Honda City 1.5 TOP CVT 2018,2018,Sedan,Trong nước,Tp.HCM,Quận 10,Số tự động,Máy xăng,Honda,378000000,7,455000
+Hyundai Grand i10 2014,2014,Hatchback,Nhập khẩu,Quảng Bình,Đồng Hới,Số sàn,Máy xăng,Hyundai,119000000,11,111000
+Hyundai Grand i10 2014,2014,Hatchback,Nhập khẩu,Hà Tĩnh,Hà Tĩnh,Số sàn,Máy xăng,Hyundai,119000000,11,110000
+Hyundai Accent 1.4 MT 2018,2018,Sedan,Trong nước,Hà Tĩnh,Hà Tĩnh,Số sàn,Máy xăng,Hyundai,286000000,7,81000
+Hyundai Accent 1.4 MT 2018,2018,Sedan,Trong nước,Nghệ An,Vinh,Số sàn,Máy xăng,Hyundai,286000000,7,81000
+Daewoo Lacetti EX 1.6 2009,2009,Sedan,Trong nước,Hà Tĩnh,Hà Tĩnh,Số sàn,Máy xăng,Daewoo,75000000,16,102000
+Hyundai Accent 1.4 AT Đặc biệt 2015,2015,Sedan,Nhập khẩu,Nghệ An,Vinh,Số tự động,Máy xăng,Hyundai,305000000,10,78000
+Daewoo Lacetti EX 1.6 2008,2008,Sedan,Trong nước,Thanh Hóa,Thanh Hóa,Số sàn,Máy xăng,Daewoo,65000000,17,110000
+Kia Morning 1.25 MT 2020,2020,Hatchback,Trong nước,Quảng Bình,Đồng Hới,Số sàn,Máy xăng,Kia,200000000,5,67000
+Kia Seltos 1.4T Premium 2023,2023,SUV,Trong nước,Hà Nội,Hoàng Mai,Số tự động,Máy xăng,Kia,665000000,2,14000
+Hyundai Grand i10 Hatchback 1.2 AT 2019,2019,Hatchback,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,318000000,6,90000
+Hyundai Tucson 2.0 Tiêu chuẩn 2019,2019,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,595000000,6,60000
+Mazda 3 1.5L Sedan 2020,2020,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,495000000,5,60000
+Ford Territory 1.5L Titanium 2023,2023,Crossover,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Ford,760000000,2,24000
+Kia Sorento 2.2 DAT Premium 2015,2015,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy dầu,Kia,490000000,10,110000
+Mazda CX-5 2.0 Premium 2020,2020,SUV,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mazda,695000000,5,66000
+Toyota Fortuner 2.7 V 4X2 AT 2018,2018,SUV,Trong nước,Tp.HCM,Quận 2,Số tự động,Máy xăng,Toyota,685000000,7,60000
+Ford EcoSport Titanium 1.5L AT 2020,2020,Convertible,Trong nước,Bình Dương,Dĩ An,Số tự động,Máy xăng,Ford,485000000,5,85000
+Honda City 2014,2014,Sedan,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,Honda,295000000,11,100000
+Ford EcoSport Titanium 1.0L AT 2019,2019,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,495000000,6,8900
+Ford Fiesta S 1.6 AT 2012,2012,Hatchback,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Ford,285000000,13,37000
+Ford Ranger Wildtrak 2.0L 4x4 AT 2020,2020,Bán tải,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,738000000,5,52000
+Hyundai Grand i10 2019,2019,Sedan,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,Hyundai,320000000,6,30000
+Ford Transit 2019,2019,Minibus,Trong nước,Tp.HCM,Tân Phú,Số sàn,Máy dầu,Ford,545000000,6,95000
+Ford Ranger XLS 2.0L 4x2 AT 2020,2020,Bán tải,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,558000000,5,82000
+Ford EcoSport Ambiente 1.5L AT 2018,2018,SUV,Trong nước,Bà Rịa Vũng Tàu,Bà Rịa,Số tự động,Máy xăng,Ford,386000000,7,77000
+Honda City 2016,2016,Sedan,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,Honda,335000000,9,80000
+Mercedes-Benz S450 4Matic Luxury 2017,2017,Sedan,Nhập khẩu,Hà Nội,Long Biên,Số tự động,Máy xăng,Mercedes-Benz,1889000000,8,69000
+VinFast Fadil Nâng Cao 2020,2020,Hatchback,Trong nước,Hà Nội,Đông Anh,Số tự động,Máy xăng,VinFast,300000000,5,60000
+VinFast VF8 Eco 2022,2022,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Điện,VinFast,730000000,3,31000
+Ford Ranger XLS 2.2 4x2 AT 2021,2021,Bán tải,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy dầu,Ford,545000000,4,67000
+Isuzu mu-X 2.5 4x2 MT 2017,2017,SUV,Nhập khẩu,Kon Tum,Đăk Hà,Số sàn,Máy dầu,Isuzu,480000000,8,40000
+VinFast VF8 Eco 2023,2023,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Điện,VinFast,750000000,2,32000
+Hyundai HD 2009,2009,Bán tải,Trong nước,Kon Tum,Đăk Hà,Số tự động,Máy xăng,Hyundai,115000000,16,12345
+Hyundai Grand i10 Sedan 1.2 MT 2018,2018,Sedan,Nhập khẩu,Kon Tum,Đăk Hà,Số tự động,Máy xăng,Hyundai,220000000,7,90000
+Mercedes-Benz C200 Edition C 2008,2008,Sedan,Trong nước,Kon Tum,Đăk Hà,Số tự động,Máy xăng,Mercedes-Benz,220000000,17,145000
+Kia Sonet 1.5 Premium 2022,2022,Other,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy xăng,Kia,575000000,3,30000
+Hyundai Accent 1.4 AT Đặc biệt 2020,2020,Sedan,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Hyundai,410000000,5,55000
+Ford Ranger XLS 2.0L 4x2 AT 2023,2023,Bán tải,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,668000000,2,6800
+Hyundai Santa Fe Gold 2008,2008,SUV,Trong nước,Tp.HCM,Thủ Đức,Số tự động,Máy dầu,Hyundai,325000000,17,173000
+Ford Ranger Wildtrak 2.0L 4x4 AT 2019,2019,Bán tải,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy dầu,Ford,530000000,6,87000
+Mazda 3 Sport 2.0L Signature Luxury 2022,2022,Hatchback,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mazda,579000000,3,38000
+Toyota Vios 1.5E MT 2022,2022,Sedan,Trong nước,Bình Phước,Đồng Phú,Số sàn,Máy xăng,Toyota,390000000,3,30000
+Isuzu D-Max Prestige Hi-Lander 2023,2023,Bán tải,Nhập khẩu,Tp.HCM,Quận 2,Số tự động,Máy dầu,Isuzu,590000000,2,40000
+Hyundai Tucson 2.0 Tiêu chuẩn 2020,2020,SUV,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy xăng,Hyundai,645000000,5,46000
+Honda City RS 2022,2022,Sedan,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Honda,509000000,3,19000
+Kia Morning GT-LINE 2022,2022,Hatchback,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Kia,382000000,3,31500
+Toyota Fortuner 2.7 V 4X2 AT 2020,2020,SUV,Trong nước,Tp.HCM,Quận 2,Số tự động,Máy xăng,Toyota,780000000,5,31000
+Kia Morning MT 2018,2018,Hatchback,Trong nước,Thanh Hóa,Triệu Sơn,Số sàn,Máy xăng,Kia,175000000,7,100000
+Kia Morning Si 1.25 MT 2018,2018,Hatchback,Trong nước,Thanh Hóa,Triệu Sơn,Số sàn,Máy xăng,Kia,198000000,7,93000
+Kia Sonet 1.5 Luxury 2023,2023,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Kia,554000000,2,16000
+Ford Everest Titanium 2.2L 4x2 AT 2017,2017,SUV,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy dầu,Ford,660000000,8,176000
+Ford Everest 2.0L ST5 10AT 4x4 Titanium 2020,2020,SUV,Nhập khẩu,Tp.HCM,Bình Tân,Số tự động,Máy dầu,Ford,870000000,5,30
+Ford Everest 2018,2018,Other,Nhập khẩu,Bình Phước,Đồng Phú,Số tự động,Máy dầu,Ford,675000000,7,85000
+Toyota Fortuner 2.8V 4X4 AT 2018,2018,SUV,Trong nước,Bình Phước,Đồng Phú,Số tự động,Máy dầu,Toyota,785000000,7,110000
+Mazda 6 2.0 Premium 2022,2022,Sedan,Trong nước,Tp.HCM,Bình Tân,Số tự động,Máy xăng,Mazda,689000000,3,25000
+Toyota Fortuner 2.7 V 4X2 AT 2018,2018,SUV,Nhập khẩu,Tp.HCM,Quận 2,Số tự động,Máy xăng,Toyota,685000000,7,100000
+Hyundai Accent 1.4 AT 2023,2023,Sedan,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Hyundai,455000000,2,15000
+Toyota Fortuner 2.8V 4X4 AT 2019,2019,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy dầu,Toyota,925000000,6,87000
+Toyota Fortuner 2.7V 2018,2018,SUV,Trong nước,Hà Nội,Nam Từ Liêm,Số tự động,Máy xăng,Toyota,735000000,7,80000
+VinFast LUX A2.0 Tiêu chuẩn 2021,2021,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,VinFast,565000000,4,50000
+VinFast VF e34 Tiêu chuẩn 2022,2022,Other,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,VinFast,510000000,3,20000
+VinFast LUX A2.0 Cao cấp 2022,2022,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,VinFast,654000000,3,20000
+Hyundai Elantra 2021,2021,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Hyundai,495000000,4,60000
+MG RX5 1.5 LUX 2024,2024,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,MG,670000000,1,5000
+Ford Everest 2.0L ST5 10AT 4x4 Titanium 2022,2022,SUV,Nhập khẩu,Tp.HCM,Other,Số tự động,Máy dầu,Ford,970000000,3,70000
+Ford Ranger XLS 2.2 4x2 MT 2020,2020,Bán tải,Nhập khẩu,Tp.HCM,Bình Tân,Số sàn,Máy dầu,Ford,480000000,5,205000
+Mercedes-Benz C200 Avantgarde Plus 2021,2021,Sedan,Nhập khẩu,Tp.HCM,Thủ Đức,Số tự động,Máy xăng,Mercedes-Benz,1299000000,4,10000
+Toyota Vios 1.5G AT 2023,2023,Sedan,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Toyota,499000000,2,46000
+Mercedes-Benz GLB 200 2020,2020,SUV,Nhập khẩu,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1098000000,5,43000
+BMW 520i 2022,2022,Sedan,Trong nước,Tp.HCM,Gò Vấp,Số tự động,Máy xăng,BMW,1559000000,3,38000
+Mitsubishi Xpander 1.5 AT  2019,2019,MPV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,468000000,6,72000
+Ford Everest 2018,2018,SUV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Ford,820000000,7,77000
+Mitsubishi Xpander 1.5 AT  2019,2019,MPV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,468000000,6,72000
+Mitsubishi Attrage CVT Premium 2021,2021,Sedan,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,370000000,4,45587
+Mitsubishi Xpander 1.5 MT 2023,2023,MPV,Trong nước,Tp.HCM,Tân Phú,Số sàn,Máy xăng,Mitsubishi,480000000,2,22522
+Mitsubishi Outlander 2.0 CVT 2019,2019,SUV,Trong nước,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,590000000,6,35000
+Mitsubishi Xpander 1.5 AT  2022,2022,MPV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,565000000,3,75322
+Mitsubishi Xpander AT Premium 2024,2024,MPV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,618000000,1,10993
+Mitsubishi Xpander AT Premium 2022,2022,MPV,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy xăng,Mitsubishi,550000000,3,90502
+Mitsubishi Triton GLX 2024,2024,Bán tải,Nhập khẩu,Tp.HCM,Tân Phú,Số tự động,Máy dầu,Mitsubishi,620000000,1,20000
+Mercedes-Benz S400 3.0 V6 2014,2014,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,1129000000,11,100000
+Porsche Macan GTS 2016,2016,SUV,Nhập khẩu,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Porsche,1868000000,9,100000
+Toyota Camry 2.5G 2013,2013,Sedan,Trong nước,Bình Dương,Thủ Dầu Một,Số tự động,Máy xăng,Toyota,483000000,12,86000
+VinFast LUX SA2.0 Cao cấp 2020,2020,SUV,Trong nước,Bình Dương,Thủ Dầu Một,Số tự động,Máy xăng,VinFast,668000000,5,69000
+Mercedes-Benz E200 2018,2018,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,950000000,7,79000
+Mitsubishi Outlander 2.0 CVT 2023,2023,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mitsubishi,735000000,2,42438
+Mercedes-Benz C200 2.0 AT 2019,2019,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,829000000,6,42000
+Hyundai Santa Fe 2.2 Dầu Cao cấp 2021,2021,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy dầu,Hyundai,1075000000,4,68234
+Honda CR-V 1.5 L 2020,2020,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Honda,830000000,5,1
+Toyota Land Cruiser Prado VX 2019,2019,SUV,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Toyota,1930000000,6,85981
+Toyota Corolla Cross 1.8 V  2020,2020,SUV,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Toyota,665000000,5,37942
+Toyota Fortuner 2.7V 2017,2017,SUV,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Toyota,650000000,8,79389
+Mercedes-Benz GLC 200 4Matic 2021,2021,SUV,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Mercedes-Benz,1320000000,4,29000
+Toyota Yaris 1.5G 2021,2021,Hatchback,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Toyota,560000000,4,1
+Hyundai Santa Fe 2.5 Xăng Cao cấp 2022,2022,SUV,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Hyundai,1080000000,3,59500
+Ford Everest Titanium 2.0 AT 4x2 2019,2019,SUV,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy dầu,Ford,815000000,6,1
+Mercedes-Benz GLC 300 4Matic 2021,2021,SUV,Trong nước,Hà Nội,Long Biên,Số tự động,Máy xăng,Mercedes-Benz,1690000000,4,59000
+Hyundai Santa Fe 2.2 Dầu Cao cấp 2023,2023,SUV,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy dầu,Hyundai,1165000000,2,39336
+Mercedes-Benz C250 Exclusive 2016,2016,Sedan,Nhập khẩu,Hà Nội,Tây Hồ,Số tự động,Máy xăng,Mercedes-Benz,500000000,9,60000
+Mercedes-Benz GLC 300 4Matic 2017,2017,SUV,Nhập khẩu,Hà Nội,Tây Hồ,Số tự động,Máy xăng,Mercedes-Benz,960000000,8,50000
+Mazda CX-5 2.0 Premium 2022,2022,SUV,Trong nước,Bắc Ninh,Bắc Ninh,Số tự động,Máy xăng,Mazda,738000000,3,53000
+Kia Morning Luxury 2020,2020,Hatchback,Trong nước,Bắc Ninh,Bắc Ninh,Số tự động,Máy xăng,Kia,303000000,5,60000
+Mazda 3 Sedan 1.5L Luxury 2019,2019,Sedan,Trong nước,Bắc Ninh,Bắc Ninh,Số tự động,Máy xăng,Mazda,455000000,6,50000
+Toyota Vios 1.5 E CVT 2024,2024,Sedan,Trong nước,Bắc Ninh,Bắc Ninh,Số tự động,Máy xăng,Toyota,445000000,1,14000
+Toyota Vios 1.5 E CVT 2022,2022,Sedan,Trong nước,Tp.HCM,Hóc Môn,Số tự động,Máy xăng,Toyota,399000000,3,58000
+Mercedes-Benz E180 V1 2022,2022,Sedan,Trong nước,Hà Nội,Cầu Giấy,Số tự động,Máy xăng,Mercedes-Benz,1559000000,3,5999
+Mercedes-Benz Maybach S500 2015,2015,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1299000000,10,90
+Mercedes-Benz GLC 300 4Matic 2017,2017,SUV,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1069000000,8,70
+Mercedes-Benz C200 Avantgarde 2022,2022,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1239000000,3,47000
+Mercedes-Benz C200 Avantgarde Plus 2023,2023,Sedan,Trong nước,Tp.HCM,Quận 7,Số tự động,Máy xăng,Mercedes-Benz,1699000000,2,10
+Mazda 3 Sedan 1.5L Luxury 2021,2021,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Mazda,555000000,4,510000
+Kia Seltos 1.4 Premium 2022,2022,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Kia,629000000,3,41000
+Hyundai Accent 1.5 AT cao cấp 2024,2024,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Hyundai,545000000,1,2000
+Hyundai Elantra   2.0 AT 2021,2021,Sedan,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Hyundai,498000000,4,42000
+Mazda CX-5 2.0 Deluxe 2022,2022,SUV,Trong nước,Hà Nội,Bắc Từ Liêm,Số tự động,Máy xăng,Mazda,689000000,3,28000
+Nissan X trail 2.5 SV 4WD Premium 2018,2018,SUV,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Nissan,540000000,7,86000
+Mitsubishi Attrage 1.2L MT 2023,2023,Other,Nhập khẩu,Hà Nội,Thanh Xuân,Số sàn,Máy xăng,Mitsubishi,315000000,2,45000
+Toyota Yaris 1.3G 2015,2015,Other,Trong nước,Hòa Bình,Lương Sơn,Số tự động,Máy xăng,Toyota,360000000,10,100000
+Toyota Fortuner 2.7V 2016,2016,Other,Trong nước,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Toyota,465000000,9,130000
+Mercedes-Benz E280 2008,2008,Sedan,Nhập khẩu,Hà Nội,Thanh Xuân,Số tự động,Máy xăng,Mercedes-Benz,195000000,17,260000
