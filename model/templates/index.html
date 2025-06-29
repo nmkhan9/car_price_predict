@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Price Prediction</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 50px; }
+        .form-group { margin-bottom: 15px; }
+        label { display: inline-block; width: 150px; }
+        input, select { padding: 5px; width: 250px; }
+        button { padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer; }
+        button:hover { background-color: #45a049; }
+        #result { margin-top: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Car Price Prediction</h1>
+    <form id="predict-form">
+        <div class="form-group">
+            <label for="Body_Type">Body Type:</label>
+            <select name="Body_Type" id="Body_Type" required>
+                <option value="Bán tải">Bán tải</option>
+                <option value="Convertible">Convertible</option>
+                <option value="Coupe">Coupe</option>
+                <option value="Crossover">Crossover</option>
+                <option value="Hatchback">Hatchback</option>
+                <option value="Minibus">Minibus</option>
+                <option value="MPV">MPV</option>
+                <option value="Other">Other</option>
+                <option value="Sedan">Sedan</option>
+                <option value="Sport Car">Sport Car</option>
+                <option value="SUV">SUV</option>
+                <option value="Van/Minivan">Van/Minivan</option>
+                <option value="Xe tải">Xe tải</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="Origin">Origin:</label>
+            <select name="Origin" id="Origin" required>
+                <option value="Nhập khẩu">Nhập khẩu</option>
+                <option value="Trong nước">Trong nước</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="Province">Province:</label>
+            <select name="Province" id="Province" required>
+                <option value="Bà Rịa Vũng Tàu">Bà Rịa Vũng Tàu</option>
+                <option value="Bắc Ninh">Bắc Ninh</option>
+                <option value="Bình Dương">Bình Dương</option>
+                <option value="Bình Định">Bình Định</option>
+                <option value="Bình Phước">Bình Phước</option>
+                <option value="Đồng Nai">Đồng Nai</option>
+                <option value="Hà Nội">Hà Nội</option>
+                <option value="Hà Tĩnh">Hà Tĩnh</option>
+                <option value="Hải Dương">Hải Dương</option>
+                <option value="Hải Phòng">Hải Phòng</option>
+                <option value="Hòa Bình">Hòa Bình</option>
+                <option value="Hưng Yên">Hưng Yên</option>
+                <option value="Kon Tum">Kon Tum</option>
+                <option value="Long An">Long An</option>
+                <option value="Nghệ An">Nghệ An</option>
+                <option value="Phú Thọ">Phú Thọ</option>
+                <option value="Quảng Bình">Quảng Bình</option>
+                <option value="Thái Nguyên">Thái Nguyên</option>
+                <option value="Thanh Hóa">Thanh Hóa</option>
+                <option value="Tp.HCM">Tp.HCM</option>
+                <option value="Vĩnh Phúc">Vĩnh Phúc</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="District">District:</label>
+            <select name="District" id="District" required>
+                <option value="An Lão">An Lão</option>
+                <option value="Ba Đình">Ba Đình</option>
+                <option value="Bắc Ninh">Bắc Ninh</option>
+                <option value="Bắc Từ Liêm">Bắc Từ Liêm</option>
+                <option value="Biên Hòa">Biên Hòa</option>
+                <option value="Bình Tân">Bình Tân</option>
+                <option value="Bình Thạnh">Bình Thạnh</option>
+                <option value="Cầu Giấy">Cầu Giấy</option>
+                <option value="Đăk Hà">Đăk Hà</option>
+                <option value="Dĩ An">Dĩ An</option>
+                <option value="Đoan Hùng">Đoan Hùng</option>
+                <option value="Đông Anh">Đông Anh</option>
+                <option value="Đồng Hới">Đồng Hới</option>
+                <option value="Đồng Phú">Đồng Phú</option>
+                <option value="Đống Đa">Đống Đa</option>
+                <option value="Gò Vấp">Gò Vấp</option>
+                <option value="Hà Đông">Hà Đông</option>
+                <option value="Hà Tĩnh">Hà Tĩnh</option>
+                <option value="Hải Dương">Hải Dương</option>
+                <option value="Hoàn Kiếm">Hoàn Kiếm</option>
+                <option value="Hóc Môn">Hóc Môn</option>
+                <option value="Hoàng Mai">Hoàng Mai</option>
+                <option value="Khoái Châu">Khoái Châu</option>
+                <option value="Kiến An">Kiến An</option>
+                <option value="Long Biên">Long Biên</option>
+                <option value="Lương Sơn">Lương Sơn</option>
+                <option value="Nam Từ Liêm">Nam Từ Liêm</option>
+                <option value="Other">Other</option>
+                <option value="Quận 10">Quận 10</option>
+                <option value="Quận 12">Quận 12</option>
+                <option value="Quận 2">Quận 2</option>
+                <option value="Quận 7">Quận 7</option>
+                <option value="Quận 8">Quận 8</option>
+                <option value="Quế Võ">Quế Võ</option>
+                <option value="Quốc Oai">Quốc Oai</option>
+                <option value="Quy Nhơn">Quy Nhơn</option>
+                <option value="Tân An">Tân An</option>
+                <option value="Tân Bình">Tân Bình</option>
+                <option value="Tân Phú">Tân Phú</option>
+                <option value="Tây Hồ">Tây Hồ</option>
+                <option value="Thái Nguyên">Thái Nguyên</option>
+                <option value="Thanh Hóa">Thanh Hóa</option>
+                <option value="Thanh Xuân">Thanh Xuân</option>
+                <option value="Thủ Dầu Một">Thủ Dầu Một</option>
+                <option value="Thủ Đức">Thủ Đức</option>
+                <option value="Thuận An">Thuận An</option>
+                <option value="Triệu Sơn">Triệu Sơn</option>
+                <option value="Việt Trì">Việt Trì</option>
+                <option value="Vinh">Vinh</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="Transmission">Transmission:</label>
+            <select name="Transmission" id="Transmission" required>
+                <option value="Số sàn">Số sàn</option>
+                <option value="Số tự động">Số tự động</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="Fuel_Type">Fuel Type:</label>
+            <select name="Fuel_Type" id="Fuel_Type" required>
+                <option value="Điện">Điện</option>
+                <option value="Hybrid">Hybrid</option>
+                <option value="Máy dầu">Máy dầu</option>
+                <option value="Máy xăng">Máy xăng</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="Brand">Brand:</label>
+            <select name="Brand" id="Brand" required>
+                <option value="Audi">Audi</option>
+                <option value="BMW">BMW</option>
+                <option value="Chevrolet">Chevrolet</option>
+                <option value="Citroen">Citroen</option>
+                <option value="Daewoo">Daewoo</option>
+                <option value="Dongben">Dongben</option>
+                <option value="FAW">FAW</option>
+                <option value="Ford">Ford</option>
+                <option value="Honda">Honda</option>
+                <option value="Hyundai">Hyundai</option>
+                <option value="Isuzu">Isuzu</option>
+                <option value="Kia">Kia</option>
+                <option value="Land">Land</option>
+                <option value="Lexus">Lexus</option>
+                <option value="Mazda">Mazda</option>
+                <option value="Mercedes-Benz">Mercedes-Benz</option>
+                <option value="MG">MG</option>
+                <option value="Mini">Mini</option>
+                <option value="Mitsubishi">Mitsubishi</option>
+                <option value="Nissan">Nissan</option>
+                <option value="Peugeot">Peugeot</option>
+                <option value="Porsche">Porsche</option>
+                <option value="Subaru">Subaru</option>
+                <option value="Suzuki">Suzuki</option>
+                <option value="Teraco">Teraco</option>
+                <option value="Toyota">Toyota</option>
+                <option value="VinFast">VinFast</option>
+                <option value="Volkswagen">Volkswagen</option>
+                <option value="Volvo">Volvo</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="age">Age (years):</label>
+            <input type="number" name="age" id="age" step="0.1" min="0" required>
+        </div>
+        <div class="form-group">
+            <label for="mileage_num">Mileage (km):</label>
+            <input type="number" name="mileage_num" id="mileage_num" min="0" required>
+        </div>
+        <button type="submit">Predict Price</button>
+    </form>
+    <div id="result"></div>
+
+    <script>
+        document.getElementById('predict-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const formData = new FormData(e.target);
+            const response = await fetch('/predict', {
+                method: 'POST',
+                body: formData
+            });
+            const result = await response.json();
+            const resultDiv = document.getElementById('result');
+            if (result.prediction) {
+                resultDiv.innerHTML = `Predicted Price: ${result.prediction.toLocaleString()} VND`;
+            } else {
+                resultDiv.innerHTML = `Error: ${result.error}`;
+            }
+        });
+    </script>
+</body>
+</html>
