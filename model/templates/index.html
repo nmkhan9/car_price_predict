@@ -71,55 +71,7 @@
         <div class="form-group">
             <label for="District">District:</label>
             <select name="District" id="District" required>
-                <option value="An Lão">An Lão</option>
-                <option value="Ba Đình">Ba Đình</option>
-                <option value="Bắc Ninh">Bắc Ninh</option>
-                <option value="Bắc Từ Liêm">Bắc Từ Liêm</option>
-                <option value="Biên Hòa">Biên Hòa</option>
-                <option value="Bình Tân">Bình Tân</option>
-                <option value="Bình Thạnh">Bình Thạnh</option>
-                <option value="Cầu Giấy">Cầu Giấy</option>
-                <option value="Đăk Hà">Đăk Hà</option>
-                <option value="Dĩ An">Dĩ An</option>
-                <option value="Đoan Hùng">Đoan Hùng</option>
-                <option value="Đông Anh">Đông Anh</option>
-                <option value="Đồng Hới">Đồng Hới</option>
-                <option value="Đồng Phú">Đồng Phú</option>
-                <option value="Đống Đa">Đống Đa</option>
-                <option value="Gò Vấp">Gò Vấp</option>
-                <option value="Hà Đông">Hà Đông</option>
-                <option value="Hà Tĩnh">Hà Tĩnh</option>
-                <option value="Hải Dương">Hải Dương</option>
-                <option value="Hoàn Kiếm">Hoàn Kiếm</option>
-                <option value="Hóc Môn">Hóc Môn</option>
-                <option value="Hoàng Mai">Hoàng Mai</option>
-                <option value="Khoái Châu">Khoái Châu</option>
-                <option value="Kiến An">Kiến An</option>
-                <option value="Long Biên">Long Biên</option>
-                <option value="Lương Sơn">Lương Sơn</option>
-                <option value="Nam Từ Liêm">Nam Từ Liêm</option>
-                <option value="Other">Other</option>
-                <option value="Quận 10">Quận 10</option>
-                <option value="Quận 12">Quận 12</option>
-                <option value="Quận 2">Quận 2</option>
-                <option value="Quận 7">Quận 7</option>
-                <option value="Quận 8">Quận 8</option>
-                <option value="Quế Võ">Quế Võ</option>
-                <option value="Quốc Oai">Quốc Oai</option>
-                <option value="Quy Nhơn">Quy Nhơn</option>
-                <option value="Tân An">Tân An</option>
-                <option value="Tân Bình">Tân Bình</option>
-                <option value="Tân Phú">Tân Phú</option>
-                <option value="Tây Hồ">Tây Hồ</option>
-                <option value="Thái Nguyên">Thái Nguyên</option>
-                <option value="Thanh Hóa">Thanh Hóa</option>
-                <option value="Thanh Xuân">Thanh Xuân</option>
-                <option value="Thủ Dầu Một">Thủ Dầu Một</option>
-                <option value="Thủ Đức">Thủ Đức</option>
-                <option value="Thuận An">Thuận An</option>
-                <option value="Triệu Sơn">Triệu Sơn</option>
-                <option value="Việt Trì">Việt Trì</option>
-                <option value="Vinh">Vinh</option>
+                <!-- Danh sách huyện sẽ được cập nhật động bằng JavaScript -->
             </select>
         </div>
         <div class="form-group">
@@ -185,6 +137,63 @@
     <div id="result"></div>
 
     <script>
+        // Ánh xạ tỉnh-huyện
+        const provinceToDistricts = {
+            'Bà Rịa Vũng Tàu': ['Bà Rịa'],
+            'Bình Dương': ['Thuận An', 'Dĩ An', 'Thủ Dầu Một'],
+            'Bình Phước': ['Đồng Phú'],
+            'Bình Định': ['Quy Nhơn'],
+            'Bắc Ninh': ['Bắc Ninh', 'Quế Võ'],
+            'Hà Nội': ['Nam Từ Liêm', 'Other', 'Cầu Giấy', 'Hà Đông', 'Đông Anh', 'Quốc Oai', 'Long Biên', 'Hoàng Mai', 'Thanh Xuân', 'Ba Đình', 'Hoàn Kiếm', 'Bắc Từ Liêm', 'Đống Đa', 'Tây Hồ'],
+            'Hà Tĩnh': ['Hà Tĩnh'],
+            'Hòa Bình': ['Lương Sơn'],
+            'Hưng Yên': ['Khoái Châu'],
+            'Hải Dương': ['Other', 'Hải Dương'],
+            'Hải Phòng': ['An Lão', 'Kiến An', 'Đồ Sơn'],
+            'Kon Tum': ['Đăk Hà'],
+            'Long An': ['Tân An'],
+            'Nghệ An': 'Vinh',
+            'Phú Thọ': ['Hạ Hòa', 'Đoan Hùng', 'Việt Trì'],
+            'Quảng Bình': ['Đồng Hới'],
+            'Thanh Hóa': ['Thanh Hóa', 'Triệu Sơn'],
+            'Thái Nguyên': ['Thái Nguyên'],
+            'Tp.HCM': ['Quận 10', 'Quận 7', 'Bình Tân', 'Thủ Đức', 'Bình Thạnh', 'Tân Phú', 'Gò Vấp', 'Hóc Môn', 'Tân Bình', 'Quận 12', 'Other', 'Quận 8', 'Quận 2'],
+            'Vĩnh Phúc': ['Phúc Yên'],
+            'Đồng Nai': ['Biên Hòa']
+        };
+
+        // Lắng nghe sự kiện thay đổi trên trường Province
+        document.getElementById('Province').addEventListener('change', function() {
+            const province = this.value;
+            const districtSelect = document.getElementById('District');
+            districtSelect.innerHTML = ''; // Xóa các tùy chọn hiện tại
+
+            // Lấy danh sách huyện tương ứng
+            const districts = provinceToDistricts[province] || [];
+
+            // Thêm các tùy chọn huyện
+            districts.forEach(district => {
+                const option = document.createElement('option');
+                option.value = district;
+                option.textContent = district;
+                districtSelect.appendChild(option);
+            });
+
+            // Nếu không có huyện, thêm tùy chọn mặc định
+            if (districts.length === 0) {
+                const option = document.createElement('option');
+                option.value = '';
+                option.textContent = 'No districts available';
+                option.disabled = true;
+                option.selected = true;
+                districtSelect.appendChild(option);
+            }
+        });
+
+        // Kích hoạt sự kiện change ngay khi tải trang để hiển thị huyện mặc định
+        document.getElementById('Province').dispatchEvent(new Event('change'));
+
+        // Xử lý submit form
         document.getElementById('predict-form').addEventListener('submit', async (e) => {
             e.preventDefault();
             const formData = new FormData(e.target);
