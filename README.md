@@ -1,12 +1,11 @@
 🚗 Car Price Prediction
-This project aims to build a machine learning model to predict car prices based on real-world listings collected from Vietnamese car marketplaces.
+This project focuses on building a machine learning model to estimate used car prices based on real-world listings from Vietnamese online marketplaces.
 
 📌 Objectives
-Collect real used car listings data via web scraping.
+Data Collection: Scraped real used car listings from popular Vietnamese car trading websites.
 
-Preprocess and clean the data, handling both categorical and numerical features.
+Data Cleaning & Exploration: Cleaned and preprocessed the dataset, handled categorical and numerical features, and used data visualization to gain insights.
 
-Train and evaluate machine learning models to estimate car prices.
+Model Training: Trained and fine-tuned machine learning models, achieving an R² score of 0.80 on the test set.
 
-(Optional) Deploy the model for demonstration or real use.
-
+Deployment: Deployed the model as an AI-powered chatbot using Flask, enabling users to input car details and receive instant price predictions.
