@@ -5,7 +5,7 @@ import numpy as np
 
 app = Flask(__name__)
 
-ridge_model = load("E:\\Pycode\\Project_code\\ML_git\\Car_price_prediction\\model\\ridge_model_1.joblib")
+rfr_model = load("E:\\Pycode\\Project_code\\ML_git\\Car_price_prediction\\model\\random_forest_model_1.joblib")
 ohe = load("E:\\Pycode\\Project_code\\ML_git\\Car_price_prediction\\model\\onehot_encoder.pkl")
 scaler = load("E:\\Pycode\\Project_code\\ML_git\\Car_price_prediction\\model\\scaler.pkl")
 
@@ -58,7 +58,7 @@ def predict():
         processed_data = pd.concat([scaled_numerical_df, encoded_categorical_df], axis=1)
 
 
-        prediction = ridge_model.predict(processed_data)[0]
+        prediction = rfr_model.predict(processed_data)[0]
 
         return jsonify({'prediction': round(prediction, 2)})
     except Exception as e:
