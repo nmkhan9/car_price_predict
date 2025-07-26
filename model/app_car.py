@@ -10,8 +10,12 @@ ohe = load("E:\\Pycode\\Project_code\\ML_git\\Car_price_prediction\\model\\oneho
 scaler = load("E:\\Pycode\\Project_code\\ML_git\\Car_price_prediction\\model\\scaler.pkl")
 
 
-categorical_cols = ['Body_Type', 'Origin', 'Province', 'District', 'Transmission', 'Fuel_Type', 'Brand']
-numerical_cols = ['age', 'mileage_num']  
+categorical_cols = list(ohe.feature_names_in_)
+numerical_cols = list(scaler.feature_names_in_) 
+
+
+print("OneHotEncoder feature names:", ohe.feature_names_in_)
+print("Scaler feature names:", scaler.feature_names_in_)
 
 @app.route('/')
 def home():
@@ -20,25 +24,36 @@ def home():
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
- 
+    
+        required_fields = categorical_cols + numerical_cols
+        for field in required_fields:
+            if field not in request.form:
+                return jsonify({'error': f'Thiếu trường: {field}'}), 400
+
+    
+        try:
+            age = float(request.form['age'])
+            mileage = float(request.form['mileage'])
+        except ValueError:
+            return jsonify({'error': 'Tuổi xe hoặc số km không hợp lệ'}), 400
+
+   
         data = {
-            'Body_Type': request.form['Body_Type'],
-            'Origin': request.form['Origin'],
-            'Province': request.form['Province'],
-            'District': request.form['District'],
-            'Transmission': request.form['Transmission'],
-            'Fuel_Type': request.form['Fuel_Type'],
-            'Brand': request.form['Brand'],
-            'age': float(request.form['age']),
-            'mileage_num': float(request.form['mileage_num'])
+            'status': request.form['status'],
+            'origin': request.form['origin'],
+            'fuel_type': request.form['fuel_type'],
+            'body_type': request.form['body_type'],
+            'brand': request.form['brand'],
+            'age': age,
+            'mileage': mileage
         }
 
         input_df = pd.DataFrame([data])
 
-     
-        input_df = input_df[numerical_cols + categorical_cols] 
+    
+        input_df = input_df[numerical_cols + categorical_cols]
 
-
+    
         encoded_categorical = ohe.transform(input_df[categorical_cols])
         encoded_categorical_df = pd.DataFrame(
             encoded_categorical,
@@ -46,7 +61,7 @@ def predict():
             index=input_df.index
         )
 
-      
+
         scaled_numerical = scaler.transform(input_df[numerical_cols])
         scaled_numerical_df = pd.DataFrame(
             scaled_numerical,
@@ -54,9 +69,7 @@ def predict():
             index=input_df.index
         )
 
-   
         processed_data = pd.concat([scaled_numerical_df, encoded_categorical_df], axis=1)
-
 
         prediction = rfr_model.predict(processed_data)[0]
 

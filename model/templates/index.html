@@ -7,13 +7,13 @@
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        /* Tùy chỉnh thêm */
         .form-group select, .form-group input {
             transition: all 0.3s ease;
         }
         .form-group select:focus, .form-group input:focus {
             outline: none;
-            ring: 2px solid #10B981;
+            border-color: #10B981;
+            box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2);
         }
     </style>
 </head>
@@ -22,132 +22,95 @@
         <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">Dự đoán giá xe</h1>
         <form id="predict-form" class="space-y-4">
             <div class="form-group">
-                <label for="Body_Type" class="block text-sm font-medium text-gray-700">Kiểu thân xe</label>
-                <select name="Body_Type" id="Body_Type" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500">
-                    <option value="" disabled selected>Chọn kiểu thân xe</option>
-                    <option value="Bán tải">Bán tải</option>
-                    <option value="Convertible">Convertible</option>
-                    <option value="Coupe">Coupe</option>
-                    <option value="Crossover">Crossover</option>
-                    <option value="Hatchback">Hatchback</option>
-                    <option value="Minibus">Minibus</option>
-                    <option value="MPV">MPV</option>
-                    <option value="Other">Khác</option>
-                    <option value="Sedan">Sedan</option>
-                    <option value="Sport Car">Sport Car</option>
-                    <option value="SUV">SUV</option>
-                    <option value="Van/Minivan">Van/Minivan</option>
-                    <option value="Xe tải">Xe tải</option>
+                <label for="status" class="block text-sm font-medium text-gray-700">Tình trạng xe</label>
+                <select name="status" id="status" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500">
+                    <option value="" disabled selected>Chọn tình trạng xe</option>
+                    <option value="Xe cũ">Xe cũ</option>
+                    <option value="Xe mới">Xe mới</option>
                 </select>
             </div>
             <div class="form-group">
-                <label for="Origin" class="block text-sm font-medium text-gray-700">Xuất xứ</label>
-                <select name="Origin" id="Origin" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500">
+                <label for="origin" class="block text-sm font-medium text-gray-700">Xuất xứ</label>
+                <select name="origin" id="origin" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500">
                     <option value="" disabled selected>Chọn xuất xứ</option>
+                    <option value="Trong nước">Trong nước</option>
                     <option value="Nhập khẩu">Nhập khẩu</option>
                     <option value="Other">Khác</option>
-                    <option value="Trong nước">Trong nước</option>
                 </select>
             </div>
             <div class="form-group">
-                <label for="Province" class="block text-sm font-medium text-gray-700">Tỉnh/Thành phố</label>
-                <select name="Province" id="Province" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500">
-                    <option value="" disabled selected>Chọn Tỉnh/Thành phố</option>
-                    <option value="Bà Rịa Vũng Tàu">Bà Rịa Vũng Tàu</option>
-                    <option value="Bắc Giang">Bắc Giang</option>
-                    <option value="Bắc Ninh">Bắc Ninh</option>
-                    <option value="Bình Dương">Bình Dương</option>
-                    <option value="Bình Phước">Bình Phước</option>
-                    <option value="Bình Định">Bình Định</option>
-                    <option value="Cần Thơ">Cần Thơ</option>
-                    <option value="Đà Nẵng">Đà Nẵng</option>
-                    <option value="Đắk Lắk">Đắk Lắk</option>
-                    <option value="Đồng Nai">Đồng Nai</option>
-                    <option value="Đồng Tháp">Đồng Tháp</option>
-                    <option value="Gia Lai">Gia Lai</option>
-                    <option value="Hà Nội">Hà Nội</option>
-                    <option value="Hà Tĩnh">Hà Tĩnh</option>
-                    <option value="Hải Dương">Hải Dương</option>
-                    <option value="Hải Phòng">Hải Phòng</option>
-                    <option value="Hòa Bình">Hòa Bình</option>
-                    <option value="Hưng Yên">Hưng Yên</option>
-                    <option value="Kon Tum">Kon Tum</option>
-                    <option value="Lâm Đồng">Lâm Đồng</option>
-                    <option value="Lạng Sơn">Lạng Sơn</option>
-                    <option value="Long An">Long An</option>
-                    <option value="Nam Định">Nam Định</option>
-                    <option value="Nghệ An">Nghệ An</option>
-                    <option value="Ninh Bình">Ninh Bình</option>
-                    <option value="Phú Thọ">Phú Thọ</option>
-                    <option value="Phú Yên">Phú Yên</option>
-                    <option value="Quảng Bình">Quảng Bình</option>
-                    <option value="Quảng Nam">Quảng Nam</option>
-                    <option value="Quảng Ninh">Quảng Ninh</option>
-                    <option value="Thái Bình">Thái Bình</option>
-                    <option value="Thái Nguyên">Thái Nguyên</option>
-                    <option value="Thanh Hóa">Thanh Hóa</option>
-                    <option value="Tp.HCM">Tp.HCM</option>
-                    <option value="Vĩnh Phúc">Vĩnh Phúc</option>
+                <label for="fuel_type" class="block text-sm font-medium text-gray-700">Loại nhiên liệu</label>
+                <select name="fuel_type" id="fuel_type" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500">
+                    <option value="" disabled selected>Chọn loại nhiên liệu</option>
+                    <option value="xăng">Xăng</option>
+                    <option value="dầu">Dầu</option>
+                    <option value="khác">Khác</option>
+                    <option value="điện">Điện</option>
+                    <option value="hybrid">Hybrid</option>
                 </select>
             </div>
             <div class="form-group">
-                <label for="District" class="block text-sm font-medium text-gray-700">Quận/Huyện</label>
-                <select name="District" id="District" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500">
-                    <option value="" disabled selected>Chọn Quận/Huyện</option>
+                <label for="body_type" class="block text-sm font-medium text-gray-700">Kiểu thân xe</label>
+                <select name="body_type" id="body_type" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500">
+                    <option value="" disabled selected>Chọn kiểu thân xe</option>
+                    <option value="Khác">Khác</option>
+                    <option value="Crossover">Crossover</option>
+                    <option value="SUV">SUV</option>
+                    <option value="Sedan">Sedan</option>
+                    <option value="Bán tải">Bán tải</option>
+                    <option value="MPV">MPV</option>
+                    <option value="Hatchback">Hatchback</option>
+                    <option value="Xe tải">Xe tải</option>
+                    <option value="Coupe">Coupe</option>
+                    <option value="Convertible">Convertible</option>
                 </select>
             </div>
             <div class="form-group">
-                <label for="Transmission" class="block text-sm font-medium text-gray-700">Hộp số</label>
-                <select name="Transmission" id="Transmission" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500">
-                    <option value="" disabled selected>Chọn Hộp số</option>
-                    <option value="Số hỗn hợp">Số hỗn hợp</option>
-                    <option value="Số sàn">Số sàn</option>
-                    <option value="Số tự động">Số tự động</option>
-                </select>
-            </div>
-            <div class="form-group">
-                <label for="Fuel_Type" class="block text-sm font-medium text-gray-700">Loại nhiên liệu</label>
-                <select name="Fuel_Type" id="Fuel_Type" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500">
-                    <option value="" disabled selected>Chọn Loại nhiên liệu</option>
-                    <option value="Điện">Điện</option>
-                    <option value="Hybrid">Hybrid</option>
-                    <option value="Máy dầu">Máy dầu</option>
-                    <option value="Máy xăng">Máy xăng</option>
-                </select>
-            </div>
-            <div class="form-group">
-                <label for="Brand" class="block text-sm font-medium text-gray-700">Hãng xe</label>
-                <select name="Brand" id="Brand" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500">
-                    <option value="" disabled selected>Chọn Hãng xe</option>
-                    <option value="Audi">Audi</option>
-                    <option value="BMW">BMW</option>
-                    <option value="Chevrolet">Chevrolet</option>
-                    <option value="Daewoo">Daewoo</option>
-                    <option value="Dongben">Dongben</option>
-                    <option value="FAW">FAW</option>
-                    <option value="Ford">Ford</option>
-                    <option value="Honda">Honda</option>
-                    <option value="Hyundai">Hyundai</option>
-                    <option value="Isuzu">Isuzu</option>
+                <label for="brand" class="block text-sm font-medium text-gray-700">Hãng xe</label>
+                <select name="brand" id="brand" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500">
+                    <option value="" disabled selected>Chọn hãng xe</option>
+                    <option value="Mercedes">Mercedes</option>
                     <option value="Kia">Kia</option>
-                    <option value="Land">Land</option>
-                    <option value="Lexus">Lexus</option>
+                    <option value="Ford">Ford</option>
                     <option value="Mazda">Mazda</option>
-                    <option value="Mercedes-Benz">Mercedes-Benz</option>
-                    <option value="MG">MG</option>
-                    <option value="Mini">Mini</option>
                     <option value="Mitsubishi">Mitsubishi</option>
-                    <option value="Nissan">Nissan</option>
-                    <option value="Peugeot">Peugeot</option>
-                    <option value="Porsche">Porsche</option>
-                    <option value="Subaru">Subaru</option>
-                    <option value="Suzuki">Suzuki</option>
-                    <option value="Teraco">Teraco</option>
                     <option value="Toyota">Toyota</option>
+                    <option value="Nissan">Nissan</option>
+                    <option value="Hyundai">Hyundai</option>
+                    <option value="Suzuki">Suzuki</option>
                     <option value="VinFast">VinFast</option>
-                    <option value="Volkswagen">Volkswagen</option>
+                    <option value="Chevrolet">Chevrolet</option>
+                    <option value="Honda">Honda</option>
+                    <option value="BMW">BMW</option>
+                    <option value="Lexus">Lexus</option>
+                    <option value="Peugeot">Peugeot</option>
+                    <option value="Subaru">Subaru</option>
+                    <option value="Audi">Audi</option>
+                    <option value="Land">Land</option>
+                    <option value="MG">MG</option>
+                    <option value="BYD">BYD</option>
+                    <option value="Mini">Mini</option>
                     <option value="Volvo">Volvo</option>
-                    <option value="Zotye">Zotye</option>
+                    <option value="Volkswagen">Volkswagen</option>
+                    <option value="Isuzu">Isuzu</option>
+                    <option value="Teraco">Teraco</option>
+                    <option value="Porsche">Porsche</option>
+                    <option value="FAW">FAW</option>
+                    <option value="Chrysler">Chrysler</option>
+                    <option value="Daewoo">Daewoo</option>
+                    <option value="Citroen">Citroen</option>
+                    <option value="Omoda">Omoda</option>
+                    <option value="Ssangyong">Ssangyong</option>
+                    <option value="Jaecoo">Jaecoo</option>
+                    <option value="LandRover">LandRover</option>
+                    <option value="Acura">Acura</option>
+                    <option value="Wuling">Wuling</option>
+                    <option value="Jaguar">Jaguar</option>
+                    <option value="GAC">GAC</option>
+                    <option value="Skoda">Skoda</option>
+                    <option value="Cadillac">Cadillac</option>
+                    <option value="Gaz">Gaz</option>
+                    <option value="Luxgen">Luxgen</option>
                 </select>
             </div>
             <div class="form-group">
@@ -155,8 +118,8 @@
                 <input type="number" name="age" id="age" step="0.1" min="0" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500" placeholder="Nhập tuổi xe (ví dụ: 2.5)">
             </div>
             <div class="form-group">
-                <label for="mileage_num" class="block text-sm font-medium text-gray-700">Số km đã đi</label>
-                <input type="number" name="mileage_num" id="mileage_num" min="0" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500" placeholder="Nhập số km (ví dụ: 45000)">
+                <label for="mileage" class="block text-sm font-medium text-gray-700">Số km đã đi</label>
+                <input type="number" name="mileage" id="mileage" min="0" required class="mt-1 block w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-emerald-500" placeholder="Nhập số km (ví dụ: 45000)">
             </div>
             <button type="submit" class="w-full bg-emerald-500 text-white font-semibold py-2 px-4 rounded-md hover:bg-emerald-600 transition duration-300">Dự đoán giá</button>
         </form>
@@ -164,72 +127,17 @@
     </div>
 
     <script>
-        // Ánh xạ tỉnh-huyện
-        const provinceToDistricts = {
-            'Bà Rịa Vũng Tàu': ['Bà Rịa', 'Long Điền', 'Other', 'Phú Mỹ'],
-            'Bình Dương': ['Bến Cát', 'Dĩ An', 'Other', 'Thuận An', 'Thủ Dầu Một'],
-            'Bình Phước': ['Đồng Phú', 'Đồng Xoài', 'Other'],
-            'Bình Định': ['Quy Nhơn'],
-            'Bắc Giang': ['Hiệp Hòa'],
-            'Bắc Ninh': ['Bắc Ninh', 'Gia Bình', 'Quế Võ', 'Thuận Thành'],
-            'Cần Thơ': ['Đầm Dơi', 'Other'],
-            'Gia Lai': ['Plei Ku'],
-            'Hà Nội': ['Ba Đình', 'Ba Vì', 'Bắc Từ Liêm', 'Cầu Giấy', 'Đông Anh', 'Đống Đa', 'Gia Lâm', 'Hà Đông', 'Hoàn Kiếm', 'Hoàng Mai', 'Long Biên', 'Nam Từ Liêm', 'Other', 'Quốc Oai', 'Sóc Sơn', 'Tây Hồ', 'Thanh Trì', 'Thanh Xuân'],
-            'Hà Tĩnh': ['Hà Tĩnh'],
-            'Hòa Bình': ['Cao Phong', 'Lương Sơn', 'Other'],
-            'Hưng Yên': ['Khoái Châu', 'Văn Giang'],
-            'Hải Dương': ['Bình Giang', 'Hải Dương', 'Other'],
-            'Hải Phòng': ['An Lão', 'Đồ Sơn', 'Kiến An', 'Lê Chân', 'Ngô Quyền', 'Other'],
-            'Kon Tum': ['Đăk Hà'],
-            'Long An': ['Tân An'],
-            'Lâm Đồng': ['Bảo Lộc', 'Di Linh', 'Other'],
-            'Lạng Sơn': ['Lạng Sơn'],
-            'Nam Định': ['Giao Thủy', 'Nam Định'],
-            'Nghệ An': ['Other', 'Vinh'],
-            'Ninh Bình': ['Gia Viễn', 'Other'],
-            'Phú Thọ': ['Đoan Hùng', 'Hạ Hòa', 'Other', 'Việt Trì'],
-            'Phú Yên': ['Đông Hòa'],
-            'Quảng Bình': ['Đồng Hới'],
-            'Quảng Nam': ['Other'],
-            'Quảng Ninh': ['Ba Chẽ', 'Đông Triều'],
-            'Thanh Hóa': ['Đông Sơn', 'Other', 'Thanh Hóa', 'Triệu Sơn'],
-            'Thái Bình': ['Thái Bình'],
-            'Thái Nguyên': ['Thái Nguyên'],
-            'Tp.HCM': ['Bình Chánh', 'Bình Tân', 'Bình Thạnh', 'Gò Vấp', 'Hóc Môn', 'Other', 'Quận 10', 'Quận 12', 'Quận 2', 'Quận 6', 'Quận 7', 'Quận 8', 'Quận 9', 'Tân Bình', 'Tân Phú', 'Thủ Đức'],
-            'Vĩnh Phúc': ['Other', 'Phúc Yên', 'Vĩnh Yên'],
-            'Đà Nẵng': ['Cẩm Lệ', 'Hải Châu', 'Other'],
-            'Đắk Lắk': ['Buôn Đôn', 'Other'],
-            'Đồng Nai': ['Biên Hòa', 'Định Quán', 'Long Thành', 'Other'],
-            'Đồng Tháp': ['Sa Đéc']
-        };
-
-        // Lắng nghe sự kiện thay đổi trên trường Province
-        document.getElementById('Province').addEventListener('change', function() {
-            const province = this.value;
-            const districtSelect = document.getElementById('District');
-            districtSelect.innerHTML = '<option value="" disabled selected>Chọn Quận/Huyện</option>';
-
-            // Lấy danh sách huyện tương ứng và sắp xếp theo thứ tự bảng chữ cái
-            const districts = (provinceToDistricts[province] || []).sort();
-
-            // Thêm các tùy chọn huyện
-            districts.forEach(district => {
-                const option = document.createElement('option');
-                option.value = district;
-                option.textContent = district;
-                districtSelect.appendChild(option);
-            });
-        });
-
-        // Kích hoạt sự kiện change ngay khi tải trang để hiển thị huyện mặc định
-        document.getElementById('Province').dispatchEvent(new Event('change'));
-
-        // Xử lý submit form
         document.getElementById('predict-form').addEventListener('submit', async (e) => {
             e.preventDefault();
             const resultDiv = document.getElementById('result');
             resultDiv.innerHTML = 'Đang dự đoán...';
             const formData = new FormData(e.target);
+            
+            // Debug: In dữ liệu form
+            for (let [key, value] of formData.entries()) {
+                console.log(`${key}: ${value}`);
+            }
+            
             try {
                 const response = await fetch('/predict', {
                     method: 'POST',
@@ -237,7 +145,7 @@
                 });
                 const result = await response.json();
                 if (result.prediction) {
-                    resultDiv.innerHTML = `Giá dự đoán: ${result.prediction.toLocaleString()} VND`;
+                    resultDiv.innerHTML = `Giá dự đoán: ${result.prediction.toLocaleString('vi-VN')} VND`;
                     resultDiv.classList.remove('text-red-500');
                     resultDiv.classList.add('text-green-600');
                 } else {
@@ -246,7 +154,7 @@
                     resultDiv.classList.add('text-red-500');
                 }
             } catch (error) {
-                resultDiv.innerHTML = `Lỗi: Không thể lấy kết quả dự đoán`;
+                resultDiv.innerHTML = `Lỗi: Không thể lấy kết quả dự đoán - ${error.message}`;
                 resultDiv.classList.remove('text-green-600');
                 resultDiv.classList.add('text-red-500');
             }
