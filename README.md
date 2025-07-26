@@ -90,25 +90,29 @@ After hyperparameter tuning:
 ---
 
 ## 📁 Project Structure
+
+```
 CAR_PRICE_PREDICTION/
-├── data/                          # Raw and cleaned datasets
-│   ├── cars_data.csv              # Raw data from oto.com.vn
-│   ├── cars_data2.csv             # Raw data from bonbanh.com
-│   ├── data_cleaned.csv           # Cleaned dataset used for modeling
-│   └── Crawl_data.ipynb           # Web scraping notebook
-
-├── notebooks/                     # Notebooks for analysis and modeling
-│   ├── clean_data.ipynb           # Data cleaning & feature engineering
-│   ├── train_model.ipynb          # Model training and evaluation
-│   └── visualization.ipynb        # Exploratory Data Analysis (EDA)
-
-├── model/                         # Trained models and encoders
+├── data/                        # Raw and cleaned datasets
+│   ├── cars_data.csv            # Raw data from oto.com.vn
+│   ├── cars_data2.csv           # Raw data from bonbanh.com
+│   ├── data_cleaned.csv         # Cleaned dataset used for modeling
+│   └── Crawl_data.ipynb         # Web scraping notebook
+│
+├── notebooks/                   # Notebooks for analysis and modeling
+│   ├── clean_data.ipynb         # Data cleaning & feature engineering
+│   ├── train_model.ipynb        # Model training and evaluation
+│   └── visualization.ipynb      # Exploratory Data Analysis (EDA)
+│
+├── model/                       # Trained models and encoders
 │   ├── random_forest_model_1.joblib  # Trained Random Forest model
-│   ├── onehot_encoder.pkl         # Encoder for categorical variables
-│   ├── scaler.pkl                 # Scaler for numerical features
-│   ├── app_car.py                     # Flask app to run the prediction chatbot
+│   ├── onehot_encoder.pkl       # Encoder for categorical variables
+│   ├── scaler.pkl               # Scaler for numerical features
+│   ├── app_car.py               # Flask app to run the prediction chatbot
 │   └── templates/
-│       └── index.html             # Frontend for Flask chatbot app
+│       └── index.html           # Frontend for Flask chatbot app
+│
+├── requirements.txt             # Python dependencies
+└── README.md                    # Project documentation
+```
 
-├── requirements.txt               # Python dependencies
-├── README.md                      # Project documentation
