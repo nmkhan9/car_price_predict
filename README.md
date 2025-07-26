@@ -112,6 +112,10 @@ CAR_PRICE_PREDICTION/
 │   └── templates/
 │       └── index.html           # Frontend for Flask chatbot app
 │
+├── app/                         # Chatbot app
+│   ├── app_car.py               # Flask app to run the prediction chatbot
+│   └── templates/
+│       └── index.html           # Frontend for Flask chatbot app
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project documentation
 ```
