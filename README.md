@@ -96,19 +96,14 @@ A comparison of regression models:
 
 ---
 
-## ⚙️ How to Run  
+## 📌 Reporting & Visualization  
+- Power BI Dashboard: Cars-Insights.pbix
+- PDF Report: Cars-Insights.pdf
 
-```bash
-# Install dependencies
-pip install -r requirements.txt
+---
 
-# Run Flask app
-python app/app_car.py
-
-
-## 📁 Project Structure
-
-```
+## 📁 Project Structure  
+```plaintext
 CAR_PRICE_PREDICTION/
 ├── app/                         # Chatbot application
 │   ├── templates/               # Frontend UI
@@ -132,20 +127,13 @@ CAR_PRICE_PREDICTION/
 │   └── visualization.ipynb
 │
 ├── power-bi/                    # Visualization reports
+│   ├── Cars-Insights.pbix   # Power BI Dashboard
 │   └── report/
-│       ├── Cars-Insights.pdf
-│       └── Cars-Insights.pbix
+│       └── Cars-Insights.pdf
+│       └── Cars-Insights.pbix   # Power BI Dashboard
 │
 ├── config.py                    # App & Database configuration
 ├── requirements.txt             # Python dependencies
 ├── runtime.txt                  # Runtime version
 ├── README.md                    # Project documentation
 └── .env                         # Database credentials (gitignored)
-
-```
-
-
-## 📌 Reporting & Visualization  
-- Power BI Dashboard: **Cars-Insights.pbix**  
-- PDF Report: **Cars-Insights.pdf**  
-
