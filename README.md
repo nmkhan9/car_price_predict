@@ -1,122 +1,151 @@
-# 🚗 Used Car Price Prediction in Vietnam
+# 🚗 Used Car Price Prediction in Vietnam  
 
-A complete **machine learning pipeline** to estimate the price of used cars based on real-world data scraped from popular Vietnamese e-commerce platforms for vehicles.
+A complete machine learning pipeline to estimate the price of used (and new) cars based on real-world data scraped from popular Vietnamese online car marketplaces.  
 
-This project includes **data scraping, cleaning, exploratory analysis, model training, and deployment via a Flask-based chatbot**.
-
----
-
-## 📌 Project Overview
-
-**Objective**: Predict a fair selling price for used cars listed on online marketplaces in Vietnam.
-
-**Real-World Applications**:
-- Help users estimate a reasonable price before posting their vehicles.
-- Assist car dealerships and platforms in detecting over/underpriced listings.
-
-**Data Sources**:
-- [oto.com.vn/mua-ban-xe](https://oto.com.vn/mua-ban-xe) — ~1,490 listings
-- [bonbanh.com/oto](https://bonbanh.com/oto) — ~2,851 listings
-
-**Technologies Used**:
-- Python, pandas, scikit-learn, Seaborn, BeautifulSoup
-- Flask (for chatbot deployment)
-- ChatGPT-assisted pipeline building
+This project covers the entire workflow: **data collection → storage in Database → cleaning → exploratory analysis → model training → deployment via a Flask-based chatbot**.  
 
 ---
 
-## 📊 Data Summary
+## 📌 Project Overview  
+**Objective:**  
+- Predict a fair selling price for cars listed on Vietnamese e-commerce platforms.  
 
-- **Total records after cleaning**: 3,557 cars  
-- **Number of features**: 10  
-- **Key features**: car name, price, year, condition, origin, mileage, fuel type, body type, brand, vehicle age
+**Real-World Applications:**  
+- Help users estimate a reasonable price before buying or selling a car.  
+- Assist dealerships and platforms in detecting overpriced or underpriced listings.  
 
----
+**Data Sources:**  
+- [oto.com.vn](https://oto.com.vn/mua-ban-xe) — ~1,490 listings  
+- [bonbanh.com](https://bonbanh.com/oto) — ~2,906 listings  
 
-## 🔧 Data Processing Pipeline
-
-### 1. Data Collection
-- Web scraping was conducted on two vehicle trading platforms.
-- Each record includes details like name, price, brand, mileage, fuel type, etc.
-- Data was saved as `.csv` files for easy reuse.
-
-### 2. Data Cleaning & Preprocessing
-- Removed records with missing price, year, or mileage.
-- Duplicates and outliers were dropped using statistical methods.
-- Applied log transformation to reduce skewness on numeric fields.
-- Encoded categorical variables like brand and fuel type.
-- Created a new feature: **vehicle age** for better prediction accuracy.
-
-### 3. Exploratory Data Analysis (EDA)
-- Visualized relationships between price, mileage, year, and brand.
-- Correlation heatmaps used to explore variable dependencies.
+**Technologies Used:**  
+- Python, pandas, scikit-learn, seaborn, matplotlib  
+- BeautifulSoup (web scraping)  
+- PostgreSQL (Database for storage)  
+- Power BI (EDA & reporting)  
+- Flask (chatbot deployment)  
+- ChatGPT (pipeline building assistance)  
 
 ---
 
-## 🤖 Model Training & Evaluation
+## 📊 Data Summary  
+- **Total records after cleaning:** 3,592 cars  
+- **Number of features:** 10  
 
-A comparison of multiple regression models was conducted:
-
-| Model              | R² Score | RMSE (VND)     |
-|-------------------|----------|----------------|
-| Linear Regression | 0.6779   | 189 million    |
-| Ridge Regression  | 0.6809   | 188 million    |
-| Lasso Regression  | 0.6784   | 189 million    |
-| Random Forest     | **0.8255** | **139 million** |
-
-**Random Forest** provided the best results thanks to its robustness to non-linear data and noise.
-
-After hyperparameter tuning:
-- **Train R² Score**: 0.9289  
-- **Test R² Score**: 0.8320  
-- **Cross-Validation (5-fold) R² Mean**: 0.7902
-
----
-
-## 🖥️ Deployment
-
-- Built a simple chatbot using Flask.
-- Users input car information (brand, year, mileage, condition...) and receive a price estimate.
-- Lightweight frontend, ready for API integration or scaling.
+| Column     | Data Type | Description |
+|------------|-----------|-------------|
+| name       | object    | Car name |
+| price      | int64     | Price (VND) |
+| year       | int32     | Year of manufacture |
+| body_type  | object    | Body type |
+| status     | object    | Condition (new/used) |
+| origin     | object    | Origin |
+| mileage    | float64   | Mileage (km) |
+| fuel_type  | object    | Fuel type |
+| brand      | object    | Brand |
+| age        | int32     | Vehicle age (2025 - year) |
 
 ---
 
-## ⚙️ How to Use
+## 🔧 Data Processing Pipeline  
 
-1. Install required libraries from `requirements.txt`
-2. Run the Flask app locally.
-3. Open your browser and visit `localhost` to start the chatbot.
+### 1. Data Collection  
+- Web scraping from the two marketplaces.  
+- Data stored in a **PostgreSQL Database** for easy reuse.  
+
+### 2. Data Cleaning & Preprocessing  
+- Retrieve data from the **Database**.  
+- Remove records with missing price, year, or mileage.  
+- Drop duplicates and outliers using statistical methods.  
+- Apply **log transformation** to reduce skewness in numeric fields.  
+- Encode categorical variables using OneHotEncoder.  
+- Create a new feature: **vehicle age**.  
+- Store the cleaned dataset back into the **Database**.  
+
+### 3. Exploratory Data Analysis (EDA)  
+- Combined **Power BI** dashboards with **Seaborn/Matplotlib** visualizations.  
+- Analyzed pricing trends by brand, age, mileage, etc.  
+- Used heatmaps to explore feature correlations.  
 
 ---
+
+## 🤖 Model Training & Evaluation  
+
+A comparison of regression models:  
+
+| Model             | R² Score | RMSE (VND)        |
+|-------------------|----------|------------------|
+| Linear Regression | 0.6756   | 183,166,563.06   |
+| Ridge Regression  | 0.6842   | 180,733,663.38   |
+| Lasso Regression  | 0.6763   | 182,962,184.19   |
+| Random Forest     | 0.8127   | 139,168,949.55   |
+
+**After hyperparameter tuning:**  
+- Train R²: 0.9340  
+- Test R²: 0.8168  
+- Cross-Validation (5-fold) Mean R²: 0.8014  
+
+👉 **Random Forest** delivered the best performance.  
+
+---
+
+## 🖥️ Deployment  
+- Built a lightweight chatbot with Flask.  
+- Users enter car details (brand, year, mileage, condition, etc.) and receive a predicted price.  
+- Frontend ready for API integration or scaling.  
+
+---
+
+## ⚙️ How to Run  
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run Flask app
+python app/app_car.py
+
 
 ## 📁 Project Structure
 
 ```
 CAR_PRICE_PREDICTION/
-├── data/                        # Raw and cleaned datasets
-│   ├── cars_data.csv            # Raw data from oto.com.vn
-│   ├── cars_data2.csv           # Raw data from bonbanh.com
-│   ├── data_cleaned.csv         # Cleaned dataset used for modeling
-│   └── Crawl_data.ipynb         # Web scraping notebook
+├── app/                         # Chatbot application
+│   ├── templates/               # Frontend UI
+│   │   └── index.html
+│   └── app_car.py               # Flask app
 │
-├── notebooks/                   # Notebooks for analysis and modeling
-│   ├── clean_data.ipynb         # Data cleaning & feature engineering
-│   ├── train_model.ipynb        # Model training and evaluation
-│   └── visualization.ipynb      # Exploratory Data Analysis (EDA)
+├── data/                        # Raw and cleaned data
+│   ├── cars_data.csv
+│   ├── cars_data2.csv
+│   └── data_cleaned.csv
 │
 ├── model/                       # Trained models and encoders
-│   ├── random_forest_model_1.joblib  # Trained Random Forest model
-│   ├── onehot_encoder.pkl       # Encoder for categorical variables
-│   ├── scaler.pkl               # Scaler for numerical features
-│   ├── app_car.py               # Flask app to run the prediction chatbot
-│   └── templates/
-│       └── index.html           # Frontend for Flask chatbot app
+│   ├── random_forest_model_1.joblib
+│   ├── onehot_encoder.pkl
+│   └── scaler.pkl
 │
-├── app/                         # Chatbot app
-│   ├── app_car.py               # Flask app to run the prediction chatbot
-│   └── templates/
-│       └── index.html           # Frontend for Flask chatbot app
+├── notebooks/                   # Analysis & training notebooks
+│   ├── clean_data.ipynb
+│   ├── crawl_data.ipynb
+│   ├── train_model.ipynb
+│   └── visualization.ipynb
+│
+├── power-bi/                    # Visualization reports
+│   └── report/
+│       ├── Cars-Insights.pdf
+│       └── Cars-Insights.pbix
+│
+├── config.py                    # App & Database configuration
 ├── requirements.txt             # Python dependencies
-└── README.md                    # Project documentation
+├── runtime.txt                  # Runtime version
+├── README.md                    # Project documentation
+└── .env                         # Database credentials (gitignored)
+
 ```
+
+
+## 📌 Reporting & Visualization  
+- Power BI Dashboard: **Cars-Insights.pbix**  
+- PDF Report: **Cars-Insights.pdf**  
 
