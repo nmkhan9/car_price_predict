@@ -1,0 +1,6 @@
+﻿index,name,price,origin,mileage,brand,status,year,fuel_type,body_type,age
+0,Mazda 3 1.5 AT 2015,535000000,Other,1.0,Mazda,Xe cũ,2015,xăng,Hatchback,10
+1,Transit limo 10 chỗ siêu lướt chỉ 3000km,1150000000,Trong nước,3000.0,Ford,Xe cũ,2024,dầu,Xe tải,1
+3,Mitsubishi Pajero Sport 2015 D 4x2 MT - 95000 km,335000000,Nhập khẩu,95000.0,Mitsubishi,Xe cũ,2015,dầu,Crossover,10
+4,Toyota Vios 2014 1.5G - 43000 km siêu cọp,315000000,Trong nước,43000.0,Toyota,Xe cũ,2014,xăng,Sedan,11
+5,Mercesdes GLC300 AMG,1188000000,Other,98000.0,Mercedes,Xe cũ,2019,xăng,Crossover,6
