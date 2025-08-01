@@ -1,6 +1,0 @@
-﻿id,name,price,year,body_type,status,origin,mileage,fuel_type,brand,age
-1,Toyota Fortuner 2.4G 4x2 AT  2017,525000000,2017,SUV,Xe cũ,Nhập khẩu,135.0,dầu,Toyota,8
-2,Suzuki Swift 1.4 AT 2013,269000000,2013,Hatchback,Xe cũ,Nhập khẩu,132000.0,xăng,Suzuki,12
-3,Hyundai Stargazer 1.5 AT Cao cấp 2022,455000000,2022,MPV,Xe cũ,Nhập khẩu,72000.0,xăng,Hyundai,3
-4,Nissan X trail 2018,465000000,2018,SUV,Xe cũ,Trong nước,110000.0,xăng,Nissan,7
-5,Mazda 3 Sedan 1.5L Luxury 2016,360000000,2016,Sedan,Xe cũ,Nhập khẩu,79000.0,xăng,Mazda,9
