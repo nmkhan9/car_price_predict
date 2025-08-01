@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 from sqlalchemy import create_engine
 
-load_dotenv(dotenv_path=os.path.join(".env"))
+load_dotenv(dotenv_path=os.path.join(".env"), override=True)
 
 # Proxy
 PROXY_USER = os.getenv("PROXY_USER")
